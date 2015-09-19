@@ -594,6 +594,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_COMMA">
+      <value />
+    </option>
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="6699cc" />
@@ -604,6 +607,9 @@
       <value>
         <option name="FOREGROUND" value="f99157" />
       </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value />
     </option>
     <option name="DEFAULT_STRING">
       <value>

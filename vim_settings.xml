@@ -33,12 +33,12 @@
         <mark key="." line="114" column="61" />
         <mark key="^" line="114" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1442684273387">
-        <mark key="'" line="56" column="16" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="68" column="13" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1442686779706">
+        <mark key="'" line="57" column="16" />
+        <mark key="[" line="85" column="10" />
+        <mark key="]" line="85" column="10" />
+        <mark key="." line="85" column="10" />
+        <mark key="^" line="82" column="64" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" timestamp="1442681033601">
         <mark key="[" line="140" column="50" />
@@ -62,12 +62,12 @@
         <mark key="^" line="31" column="99" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1442681861053">
+      <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1442686381352">
         <mark key="'" line="46" column="50" />
-        <mark key="[" line="75" column="30" />
-        <mark key="]" line="75" column="31" />
-        <mark key="." line="75" column="31" />
-        <mark key="^" line="75" column="31" />
+        <mark key="[" line="76" column="43" />
+        <mark key="]" line="77" column="35" />
+        <mark key="." line="77" column="35" />
+        <mark key="^" line="77" column="35" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1442681612877">
         <mark key="'" line="35" column="37" />
@@ -135,44 +135,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/common.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0KQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>80px</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXh0YXJlYVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LmJvb3Rib3gtaW5wdXQtdGV4dGFyZWEgewogIGhlaWdodDogODBweCAhaW1wb3J0YW50Owp9Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3IEVtYmVyLlJTVlAuUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KSB7CiAgICAgICAgdmFyIGhhc2hpZHMgPSBzZWxmLmFwcC5lbmNvZGUoZmlsZS5nZXQoJ2lkJykpCiAgICAgICAgJC5wb3N0KHNlbGYuYXBwLmFwaVVybCgnZmlsZXMnLCBoYXNoaWRzLCAndW5sb2NrJykpCiAgICAgICAgICAudGhlbihmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgIHJlc29sdmUoKQogICAgICAgICAgfSwgZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgICAgIHNlbGYuYXBwLm5vdHlFcnJvcihyZXNwb25zZS5yZXNwb25zZUpTT04uZXJyb3IpCiAgICAgICAgICAgIHJlamVjdCgpCiAgICAgICAgICB9KQogICAgICB9KS50aGVuKGNhbGxiYWNrKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0KQo=</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY2FsbGJhCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>unlock</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>80px</text>
-      </register>
-      <register name="7" type="4">
-        <text>message</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>alert</text>
+        <text>u</text>
       </register>
       <register name="9" type="4">
-        <text>.get('name'), response)</text>
+        <text>p</text>
       </register>
     </registers>
     <search>

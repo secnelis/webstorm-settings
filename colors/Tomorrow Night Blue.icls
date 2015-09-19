@@ -601,12 +601,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_COMMA">
-      <value />
-    </option>
-    <option name="DEFAULT_SEMICOLON">
-      <value />
-    </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ffffff" />

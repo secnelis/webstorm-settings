@@ -1,6 +1,7 @@
 <scheme name="Tomorrow Night" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="YaHei Consolas Hybrid" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c5c8c6" />
@@ -487,21 +488,25 @@
     <option name="CSS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="81a2be" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.IDENT">
       <value>
         <option name="FOREGROUND" value="81a2be" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
       <value>
         <option name="FOREGROUND" value="de935f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="b294bb" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -513,6 +518,7 @@
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="b294bb" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
@@ -521,16 +527,19 @@
     <option name="CSS.STRING">
       <value>
         <option name="FOREGROUND" value="b5bd6b" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f0c674" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="cc6666" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -590,39 +599,6 @@
       <value>
         <option name="FOREGROUND" value="de935f" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_COMMA">
-      <value />
-    </option>
-    <option name="DEFAULT_DOC_COMMENT_TAG">
-      <value>
-        <option name="EFFECT_COLOR" value="808080" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
-      <value>
-        <option name="FOREGROUND" value="3d3d3d" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="DEFAULT_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="80" />
-      </value>
-    </option>
-    <option name="DEFAULT_SEMICOLON">
-      <value />
-    </option>
-    <option name="DEFAULT_STRING">
-      <value>
-        <option name="FOREGROUND" value="8000" />
-      </value>
-    </option>
-    <option name="DEFAULT_VALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="80" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
@@ -756,6 +732,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="18191a" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -902,6 +879,7 @@
     <option name="HANDLEBARS.IDENTIFIERS">
       <value>
         <option name="FOREGROUND" value="81a2be" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HANDLEBARS.OPERATORS">
@@ -912,6 +890,7 @@
     <option name="HANDLEBARS.STRINGS">
       <value>
         <option name="FOREGROUND" value="b5bd68" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HANDLEBARS.VALUES">
@@ -922,11 +901,13 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="81a2be" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="b5bd68" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_COMMENT">
@@ -938,6 +919,7 @@
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="de935f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_TAG">
@@ -948,6 +930,7 @@
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="b294bb" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -1080,6 +1063,17 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.DOC_MARKUP">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.DOC_TAG">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="f0c674" />
@@ -1088,6 +1082,7 @@
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f0c674" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -1099,6 +1094,7 @@
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="81a2be" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
@@ -1111,6 +1107,7 @@
     <option name="JS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="b294bb" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.LINE_COMMENT">
@@ -1155,17 +1152,19 @@
     <option name="JS.STATIC_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="81a2be" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="JS.STRING">
       <value>
         <option name="FOREGROUND" value="b5bd68" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="de935f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JSP_ATTRIBUTE_NAME">
@@ -1206,24 +1205,28 @@
     <option name="LESS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="cc6666" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="ffff00" />
         <option name="BACKGROUND" value="ffff00" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
         <option name="FOREGROUND" value="ff00ff" />
         <option name="BACKGROUND" value="ff00ff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="800080" />
         <option name="BACKGROUND" value="800080" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOCALE.LINE_COMMENT">
@@ -1670,6 +1673,7 @@
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="de935f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.COMMENT">
@@ -1681,6 +1685,7 @@
     <option name="REGEXP.ESC_CHARACTER">
       <value>
         <option name="FOREGROUND" value="de935f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.INVALID_STRING_ESCAPE">
@@ -1692,17 +1697,20 @@
     <option name="REGEXP.META">
       <value>
         <option name="FOREGROUND" value="8abeb7" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.QUOTE_CHARACTER">
       <value>
         <option name="FOREGROUND" value="de935f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.REDUNDANT_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="81a2be" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REST.BOLD">
@@ -2249,7 +2257,7 @@
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cc6666" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="TEXT">
@@ -2268,7 +2276,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="TWIG_BAD_CHARACTER">

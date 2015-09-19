@@ -208,9 +208,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.HEREGEX_CONTENT">
-      <value />
-    </option>
     <option name="COFFEESCRIPT.HEREGEX_ID">
       <value>
         <option name="FOREGROUND" value="f0c674" />
@@ -705,9 +702,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="EL_BACKGROUND">
-      <value />
-    </option>
     <option name="ENUM_CONST">
       <value>
         <option name="FOREGROUND" value="f0c674" />
@@ -779,9 +773,6 @@
         <option name="FOREGROUND" value="81a2be" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="GHERKIN_TABLE_CELL">
-      <value />
     </option>
     <option name="GHERKIN_TABLE_HEADER_CELL">
       <value>
@@ -1182,9 +1173,6 @@
         <option name="FOREGROUND" value="969896" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="JSP_DIRECTIVE_BACKGROUND">
-      <value />
     </option>
     <option name="JSP_DIRECTIVE_NAME">
       <value>

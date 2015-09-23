@@ -108,6 +108,13 @@
         <mark key="." line="143" column="19" />
         <mark key="^" line="143" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Common/editorscommon.js" timestamp="1443025196463">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/modal-contact.hbs" timestamp="1442995246409">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="35" column="5" />
@@ -183,11 +190,11 @@
         <mark key="." line="61" column="13" />
         <mark key="^" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443024338681">
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="39" column="37" />
-        <mark key="." line="39" column="37" />
-        <mark key="^" line="39" column="37" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443025003921">
+        <mark key="[" line="41" column="37" />
+        <mark key="]" line="41" column="50" />
+        <mark key="." line="41" column="50" />
+        <mark key="^" line="41" column="50" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" timestamp="1442978565972">
         <mark key="'" line="126" column="0" />
@@ -221,8 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/projects/docq/app/components/office-viewer.js" />
-      <jump line="31" column="28" filename="$USER_HOME$/projects/docq/app/components/office-viewer.js" />
       <jump line="119" column="0" filename="$USER_HOME$/projects/docq/app/styles/icons.less" />
       <jump line="23" column="16" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
       <jump line="105" column="22" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
@@ -321,52 +326,54 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
       <jump line="183" column="5" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
       <jump line="52" column="18" filename="$USER_HOME$/projects/docq/app/components/office-viewer.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/editor/sdk/Common/editorscommon.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Common/editorscommon.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'http://docq.cn',</text>
+        <text encoding="base64">ICE9PSAndW5kZWZpbmVkJykgew==</text>
       </register>
       <register name="-" type="4">
-        <text>'http://docq.cn',</text>
+        <text encoding="base64">ICE9PSAndW5kZWZpbmVkJykgew==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0NsaWNrYWJsZVw+</text>
+        <text>document.domain</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB2YXIgd2ViQmFzZVVybCA9ICdodHRwOi8vZG9jcS5jbicK</text>
       </register>
       <register name="1" type="4">
-        <text>'http://docq.cn',</text>
+        <text encoding="base64">ICE9PSAndW5kZWZpbmVkJykgew==</text>
       </register>
       <register name="2" type="4">
-        <text>i</text>
+        <text>typeof</text>
       </register>
-      <register name="3" type="4">
-        <text>p</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>a</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gZG9jdW1lbnQuZG9tYWluID0gZWRpdG9yRG9jdW1lbnREb21haW47Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>http://coedit.docq.cn</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>'http://docq.cn',</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>p</text>
       </register>
       <register name="9" type="4">
-        <text>q</text>
+        <text>a</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0NsaWNrYWJsZVw+</last-search>
+      <last-search>document.domain</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0NsaWNrYWJsZVw+</last-pattern>
+      <last-pattern>document.domain</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -384,6 +391,7 @@
         <entry>initPro</entry>
         <entry encoding="base64">XDx3aGljaFw+</entry>
         <entry encoding="base64">XDxpc0NsaWNrYWJsZVw+</entry>
+        <entry>document.domain</entry>
       </history-search>
       <history-cmd />
       <history-expr />

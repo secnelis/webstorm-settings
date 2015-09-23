@@ -66,6 +66,12 @@
         <mark key="." line="77" column="35" />
         <mark key="^" line="77" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/docq/deploy-type" timestamp="1442992979135">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1442682416904">
         <mark key="'" line="40" column="9" />
       </file>
@@ -85,12 +91,12 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="19" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1442990206994">
+      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1442991501959">
         <mark key="'" line="1" column="30" />
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="47" />
-        <mark key="." line="14" column="47" />
-        <mark key="^" line="14" column="47" />
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="14" column="46" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-viewer.less" timestamp="1442690334858">
         <mark key="[" line="9" column="22" />
@@ -122,6 +128,13 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/docq/deployment/deploy.php" timestamp="1442991385145">
+        <mark key="'" line="4" column="3" />
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="36" />
+        <mark key="." line="28" column="36" />
+        <mark key="^" line="28" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1442689385490">
         <mark key="'" line="163" column="6" />
         <mark key="[" line="35" column="0" />
@@ -134,11 +147,11 @@
         <mark key="." line="61" column="13" />
         <mark key="^" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1442979044230">
-        <mark key="[" line="54" column="1" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="55" column="0" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1442992171242">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="4" column="25" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" timestamp="1442978565972">
         <mark key="'" line="126" column="0" />
@@ -232,52 +245,55 @@
       <jump line="91" column="7" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
       <jump line="14" column="37" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
       <jump line="16" column="37" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
+      <jump line="26" column="1" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
+      <jump line="4" column="3" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYXBwJywgYXBwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>H</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>initPro</text>
+        <text encoding="base64">XDx3aGljaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwcC5vcHRpb25zLmZpbmdlcnByaW50LnByZXBlbmQgPSAnL2Nkbi8nCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaW4gZW52aXJvbm1lbnQuanMnKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYXBwJywgYXBwKQo=</text>
+      <register name="1" type="4">
+        <text>w</text>
       </register>
       <register name="2" type="4">
-        <text>H</text>
+        <text>\</text>
       </register>
       <register name="3" type="4">
-        <text>T</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>A</text>
+        <text>private</text>
       </register>
       <register name="5" type="4">
-        <text>P</text>
+        <text>+</text>
       </register>
       <register name="6" type="4">
         <text>.</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>public</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>private</text>
       </register>
-      <register name="9" type="4">
-        <text>'</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>initPro</last-search>
+      <last-search encoding="base64">XDx3aGljaFw+</last-search>
       <last-offset />
-      <last-pattern>initPro</last-pattern>
+      <last-pattern encoding="base64">XDx3aGljaFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -293,6 +309,7 @@
         <entry>textarea</entry>
         <entry encoding="base64">XDx0ZXh0YXJlYVw+</entry>
         <entry>initPro</entry>
+        <entry encoding="base64">XDx3aGljaFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

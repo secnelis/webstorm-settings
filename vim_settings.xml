@@ -10,11 +10,11 @@
         <mark key="." line="143" column="11" />
         <mark key="^" line="143" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/modal-feedback.js" timestamp="1442997850921">
-        <mark key="[" line="39" column="55" />
-        <mark key="]" line="40" column="25" />
-        <mark key="." line="40" column="25" />
-        <mark key="^" line="40" column="25" />
+      <file name="$USER_HOME$/projects/docq/app/components/modal-feedback.js" timestamp="1442998093529">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-action-bar.js" timestamp="1442680279747">
         <mark key="'" line="23" column="16" />
@@ -114,11 +114,12 @@
       <file name="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" timestamp="1442989521721">
         <mark key="'" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-feedback.hbs" timestamp="1442997552793">
-        <mark key="[" line="17" column="56" />
-        <mark key="]" line="17" column="58" />
-        <mark key="^" line="17" column="58" />
-        <mark key="." line="17" column="58" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-feedback.hbs" timestamp="1442998026450">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="116" />
+        <mark key="]" line="39" column="118" />
+        <mark key="^" line="39" column="118" />
+        <mark key="." line="39" column="118" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1442681419645">
         <mark key="'" line="25" column="0" />
@@ -294,46 +295,48 @@
       <jump line="6" column="0" filename="$USER_HOME$/projects/docq/app/components/home-header.js" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" />
       <jump line="30" column="5" filename="$USER_HOME$/projects/docq/app/components/modal-feedback.js" />
+      <jump line="40" column="94" filename="$USER_HOME$/projects/docq/app/templates/components/modal-feedback.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/modal-feedback.hbs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgdmFyIHVybCA9IHRoaXMuJCgnW25hbWU9InVybCJdJykudmFsKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aGljaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPuehruiupDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlbmQoJ2RvQ2xvc2UnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgdmFyIHVybCA9IHRoaXMuJCgnW25hbWU9InVybCJdJykudmFsKCkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZW5kCg==</text>
+      <register name="2" type="4">
+        <text>self</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>result</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaXNTdWJtaXR0aW5nOiBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYm9vdGJveC5wcm9tcHQoewogICAgICAgIHNpemU6ICdzbWFsbCcsCiAgICAgICAgdGl0bGU6ICfmhI/op4Hlj43ppognLAogICAgICAgIGlucHV0VHlwZTogJ3RleHRhcmVhJywKICAgICAgICBjYWxsYmFjayhyZXN1bHQpIHsKICAgICAgICAgIGlmIChFbWJlci5pc0VtcHR5KHJlc3VsdCkpIHsKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICQucG9zdChzZWxmLmFwcC5hcGlVcmwoJ2ZlZWRiYWNrJyksIHsKICAgICAgICAgICAgY29udGVudDogcmVzdWx0CiAgICAgICAgICB9KQogICAgICAgICAgICAudGhlbihmdW5jdGlvbiAocmVzcG9uc2UpIHsKICAgICAgICAgICAgICBzZWxmLmFwcC5ub3R5KCflj43ppojlt7LmlLbliLDvvIzosKLosKLmlK/mjIHvvIEnLCB7CiAgICAgICAgICAgICAgICB0aW1lb3V0OiA0MDAwCiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfSwgZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgICAgICAgc2VsZi5hcHAubm90eUVycm9yKHJlc3BvbnNlLnJlc3BvbnNlSlNPTi5lcnJvcikKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZW5kCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>i</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text>确认</text>
+        <text>result</text>
       </register>
     </registers>
     <search>

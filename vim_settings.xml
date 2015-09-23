@@ -56,11 +56,12 @@
         <mark key="." line="74" column="34" />
         <mark key="^" line="74" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1442994313576">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="76" column="7" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1442999809805">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="8" column="52" />
+        <mark key="]" line="8" column="66" />
+        <mark key="^" line="8" column="66" />
+        <mark key="." line="8" column="66" />
       </file>
       <file name="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" timestamp="1442684072124">
         <mark key="'" line="441" column="12" />
@@ -114,12 +115,12 @@
       <file name="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" timestamp="1442989521721">
         <mark key="'" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-feedback.hbs" timestamp="1442998026450">
+      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-feedback.hbs" timestamp="1442999257985">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="116" />
-        <mark key="]" line="39" column="118" />
-        <mark key="^" line="39" column="118" />
-        <mark key="." line="39" column="118" />
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="9" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1442681419645">
         <mark key="'" line="25" column="0" />
@@ -194,6 +195,13 @@
         <mark key="^" line="131" column="6" />
         <mark key="." line="131" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1443000134513">
+        <mark key="'" line="188" column="5" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
+        <mark key="^" line="175" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/common.less" timestamp="1442689488216">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="52" column="23" />
@@ -206,6 +214,9 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/user-avatar.js" timestamp="1442999717718">
+        <mark key="'" line="35" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -297,52 +308,64 @@
       <jump line="30" column="5" filename="$USER_HOME$/projects/docq/app/components/modal-feedback.js" />
       <jump line="40" column="94" filename="$USER_HOME$/projects/docq/app/templates/components/modal-feedback.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/modal-feedback.hbs" />
+      <jump line="68" column="8" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
+      <jump line="45" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/user-avatar.js" />
+      <jump line="37" column="9" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
+      <jump line="39" column="95" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
+      <jump line="44" column="21" filename="$USER_HOME$/projects/docq/app/components/user-avatar.js" />
+      <jump line="96" column="2" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
+      <jump line="35" column="4" filename="$USER_HOME$/projects/docq/app/components/user-avatar.js" />
+      <jump line="184" column="0" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
+      <jump line="50" column="4" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
+      <jump line="183" column="5" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHVybCA9IHRoaXMuJCgnW25hbWU9InVybCJdJykudmFsKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>self</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aGljaFw+</text>
+        <text encoding="base64">XDxpc0NsaWNrYWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlbmQoJ2RvQ2xvc2UnKQo=</text>
+        <text encoding="base64">ICAgIGlmICggISB0aGlzLmdldCgnaXNPZmZpY2VGb3JtYXQnKSkgewogICAgICByZXR1cm4gZmFsc2UKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHVybCA9IHRoaXMuJCgnW25hbWU9InVybCJdJykudmFsKCkK</text>
-      </register>
-      <register name="2" type="4">
-        <text>self</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaXNTdWJtaXR0aW5nOiBmYWxzZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZW5kCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5pbmNyZW1lbnRQcm9wZXJ0eSgnZmlsZU5hbWVDbGlja0NvdW50JykKICAgICAgaWYgKHRoaXMuZ2V0KCdmaWxlTmFtZUNsaWNrQ291bnQnKSA9PT0gMTApIHsKICAgICAgICB0aGlzLmFwcC5ub3R5KCflvIDlkK/lpJrkurrljY/kvZzop6PplIHlip/og70nKQogICAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>self</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text>t</text>
+      </register>
+      <register name="7" type="4">
+        <text>C</text>
+      </register>
+      <register name="8" type="4">
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>result</text>
+        <text>u</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aGljaFw+</last-search>
+      <last-search encoding="base64">XDxpc0NsaWNrYWJsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aGljaFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpc0NsaWNrYWJsZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -359,6 +382,7 @@
         <entry encoding="base64">XDx0ZXh0YXJlYVw+</entry>
         <entry>initPro</entry>
         <entry encoding="base64">XDx3aGljaFw+</entry>
+        <entry encoding="base64">XDxpc0NsaWNrYWJsZVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

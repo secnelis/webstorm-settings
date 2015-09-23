@@ -183,10 +183,11 @@
         <mark key="." line="61" column="13" />
         <mark key="^" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1442993826231">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443004145631">
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="44" />
+        <mark key="." line="38" column="44" />
+        <mark key="^" line="38" column="44" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" timestamp="1442978565972">
         <mark key="'" line="126" column="0" />
@@ -322,44 +323,44 @@
       <jump line="183" column="5" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7eyNpZiAoZXEgYXBwLmNvbmZpZy5kZXBsb3lUeXBlICdwdWJsaWMnKX19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0NsaWNrYWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7eyNpZiAoZXEgYXBwLmNvbmZpZy5kZXBsb3lUeXBlICdwdWJsaWMnKX19Cg==</text>
+        <text encoding="base64">ICAgIEVOVi5BUFAuYmFzZVVybCA9ICcnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>n</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5pbmNyZW1lbnRQcm9wZXJ0eSgnZmlsZU5hbWVDbGlja0NvdW50JykKICAgICAgaWYgKHRoaXMuZ2V0KCdmaWxlTmFtZUNsaWNrQ291bnQnKSA9PT0gMTApIHsKICAgICAgICB0aGlzLmFwcC5ub3R5KCflvIDlkK/lpJrkurrljY/kvZzop6PplIHlip/og70nKQogICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>c</text>
       </register>
       <register name="3" type="4">
-        <text>self</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>q</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>c</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
-      </register>
-      <register name="7" type="4">
-        <text>C</text>
-      </register>
-      <register name="8" type="4">
         <text>o</text>
       </register>
+      <register name="7" type="4">
+        <text>d</text>
+      </register>
+      <register name="8" type="4">
+        <text>.</text>
+      </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>n</text>
       </register>
     </registers>
     <search>

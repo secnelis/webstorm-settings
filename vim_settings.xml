@@ -77,8 +77,8 @@
         <mark key="^" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1442662427906">
-        <mark key="'" line="31" column="28" />
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1443024396665">
+        <mark key="'" line="52" column="18" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" timestamp="1442995708991">
         <mark key="'" line="11" column="0" />
@@ -183,11 +183,11 @@
         <mark key="." line="61" column="13" />
         <mark key="^" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443004145631">
-        <mark key="[" line="38" column="32" />
-        <mark key="]" line="38" column="44" />
-        <mark key="." line="38" column="44" />
-        <mark key="^" line="38" column="44" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443024338681">
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="37" />
+        <mark key="^" line="39" column="37" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" timestamp="1442978565972">
         <mark key="'" line="126" column="0" />
@@ -221,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="6" filename="$USER_HOME$/projects/docq/app/components/office-viewer.js" />
       <jump line="65" column="0" filename="$USER_HOME$/projects/docq/app/components/office-viewer.js" />
       <jump line="31" column="28" filename="$USER_HOME$/projects/docq/app/components/office-viewer.js" />
       <jump line="119" column="0" filename="$USER_HOME$/projects/docq/app/styles/icons.less" />
@@ -321,46 +320,47 @@
       <jump line="50" column="4" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
       <jump line="183" column="5" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
+      <jump line="52" column="18" filename="$USER_HOME$/projects/docq/app/components/office-viewer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>'http://docq.cn',</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>'http://docq.cn',</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0NsaWNrYWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEVOVi5BUFAuYmFzZVVybCA9ICcnCg==</text>
+        <text encoding="base64">ICB2YXIgd2ViQmFzZVVybCA9ICdodHRwOi8vZG9jcS5jbicK</text>
       </register>
       <register name="1" type="4">
-        <text>n</text>
+        <text>'http://docq.cn',</text>
       </register>
       <register name="2" type="4">
-        <text>c</text>
+        <text>i</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>p</text>
       </register>
       <register name="4" type="4">
-        <text>q</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text>c</text>
+        <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>n</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>c</text>
       </register>
       <register name="8" type="4">
         <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>q</text>
       </register>
     </registers>
     <search>

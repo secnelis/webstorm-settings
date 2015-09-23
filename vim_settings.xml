@@ -43,6 +43,12 @@
         <mark key="." line="74" column="34" />
         <mark key="^" line="74" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1442994313576">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="76" column="7" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" timestamp="1442684072124">
         <mark key="'" line="441" column="12" />
         <mark key="[" line="54" column="63" />
@@ -66,11 +72,12 @@
         <mark key="." line="77" column="35" />
         <mark key="^" line="77" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/docq/deploy-type" timestamp="1442992979135">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-        <mark key="." line="4" column="30" />
+      <file name="$USER_HOME$/projects/docq/deploy-type" timestamp="1442994113924">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1442682416904">
         <mark key="'" line="40" column="9" />
@@ -91,12 +98,11 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="19" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1442991501959">
+      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1442994025960">
         <mark key="'" line="1" column="30" />
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="46" />
-        <mark key="." line="14" column="46" />
-        <mark key="^" line="14" column="46" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-viewer.less" timestamp="1442690334858">
         <mark key="[" line="9" column="22" />
@@ -128,12 +134,10 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/deployment/deploy.php" timestamp="1442991385145">
-        <mark key="'" line="4" column="3" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="36" />
-        <mark key="." line="28" column="36" />
-        <mark key="^" line="28" column="36" />
+      <file name="$USER_HOME$/projects/docq/deployment/deploy.php" timestamp="1442993930401">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1442689385490">
         <mark key="'" line="163" column="6" />
@@ -147,11 +151,10 @@
         <mark key="." line="61" column="13" />
         <mark key="^" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1442992171242">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-        <mark key="^" line="4" column="25" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1442993826231">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" timestamp="1442978565972">
         <mark key="'" line="126" column="0" />
@@ -248,46 +251,48 @@
       <jump line="5" column="7" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
       <jump line="26" column="1" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
       <jump line="4" column="3" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
+      <jump line="17" column="26" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/docq/deploy-type" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aGljaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaW4gZW52aXJvbm1lbnQuanMnKQo=</text>
+        <text encoding="base64">aWYgWyAkIyAtZXEgMCBdIDsgdGhlbgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>w</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text>\</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAge3sjaWYgKGFuZCBpc09mZmljZUZvcm1hdCBjYW5FZGl0KX19CiAgICAgICAgPGxpPjxhIGhyZWY9IiMiIHt7YWN0aW9uICdkb1VubG9ja0ZpbGUnfX0+5aSa5Lq65Y2P5L2c6Kej6ZSBPC9hPjwvbGk+CiAgICAgIHt7L2lmfX0K</text>
       </register>
-      <register name="3" type="4">
-        <text>s</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>private</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZWxzZQpmaQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>+</text>
+      <register name="5" type="2">
+        <text encoding="base64">aWYgWyAkIyAtZXEgMCBdIDsgdGhlbgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>public</text>
+        <text>0</text>
       </register>
-      <register name="8" type="4">
-        <text>private</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzZWQgLWkgInMvZGVwbG95VHlwZVxzPVxzJy5cKycvZGVwbG95VHlwZSA9ICckMScvZyIgY29uZmlnL2Vudmlyb25tZW50LmpzCiAgc2VkIC1pICJzL2RlcGxveVR5cGVccz1ccycuXCsnL2RlcGxveVR5cGUgPSAnJDEnL2ciIGVtYmVyLWNsaS1idWlsZC5qcwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
     </registers>
     <search>

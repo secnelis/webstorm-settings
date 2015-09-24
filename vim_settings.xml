@@ -192,11 +192,7 @@
         <mark key="^" line="61" column="13" />
       </file>
       <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443058860821">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="31" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="13" column="31" />
+        <mark key="'" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" timestamp="1442978565972">
         <mark key="'" line="126" column="0" />

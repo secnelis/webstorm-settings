@@ -142,12 +142,12 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="19" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1443033522443">
+      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1443058914158">
         <mark key="'" line="1" column="30" />
-        <mark key="[" line="12" column="75" />
-        <mark key="]" line="12" column="78" />
-        <mark key="." line="12" column="78" />
-        <mark key="^" line="12" column="78" />
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="65" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-viewer.less" timestamp="1442690334858">
         <mark key="[" line="9" column="22" />
@@ -191,12 +191,12 @@
         <mark key="." line="61" column="13" />
         <mark key="^" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443025627489">
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443058860821">
         <mark key="'" line="71" column="0" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="18" column="34" />
-        <mark key="." line="14" column="4" />
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" timestamp="1442978565972">
         <mark key="'" line="126" column="0" />
@@ -333,10 +333,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>document.domain</text>
@@ -345,31 +345,31 @@
         <text encoding="base64">ICB2YXIgYXBwQmFzZVVybCA9ICcvJwogIHZhciB3ZWJCYXNlVXJsID0gJ2h0dHA6Ly9kb2NxLmNuJwogIHZhciBhcGlCYXNlVXJsID0gJ2h0dHA6Ly9kb2NxLmNuL2FwaScKICB2YXIgY2RuQmFzZVVybCA9ICdodHRwOi8vY2RuLmRvY3EuY24nCiAgdmFyIGNyb3NzT3JpZ2luV2hpdGVsaXN0ID0gWydodHRwOi8vZG9jcS5jbiddCiAgdmFyIGVkaXRvckRvY3VtZW50RG9tYWluID0gJ2RvY3EuY24nCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>d</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>p</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>l</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text>'docq.cn'</text>
+        <text>y</text>
       </register>
       <register name="7" type="4">
-        <text>http://docq.cn</text>
+        <text>T</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>y</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>p</text>
       </register>
     </registers>
     <search>

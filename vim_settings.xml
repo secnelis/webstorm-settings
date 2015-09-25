@@ -181,12 +181,12 @@
         <mark key="^" line="55" column="9" />
         <mark key="." line="55" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443155517878">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="40" column="29" />
-        <mark key="]" line="41" column="46" />
-        <mark key="." line="41" column="46" />
-        <mark key="^" line="41" column="46" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443156757166">
+        <mark key="'" line="26" column="13" />
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="40" column="29" />
+        <mark key="." line="40" column="29" />
+        <mark key="^" line="40" column="29" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/common.less" timestamp="1442689488216">
         <mark key="'" line="44" column="0" />
@@ -316,10 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>docq.cn</text>
+        <text>enterpriseName</text>
       </register>
       <register name="-" type="4">
-        <text>docq.cn</text>
+        <text>enterpriseName</text>
       </register>
       <register name="/" type="4">
         <text>psd</text>
@@ -328,31 +328,31 @@
         <text encoding="base64">ICB2YXIgdHJhY2tQYWdldmlld0RvbWFpbiA9ICdkb2NxLmNuJwo=</text>
       </register>
       <register name="1" type="4">
-        <text>docq.cn</text>
+        <text>enterpriseName</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>enterpriseName</text>
       </register>
       <register name="3" type="4">
-        <text>this.get('url')</text>
+        <text>enterpriseName</text>
       </register>
-      <register name="4" type="4">
-        <text>/</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVudGVycHJpc2VOYW1lID0gJ+WFg+WbvicK</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>docq.cn</text>
       </register>
       <register name="6" type="4">
-        <text>:</text>
+        <text>trackPageviewDomain</text>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text>m</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>c</text>
       </register>
     </registers>
     <search>

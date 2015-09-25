@@ -108,6 +108,10 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="19" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/user-contact-item.js" timestamp="1443194230325">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="66" />
+      </file>
       <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1443058914158">
         <mark key="'" line="1" column="30" />
         <mark key="[" line="12" column="15" />
@@ -214,12 +218,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/modal-contact.js" timestamp="1442995092712">
+      <file name="$USER_HOME$/projects/docq/app/components/modal-contact.js" timestamp="1443194253136">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+        <mark key="[" line="31" column="59" />
+        <mark key="]" line="31" column="60" />
+        <mark key="^" line="31" column="60" />
+        <mark key="." line="31" column="60" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1443001475845">
         <mark key="'" line="1" column="0" />
@@ -427,43 +431,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>刷新</text>
+        <text>修改备注</text>
       </register>
       <register name="-" type="4">
-        <text>刷新</text>
+        <text>修改备注</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRDb250YWN0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hcHAudHJhY2tFdmVudCgndXNlci1jb250YWN0cycsICdjbGljaycsICfliLfmlrAnKQo=</text>
+        <text encoding="base64">ICAgICAgc2VsZi5hcHAudHJhY2tFdmVudCgndXNlci1jb250YWN0cycsICdjbGljaycsICfogZTns7vkurrljaHniYc65L+u5pS55aSH5rOoJykK</text>
       </register>
       <register name="1" type="4">
-        <text>刷新</text>
+        <text>修改备注</text>
       </register>
       <register name="2" type="4">
-        <text>a</text>
+        <text>右键</text>
       </register>
-      <register name="3" type="4">
-        <text>a</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zZW5kKCdjaGFuZ2VDb250YWN0QWxpYXMnLCB0aGlzLmdldCgnY29udGFjdCcpKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>刷新</text>
       </register>
       <register name="5" type="4">
-        <text>修改密码</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>profile</text>
+        <text>a</text>
       </register>
-      <register name="7" type="4">
-        <text>修改昵称</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="4">
-        <text>发送验证邮件</text>
+        <text>修改密码</text>
       </register>
       <register name="9" type="4">
-        <text>上传头像</text>
+        <text>profile</text>
       </register>
     </registers>
     <search>

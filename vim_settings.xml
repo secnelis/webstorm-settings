@@ -35,6 +35,9 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/router.js" timestamp="1443152987543">
+        <mark key="'" line="12" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" timestamp="1442688913338">
         <mark key="'" line="114" column="34" />
         <mark key="[" line="127" column="0" />
@@ -305,6 +308,7 @@
       <jump line="55" column="2" filename="$USER_HOME$/projects/docq/app/components/home-action-bar.js" />
       <jump line="63" column="12" filename="$USER_HOME$/projects/docq/app/models/file.js" />
       <jump line="110" column="36" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
+      <jump line="12" column="12" filename="$USER_HOME$/projects/docq/app/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

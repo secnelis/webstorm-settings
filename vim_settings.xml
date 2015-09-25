@@ -149,6 +149,9 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1443199792370">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header-mobile.less" timestamp="1443195189727">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="8" column="0" />
@@ -162,12 +165,12 @@
         <mark key="." line="61" column="13" />
         <mark key="^" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1443198624161">
-        <mark key="'" line="194" column="6" />
-        <mark key="[" line="128" column="64" />
-        <mark key="]" line="128" column="65" />
-        <mark key="." line="128" column="65" />
-        <mark key="^" line="128" column="65" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1443199280864">
+        <mark key="'" line="221" column="6" />
+        <mark key="[" line="191" column="32" />
+        <mark key="]" line="191" column="53" />
+        <mark key="." line="191" column="53" />
+        <mark key="^" line="191" column="53" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/common.less" timestamp="1442689488216">
         <mark key="'" line="44" column="0" />
@@ -237,12 +240,12 @@
         <mark key="^" line="31" column="9" />
         <mark key="." line="31" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1443198537941">
-        <mark key="'" line="0" column="61" />
-        <mark key="[" line="0" column="54" />
-        <mark key="]" line="0" column="61" />
-        <mark key="^" line="0" column="61" />
-        <mark key="." line="0" column="61" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1443199510118">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="46" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/recent-file-dropdown-item.js" timestamp="1443165246689">
         <mark key="'" line="0" column="0" />
@@ -265,12 +268,24 @@
         <mark key="." line="192" column="53" />
         <mark key="^" line="192" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/editor/apps/presentationeditor/main/index.html.deploy" timestamp="1443199732471">
+        <mark key="[" line="15" column="67" />
+        <mark key="]" line="15" column="70" />
+        <mark key="." line="15" column="70" />
+        <mark key="^" line="15" column="70" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-header.js" timestamp="1443162613253">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="48" column="4" />
         <mark key="]" line="48" column="16" />
         <mark key="." line="48" column="16" />
         <mark key="^" line="48" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/index.html.deploy" timestamp="1443199686529">
+        <mark key="[" line="12" column="67" />
+        <mark key="]" line="12" column="70" />
+        <mark key="." line="12" column="70" />
+        <mark key="^" line="12" column="70" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" timestamp="1442686381352">
         <mark key="'" line="46" column="50" />
@@ -347,8 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="14" filename="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" />
-      <jump line="439" column="12" filename="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/common.less" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/docq/app/components/image-viewer.js" />
       <jump line="163" column="6" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
@@ -447,46 +460,48 @@
       <jump line="179" column="6" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
       <jump line="80" column="12" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
       <jump line="0" column="61" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>view</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>view</text>
       </register>
       <register name="/" type="4">
         <text>onFileOwn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmFwcC50cmFja0V2ZW50KCdmaWxlLXNob3ctaGVhZGVyJywgJ2NsaWNrJywgJ+a3u+WKoOaJgOacieiAheS4uuiBlOezu+S6uicpCg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9InJlc291cmNlcy9jc3MvYXBwLXZpZXcuY3NzIj4K</text>
       </register>
       <register name="1" type="4">
-        <text>this</text>
+        <text>view</text>
       </register>
       <register name="2" type="4">
-        <text>this</text>
+        <text>view</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>ownerAvatarUrl</text>
       </register>
       <register name="4" type="4">
-        <text>文件所有者信息</text>
+        <text>avatarUrl</text>
       </register>
       <register name="5" type="4">
-        <text>称</text>
+        <text encoding="base64">IGZpbGVBY2Nlc3M=</text>
       </register>
       <register name="6" type="4">
-        <text>名</text>
+        <text encoding="base64">IGZpbGVBY2Nlc3M=</text>
       </register>
-      <register name="7" type="4">
-        <text>LOGO</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAge3sjaWYgZmFsc2V9fQogICAgICAgIDxsaT48YSBocmVmPSIjIiB7e2FjdGlvbiAnZG9VbmxvY2tGaWxlJ319PuWkmuS6uuWNj+S9nOino+mUgTwvYT48L2xpPgogICAgICB7ey9pZn19Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>重命名</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>问题反馈</text>
       </register>
     </registers>
     <search>

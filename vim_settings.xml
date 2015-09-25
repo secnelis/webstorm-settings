@@ -35,8 +35,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/router.js" timestamp="1443152987543">
-        <mark key="'" line="12" column="12" />
+      <file name="$USER_HOME$/projects/docq/app/router.js" timestamp="1443155599352">
+        <mark key="'" line="15" column="12" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="76" />
+        <mark key="^" line="14" column="76" />
+        <mark key="." line="14" column="76" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" timestamp="1442688913338">
         <mark key="'" line="114" column="34" />
@@ -177,12 +181,12 @@
         <mark key="^" line="55" column="9" />
         <mark key="." line="55" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443154720381">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="13" column="43" />
-        <mark key="." line="13" column="43" />
-        <mark key="^" line="13" column="43" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443155517878">
+        <mark key="'" line="27" column="13" />
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="41" column="46" />
+        <mark key="." line="41" column="46" />
+        <mark key="^" line="41" column="46" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/common.less" timestamp="1442689488216">
         <mark key="'" line="44" column="0" />
@@ -311,44 +315,44 @@
       <jump line="12" column="12" filename="$USER_HOME$/projects/docq/app/router.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YXIgCg==</text>
+      <register name="&quot;" type="4">
+        <text>docq.cn</text>
       </register>
       <register name="-" type="4">
-        <text>mp4</text>
+        <text>docq.cn</text>
       </register>
       <register name="/" type="4">
         <text>psd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnEtZm10MTYtbXA0LAo=</text>
+        <text encoding="base64">ICB2YXIgdHJhY2tQYWdldmlld0RvbWFpbiA9ICdkb2NxLmNuJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgCg==</text>
+      <register name="1" type="4">
+        <text>docq.cn</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">J21wNCcsICdybScsICdybXZiJywgJ3dtdicsICdhdmknLCAnbXBnJywgJ21wZWcnLCAnM2dwJywgJ21rdicsICdmbHYnLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">dmFyIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LnEtZm10MTYtbXA0IHsK</text>
+      <register name="3" type="4">
+        <text>this.get('url')</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LnEtZm10MTYtbXA0LAo=</text>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>mp4</text>
+        <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>mp4</text>
+        <text>:</text>
       </register>
       <register name="7" type="4">
-        <text>mp4</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>mp4</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>mp4</text>
+        <text>t</text>
       </register>
     </registers>
     <search>

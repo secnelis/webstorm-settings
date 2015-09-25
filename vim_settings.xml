@@ -177,12 +177,12 @@
         <mark key="^" line="55" column="9" />
         <mark key="." line="55" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443076834667">
-        <mark key="'" line="25" column="13" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="42" column="36" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443154720381">
+        <mark key="'" line="26" column="13" />
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="43" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/common.less" timestamp="1442689488216">
         <mark key="'" line="44" column="0" />
@@ -312,7 +312,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">J21wNCcsICdybScsICdybXZiJywgJ3dtdicsICdhdmknLCAnbXBnJywgJ21wZWcnLCAnM2dwJywgJ21rdicsICdmbHYnLAo=</text>
+        <text encoding="base64">ICB2YXIgCg==</text>
       </register>
       <register name="-" type="4">
         <text>mp4</text>
@@ -324,16 +324,16 @@
         <text encoding="base64">LnEtZm10MTYtbXA0LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">J21wNCcsICdybScsICdybXZiJywgJ3dtdicsICdhdmknLCAnbXBnJywgJ21wZWcnLCAnM2dwJywgJ21rdicsICdmbHYnLAo=</text>
+        <text encoding="base64">ICB2YXIgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LnEtZm10MTYtbXA0IHsK</text>
+        <text encoding="base64">J21wNCcsICdybScsICdybXZiJywgJ3dtdicsICdhdmknLCAnbXBnJywgJ21wZWcnLCAnM2dwJywgJ21rdicsICdmbHYnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LnEtZm10MTYtbXA0LAo=</text>
+        <text encoding="base64">LnEtZm10MTYtbXA0IHsK</text>
       </register>
-      <register name="4" type="4">
-        <text>mp4</text>
+      <register name="4" type="2">
+        <text encoding="base64">LnEtZm10MTYtbXA0LAo=</text>
       </register>
       <register name="5" type="4">
         <text>mp4</text>

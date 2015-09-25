@@ -42,6 +42,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/router.js" timestamp="1443157236872">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="15" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" timestamp="1442688913338">
         <mark key="'" line="114" column="34" />
         <mark key="[" line="127" column="0" />
@@ -191,8 +197,11 @@
         <mark key="." line="61" column="13" />
         <mark key="^" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443058860821">
-        <mark key="'" line="70" column="0" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443157211292">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" timestamp="1442978565972">
         <mark key="'" line="126" column="0" />
@@ -329,43 +338,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>document.domain</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgYXBwQmFzZVVybCA9ICcvJwogIHZhciB3ZWJCYXNlVXJsID0gJ2h0dHA6Ly9kb2NxLmNuJwogIHZhciBhcGlCYXNlVXJsID0gJ2h0dHA6Ly9kb2NxLmNuL2FwaScKICB2YXIgY2RuQmFzZVVybCA9ICdodHRwOi8vY2RuLmRvY3EuY24nCiAgdmFyIGNyb3NzT3JpZ2luV2hpdGVsaXN0ID0gWydodHRwOi8vZG9jcS5jbiddCiAgdmFyIGVkaXRvckRvY3VtZW50RG9tYWluID0gJ2RvY3EuY24nCg==</text>
+        <text encoding="base64">ICBpZiAoZGVwbG95VHlwZSA9PT0gJ2VudGVycHJpc2UnKSB7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>d</text>
+        <text>c</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
-      </register>
-      <register name="3" type="4">
-        <text>p</text>
-      </register>
-      <register name="4" type="4">
-        <text>l</text>
-      </register>
-      <register name="5" type="4">
         <text>o</text>
       </register>
+      <register name="3" type="4">
+        <text>n</text>
+      </register>
+      <register name="4" type="4">
+        <text>f</text>
+      </register>
+      <register name="5" type="4">
+        <text>i</text>
+      </register>
       <register name="6" type="4">
-        <text>y</text>
+        <text>g</text>
       </register>
       <register name="7" type="4">
-        <text>T</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>y</text>
+        <text>P</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>P</text>
       </register>
     </registers>
     <search>

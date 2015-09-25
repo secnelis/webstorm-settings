@@ -119,6 +119,12 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="65" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" timestamp="1443195180711">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="40" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-viewer.less" timestamp="1442690334858">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="29" />
@@ -142,6 +148,12 @@
         <mark key="]" line="5" column="68" />
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header-mobile.less" timestamp="1443195189727">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/plain-text-viewer.js" timestamp="1442691260438">
         <mark key="'" line="10" column="13" />
@@ -218,12 +230,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/modal-contact.js" timestamp="1443194253136">
+      <file name="$USER_HOME$/projects/docq/app/components/modal-contact.js" timestamp="1443194409219">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="59" />
-        <mark key="]" line="31" column="60" />
-        <mark key="^" line="31" column="60" />
-        <mark key="." line="31" column="60" />
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="9" />
+        <mark key="^" line="31" column="9" />
+        <mark key="." line="31" column="9" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1443001475845">
         <mark key="'" line="1" column="0" />
@@ -328,8 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="36" filename="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" />
-      <jump line="94" column="6" filename="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" />
       <jump line="438" column="12" filename="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" />
       <jump line="393" column="24" filename="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" />
       <jump line="440" column="22" filename="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" />
@@ -428,46 +438,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/user-contacts.js" />
       <jump line="39" column="24" filename="$USER_HOME$/projects/docq/app/templates/components/user-contacts.hbs" />
       <jump line="30" column="33" filename="$USER_HOME$/projects/docq/app/templates/components/user-contacts.hbs" />
+      <jump line="38" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/file-show-header-mobile.less" />
+      <jump line="40" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/file-show-header-mobile.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>修改备注</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>修改备注</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRDb250YWN0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5hcHAudHJhY2tFdmVudCgndXNlci1jb250YWN0cycsICdjbGljaycsICfogZTns7vkurrljaHniYc65L+u5pS55aSH5rOoJykK</text>
+        <text encoding="base64">QG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAoLXdlYmtpdC1taW4tZGV2aWNlLXBpeGVsLXJhdGlvOiAyKSwgb25seSBzY3JlZW4gYW5kIChtaW4tZGV2aWNlLXBpeGVsLXJhdGlvOiAyKSB7CiAgLnEtZmlsZS1zaG93LWhlYWRlci1sb2dvIHsKICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgvaS9sb2dvLTYweDUwQDJ4LnBuZyk7CiAgfQp9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>修改备注</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>右键</text>
+      <register name="2" type="2">
+        <text encoding="base64">LnEtZmlsZS1zaG93LWhlYWRlci1tb2JpbGUtdGl0bGUtYmFyIC5xLWZpbGUtc2hvdy1oZWFkZXItbG9nbyB7Cgp9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZW5kKCdjaGFuZ2VDb250YWN0QWxpYXMnLCB0aGlzLmdldCgnY29udGFjdCcpKQo=</text>
+      <register name="3" type="4">
+        <text>2</text>
       </register>
-      <register name="4" type="4">
-        <text>刷新</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtcG9zaXRpb246IC0zMzZweCAtMjBweDsK</text>
       </register>
-      <register name="5" type="4">
-        <text>a</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHVybCguLi9pbWcvc3ByaXRlc0AyeC5wbmcpIG5vLXJlcGVhdDsK</text>
       </register>
-      <register name="6" type="4">
-        <text>a</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAubG9nbyB7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>修改密码</text>
+        <text>{</text>
       </register>
       <register name="9" type="4">
-        <text>profile</text>
+        <text>self</text>
       </register>
     </registers>
     <search>
@@ -525,6 +537,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

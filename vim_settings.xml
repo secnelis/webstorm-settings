@@ -197,11 +197,11 @@
         <mark key="." line="61" column="13" />
         <mark key="^" line="61" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443157211292">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="36" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443158184293">
+        <mark key="'" line="38" column="6" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" timestamp="1442978565972">
         <mark key="'" line="126" column="0" />
@@ -235,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="22" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
-      <jump line="118" column="20" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
       <jump line="32" column="2" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="120" column="18" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
@@ -335,52 +333,54 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Common/editorscommon.js" />
       <jump line="47" column="0" filename="$USER_HOME$/projects/docq/config/environment.js" />
       <jump line="71" column="0" filename="$USER_HOME$/projects/docq/config/environment.js" />
+      <jump line="39" column="19" filename="$USER_HOME$/projects/docq/config/environment.js" />
+      <jump line="38" column="6" filename="$USER_HOME$/projects/docq/config/environment.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29tcGFueU5hbWU6IGNvbXBhbnlOYW1lLAo=</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>document.domain</text>
+        <text encoding="base64">XDxjb21wYW55TmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAoZGVwbG95VHlwZSA9PT0gJ2VudGVycHJpc2UnKSB7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>c</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29tcGFueU5hbWU6IGNvbXBhbnlOYW1lLAo=</text>
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>c</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>f</text>
+        <text>n</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>f</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>i</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>g</text>
       </register>
       <register name="8" type="4">
-        <text>P</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
         <text>P</text>
       </register>
     </registers>
     <search>
-      <last-search>document.domain</last-search>
+      <last-search encoding="base64">XDxjb21wYW55TmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>document.domain</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wYW55TmFtZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -399,6 +399,7 @@
         <entry encoding="base64">XDx3aGljaFw+</entry>
         <entry encoding="base64">XDxpc0NsaWNrYWJsZVw+</entry>
         <entry>document.domain</entry>
+        <entry encoding="base64">XDxjb21wYW55TmFtZVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />

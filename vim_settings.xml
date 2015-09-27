@@ -27,8 +27,8 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" timestamp="1443358549169">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" timestamp="1443363359664">
+        <mark key="'" line="11" column="5" />
         <mark key="[" line="9" column="35" />
         <mark key="]" line="9" column="49" />
         <mark key="." line="9" column="49" />
@@ -78,6 +78,12 @@
         <mark key="]" line="13" column="26" />
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager-item.hbs" timestamp="1443363364255">
+        <mark key="'" line="6" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" timestamp="1442684072124">
         <mark key="'" line="441" column="12" />
@@ -301,12 +307,12 @@
         <mark key="]" line="2" column="28" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" timestamp="1443361788552">
-        <mark key="'" line="34" column="11" />
-        <mark key="[" line="30" column="10" />
-        <mark key="]" line="31" column="23" />
-        <mark key="." line="31" column="23" />
-        <mark key="^" line="31" column="23" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" timestamp="1443364146968">
+        <mark key="'" line="29" column="42" />
+        <mark key="[" line="14" column="151" />
+        <mark key="]" line="14" column="151" />
+        <mark key="^" line="14" column="151" />
+        <mark key="." line="14" column="151" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/pdf-mobile-viewer.js" timestamp="1443336102666">
         <mark key="[" line="23" column="0" />
@@ -401,12 +407,11 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" timestamp="1443361771961">
-        <mark key="'" line="34" column="18" />
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="18" column="28" />
-        <mark key="^" line="18" column="28" />
-        <mark key="." line="18" column="28" />
+      <file name="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" timestamp="1443364360270">
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="37" column="27" />
+        <mark key="." line="37" column="27" />
+        <mark key="^" line="37" column="27" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" timestamp="1443195180711">
         <mark key="[" line="22" column="40" />
@@ -434,12 +439,18 @@
         <mark key="^" line="50" column="3" />
         <mark key="." line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/admin-header.js" timestamp="1443356018682">
+      <file name="$USER_HOME$/projects/docq/app/components/admin-user-manager-item.js" timestamp="1443363173512">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/admin-header.js" timestamp="1443364208281">
         <mark key="'" line="19" column="4" />
-        <mark key="[" line="19" column="6" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="19" column="4" />
-        <mark key="." line="19" column="4" />
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="17" column="53" />
+        <mark key="^" line="17" column="53" />
+        <mark key="." line="17" column="53" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/icons.less" timestamp="1442680245821">
         <mark key="'" line="119" column="0" />
@@ -631,13 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="46" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
-      <jump line="204" column="0" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
-      <jump line="57" column="3" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
-      <jump line="9" column="11" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
-      <jump line="13" column="4" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
-      <jump line="20" column="4" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
-      <jump line="74" column="39" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
       <jump line="99" column="50" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
       <jump line="112" column="4" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
       <jump line="109" column="15" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
@@ -731,46 +735,53 @@
       <jump line="18" column="18" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
       <jump line="24" column="58" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
       <jump line="27" column="11" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
+      <jump line="20" column="13" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
+      <jump line="11" column="5" filename="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" />
+      <jump line="6" column="5" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager-item.hbs" />
+      <jump line="30" column="42" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
+      <jump line="38" column="22" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
+      <jump line="22" column="27" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>邮箱</text>
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>邮箱</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHRoPumCrueusTwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlbmQoJ3JlbG9hZFVzZXJzJykK</text>
       </register>
       <register name="1" type="4">
-        <text>邮箱</text>
+        <text>self</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhciAka2V5d29yZCA9IHRoaXMuJCgnW25hbWU9ImtleXdvcmQiXScpCiAgICB0aGlzLmFwcC5kZWJ1Zygka2V5d29yZCkKICAgICRrZXl3b3JkLmtleXByZXNzKGZ1bmN0aW9uKGV2ZW50KSB7CiAgICAgIHNlbGYuYXBwLmRlYnVnKCdrZXljb2RlJywgZXZlbnQua2V5Q29kZSkKICAgICAgaWYgKGV2ZW50LmtleUNvZGUgPT09IDEzKSB7CiAgICAgICAgc2VsZi5zZXQoJ2tleXdvcmQnLCAkKHRoaXMpLnZhbCgpKQogICAgICAgIHNlbGYuc2VuZCgncmVsb2FkVXNlcnMnKQogICAgICAgIHJldHVybiBmYWxzZQogICAgICB9CiAgICB9KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>null</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>none</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5hcHAuZGVidWcoJ2V2ZW50JywgZXZlbnQpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>重置密码</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIHB1bGwtcmlnaHQgaW5wdXQtc20gdGV4dC1jZW50ZXIiIHR5cGU9InRleHQiIG5hbWU9ImtleXdvcmQiIHBsYWNlaG9sZGVyPSLmkJzntKIiPgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>changePassword</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>users</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFsZXJ0KCRrZXl3b3JkLmxlbmd0aCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>keydown</text>
       </register>
-      <register name="9" type="4">
-        <text>keywordFilteredUsers</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/q-home-pane/q-admin-pane/g</text>

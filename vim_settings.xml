@@ -28,12 +28,12 @@
         <mark key="." line="50" column="16" />
         <mark key="^" line="50" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1443334439751">
-        <mark key="'" line="8" column="33" />
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="16" />
+      <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1443354030593">
+        <mark key="'" line="15" column="16" />
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="46" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-explorer.js" timestamp="1443197928888">
         <mark key="'" line="0" column="0" />
@@ -170,6 +170,12 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="65" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1443353929323">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" timestamp="1443195180711">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="22" column="40" />
@@ -206,11 +212,23 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1443202473513">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="62" />
+        <mark key="." line="27" column="62" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/routes/register.js" timestamp="1443335687795">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="8" column="3" />
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header-mobile.less" timestamp="1443195189727">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/plain-text-viewer.js" timestamp="1443336114136">
         <mark key="'" line="10" column="13" />
@@ -351,12 +369,12 @@
         <mark key="." line="15" column="70" />
         <mark key="^" line="15" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-header.js" timestamp="1443336281013">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="48" />
-        <mark key="." line="9" column="48" />
-        <mark key="^" line="9" column="48" />
+      <file name="$USER_HOME$/projects/docq/app/components/home-header.js" timestamp="1443354249980">
+        <mark key="'" line="9" column="48" />
+        <mark key="[" line="40" column="36" />
+        <mark key="]" line="40" column="36" />
+        <mark key="." line="40" column="36" />
+        <mark key="^" line="40" column="34" />
       </file>
       <file name="$USER_HOME$/projects/editor/apps/documenteditor/main/index.html.deploy" timestamp="1443199686529">
         <mark key="[" line="12" column="67" />
@@ -416,6 +434,14 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" timestamp="1443354203788">
+        <mark key="u" line="28" column="14" />
+        <mark key="'" line="28" column="14" />
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="19" column="55" />
+        <mark key="." line="19" column="55" />
+        <mark key="^" line="19" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1442679974376">
         <mark key="[" line="19" column="105" />
         <mark key="]" line="19" column="106" />
@@ -453,11 +479,23 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/page-home.js" timestamp="1443334723127">
+        <mark key="'" line="41" column="6" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/initializers/inject-auth.js" timestamp="1443325525139">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="16" />
         <mark key="." line="7" column="19" />
         <mark key="^" line="1" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/page-index.js" timestamp="1443335626452">
+        <mark key="'" line="50" column="11" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/access-password-panel.js" timestamp="1443202411045">
         <mark key="[" line="33" column="8" />
@@ -467,12 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="57" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="15" column="2" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
-      <jump line="59" column="32" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
-      <jump line="60" column="18" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
-      <jump line="136" column="9" filename="$USER_HOME$/projects/docq/app/mixins/drag-box-mixin.js" />
-      <jump line="119" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/user-contacts.js" />
       <jump line="39" column="24" filename="$USER_HOME$/projects/docq/app/templates/components/user-contacts.hbs" />
       <jump line="30" column="33" filename="$USER_HOME$/projects/docq/app/templates/components/user-contacts.hbs" />
@@ -567,46 +599,52 @@
       <jump line="63" column="62" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
       <jump line="77" column="0" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
       <jump line="44" column="20" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
+      <jump line="29" column="14" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
+      <jump line="14" column="16" filename="$USER_HOME$/projects/docq/app/models/user.js" />
+      <jump line="9" column="48" filename="$USER_HOME$/projects/docq/app/components/home-header.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkdWxlQXV0aFN0YXRlV2F0Y2hlcigpCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>session</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2NoZWR1bGVBdXRoU3RhdGVXYXRjaGVyKCkK</text>
+        <text encoding="base64">ICAgIGdvVG9JbmRleCgpIHsKICAgICAgdGhpcy5hcHAudHJhY2tFdmVudCgnaG9tZS1oZWFkZXInLCAnY2xpY2snLCAnTE9HTycpCiAgICAgIHRoaXMuc2VuZCgnZ29Ub1JvdXRlJywgJ2luZGV4JywgewogICAgICAgIHF1ZXJ5UGFyYW1zOiB7CiAgICAgICAgICBzdGF5OiAxCiAgICAgICAgfQogICAgICB9KQogICAgfSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjaGVkdWxlQXV0aFN0YXRlV2F0Y2hlcigpCg==</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>this</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>{</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvY2FsU3RvcmFnZS5ET0NRCg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeVBhcmFtczogewogICAgICAgICAgc3RheTogMQogICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMud3JpdGVTdG9yZSgpCg==</text>
+      <register name="7" type="4">
+        <text>index</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IHx8IEVtYmVyLmlzRW1wdHkoJ2xvY2FsU3RvcmFnZS5ET0NRRW1iZXJBdXRoU3RvcmUuYWNjZXNzVG9rZW4nKSkgew==</text>
+        <text>LOGO</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>I</text>
       </register>
       <register name=":" type="4">
         <text>%s/emberLocalStorage/localStorage/g</text>

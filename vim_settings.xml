@@ -364,11 +364,13 @@
         <mark key="^" line="0" column="112" />
         <mark key="." line="0" column="112" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" timestamp="1443162622312">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="48" />
-        <mark key="." line="33" column="48" />
-        <mark key="^" line="33" column="48" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" timestamp="1443319465488">
+        <mark key="u" line="24" column="14" />
+        <mark key="'" line="24" column="14" />
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1442679974376">
         <mark key="[" line="19" column="105" />
@@ -416,8 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="7" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
-      <jump line="91" column="7" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
       <jump line="14" column="37" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
       <jump line="16" column="37" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
       <jump line="5" column="7" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
@@ -516,13 +516,15 @@
       <jump line="181" column="15" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
       <jump line="192" column="15" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
       <jump line="214" column="15" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
+      <jump line="24" column="14" filename="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFja0V2ZW50XD4=</text>
@@ -531,31 +533,31 @@
         <text encoding="base64">ICBwcm9ncmVzc1BlcmNlbnQ6IDAsCg==</text>
       </register>
       <register name="1" type="4">
-        <text>this</text>
+        <text>t</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPGltZyBzcmM9Imh0dHA6Ly9wdWIuaWRxcWltZy5jb20vd3BhL2ltYWdlcy9jb3Vuc2VsaW5nX3N0eWxlXzUxLnBuZyI+Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>this</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name="5" type="4">
+        <text>'</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">IGZpbGVBY2Nlc3M=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>d</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgOiAwLAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>progressPercent</text>
-      </register>
-      <register name="9" type="4">
-        <text>this</text>
       </register>
     </registers>
     <search>
@@ -622,6 +624,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

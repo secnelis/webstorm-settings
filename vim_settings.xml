@@ -47,6 +47,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="3" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/page-numbers.hbs" timestamp="1443365141891">
+        <mark key="'" line="39" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/unknown-format-viewer.js" timestamp="1443202731737">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="11" column="72" />
@@ -425,6 +431,12 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/page-numbers.js" timestamp="1443365094379">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="1" column="55" />
+        <mark key="." line="1" column="55" />
+        <mark key="^" line="1" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1443336276144">
         <mark key="'" line="209" column="4" />
         <mark key="[" line="21" column="40" />
@@ -642,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="50" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
       <jump line="112" column="4" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
       <jump line="109" column="15" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
@@ -742,13 +753,14 @@
       <jump line="30" column="42" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
       <jump line="38" column="22" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
       <jump line="22" column="27" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
+      <jump line="39" column="6" filename="$USER_HOME$/projects/docq/app/templates/components/page-numbers.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">e3t5aWVsZH19Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>Ember</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -756,32 +768,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNlbmQoJ3JlbG9hZFVzZXJzJykK</text>
       </register>
-      <register name="1" type="4">
-        <text>self</text>
+      <register name="1" type="2">
+        <text encoding="base64">e3t5aWVsZH19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciAka2V5d29yZCA9IHRoaXMuJCgnW25hbWU9ImtleXdvcmQiXScpCiAgICB0aGlzLmFwcC5kZWJ1Zygka2V5d29yZCkKICAgICRrZXl3b3JkLmtleXByZXNzKGZ1bmN0aW9uKGV2ZW50KSB7CiAgICAgIHNlbGYuYXBwLmRlYnVnKCdrZXljb2RlJywgZXZlbnQua2V5Q29kZSkKICAgICAgaWYgKGV2ZW50LmtleUNvZGUgPT09IDEzKSB7CiAgICAgICAgc2VsZi5zZXQoJ2tleXdvcmQnLCAkKHRoaXMpLnZhbCgpKQogICAgICAgIHNlbGYuc2VuZCgncmVsb2FkVXNlcnMnKQogICAgICAgIHJldHVybiBmYWxzZQogICAgICB9CiAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>Ember</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hcHAuZGVidWcoJ2V2ZW50JywgZXZlbnQpCg==</text>
+      <register name="4" type="4">
+        <text>;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIHB1bGwtcmlnaHQgaW5wdXQtc20gdGV4dC1jZW50ZXIiIHR5cGU9InRleHQiIG5hbWU9ImtleXdvcmQiIHBsYWNlaG9sZGVyPSLmkJzntKIiPgo=</text>
+      <register name="5" type="4">
+        <text>self</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhciAka2V5d29yZCA9IHRoaXMuJCgnW25hbWU9ImtleXdvcmQiXScpCiAgICB0aGlzLmFwcC5kZWJ1Zygka2V5d29yZCkKICAgICRrZXl3b3JkLmtleXByZXNzKGZ1bmN0aW9uKGV2ZW50KSB7CiAgICAgIHNlbGYuYXBwLmRlYnVnKCdrZXljb2RlJywgZXZlbnQua2V5Q29kZSkKICAgICAgaWYgKGV2ZW50LmtleUNvZGUgPT09IDEzKSB7CiAgICAgICAgc2VsZi5zZXQoJ2tleXdvcmQnLCAkKHRoaXMpLnZhbCgpKQogICAgICAgIHNlbGYuc2VuZCgncmVsb2FkVXNlcnMnKQogICAgICAgIHJldHVybiBmYWxzZQogICAgICB9CiAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCRrZXl3b3JkLmxlbmd0aCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>keydown</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5hcHAuZGVidWcoJ2V2ZW50JywgZXZlbnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIHB1bGwtcmlnaHQgaW5wdXQtc20gdGV4dC1jZW50ZXIiIHR5cGU9InRleHQiIG5hbWU9ImtleXdvcmQiIHBsYWNlaG9sZGVyPSLmkJzntKIiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/q-home-pane/q-admin-pane/g</text>

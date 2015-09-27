@@ -10,6 +10,9 @@
         <mark key="." line="78" column="63" />
         <mark key="^" line="78" column="63" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/services/auth.js" timestamp="1443320634290">
+        <mark key="'" line="78" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/page-forgot-password.js" timestamp="1443161932268">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="26" column="0" />
@@ -421,7 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="37" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
       <jump line="16" column="37" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
       <jump line="5" column="7" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
       <jump line="26" column="1" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
@@ -521,6 +523,7 @@
       <jump line="214" column="15" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
       <jump line="24" column="14" filename="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" />
+      <jump line="78" column="2" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

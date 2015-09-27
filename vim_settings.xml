@@ -10,8 +10,11 @@
         <mark key="." line="78" column="63" />
         <mark key="^" line="78" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/services/auth.js" timestamp="1443320634290">
-        <mark key="'" line="78" column="2" />
+      <file name="$USER_HOME$/projects/docq/app/services/auth.js" timestamp="1443321487113">
+        <mark key="'" line="80" column="2" />
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="9" column="46" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/page-forgot-password.js" timestamp="1443161932268">
         <mark key="'" line="0" column="0" />
@@ -526,8 +529,8 @@
       <jump line="78" column="2" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgdXNlcjogRW1iZXIuY29tcHV0ZWQucmVhZE9ubHkoJ3N0b3JlLnVzZXInKSwK</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -538,32 +541,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwcm9ncmVzc1BlcmNlbnQ6IDAsCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CiAgdXNlcjogRW1iZXIuY29tcHV0ZWQucmVhZE9ubHkoJ3N0b3JlLnVzZXInKSwK</text>
+      </register>
+      <register name="2" type="4">
         <text>t</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgPGltZyBzcmM9Imh0dHA6Ly9wdWIuaWRxcWltZy5jb20vd3BhL2ltYWdlcy9jb3Vuc2VsaW5nX3N0eWxlXzUxLnBuZyI+Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>this</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>,</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>'</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGZpbGVBY2Nlc3M=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>d</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgOiAwLAo=</text>
       </register>
     </registers>
     <search>

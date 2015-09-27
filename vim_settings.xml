@@ -10,12 +10,12 @@
         <mark key="." line="78" column="63" />
         <mark key="^" line="78" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/services/auth.js" timestamp="1443334687880">
+      <file name="$USER_HOME$/projects/docq/app/services/auth.js" timestamp="1443335515890">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="83" column="32" />
-        <mark key="]" line="84" column="24" />
-        <mark key="^" line="84" column="24" />
-        <mark key="." line="84" column="24" />
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="57" />
+        <mark key="^" line="12" column="57" />
+        <mark key="." line="12" column="57" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/page-forgot-password.js" timestamp="1443161932268">
         <mark key="'" line="0" column="0" />
@@ -115,12 +115,12 @@
         <mark key="." line="40" column="31" />
         <mark key="^" line="40" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1443334728581">
-        <mark key="'" line="87" column="19" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="140" column="29" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1443334990730">
+        <mark key="'" line="52" column="22" />
+        <mark key="[" line="86" column="54" />
+        <mark key="]" line="87" column="35" />
+        <mark key="." line="87" column="35" />
+        <mark key="^" line="87" column="35" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/modal-upload.js" timestamp="1443202542243">
         <mark key="'" line="11" column="0" />
@@ -407,11 +407,11 @@
         <mark key="^" line="0" column="112" />
         <mark key="." line="0" column="112" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/routes/home.js" timestamp="1443327187910">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="8" column="2" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="29" />
+      <file name="$USER_HOME$/projects/docq/app/routes/home.js" timestamp="1443335598076">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" timestamp="1443319465488">
         <mark key="u" line="24" column="14" />
@@ -463,11 +463,12 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/page-index.js" timestamp="1443332580178">
-        <mark key="[" line="41" column="18" />
-        <mark key="]" line="41" column="27" />
-        <mark key="." line="41" column="27" />
-        <mark key="^" line="41" column="27" />
+      <file name="$USER_HOME$/projects/docq/app/components/page-index.js" timestamp="1443335430299">
+        <mark key="'" line="51" column="11" />
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="41" column="60" />
+        <mark key="." line="41" column="60" />
+        <mark key="^" line="41" column="60" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/access-password-panel.js" timestamp="1443202411045">
         <mark key="[" line="33" column="8" />
@@ -477,8 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="38" filename="$USER_HOME$/projects/docq/app/components/index-header.js" />
-      <jump line="47" column="38" filename="$USER_HOME$/projects/docq/app/components/index-header.js" />
       <jump line="52" column="38" filename="$USER_HOME$/projects/docq/app/components/index-header.js" />
       <jump line="6" column="18" filename="$USER_HOME$/projects/docq/app/components/index-header.js" />
       <jump line="58" column="1" filename="$USER_HOME$/projects/docq/app/components/index-header.js" />
@@ -577,55 +576,57 @@
       <jump line="96" column="19" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
       <jump line="32" column="0" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
       <jump line="41" column="6" filename="$USER_HOME$/projects/docq/app/components/page-home.js" />
+      <jump line="52" column="22" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
+      <jump line="50" column="11" filename="$USER_HOME$/projects/docq/app/components/page-index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlbG9hZFVzZXJQcm9maWxlKCkgewogICAgICB2YXIgc2VsZiA9IHRoaXMKICAgICAgJC5nZXRKU09OKHRoaXMuYXBwLmFwaVVybCgnYXV0aC91c2VyLXByb2ZpbGUnKSkudGhlbihmdW5jdGlvbiAocmVzcG9uc2UpIHsKICAgICAgICB2YXIgc2Vzc2lvbiA9IHNlbGYuZ2V0KCdzZXNzaW9uJykKICAgICAgICBzZXNzaW9uLnNldCgnY29udGVudC51c2VyUHJvZmlsZScsIHNlbGYuYXBwLmNhbWVsaXplT2JqZWN0KHJlc3BvbnNlKSkKICAgICAgICBzZXNzaW9uLnVwZGF0ZVN0b3JlKCkKICAgICAgfSkKICAgIH0sCgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>reloadUser</text>
+        <text>session</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVXNlci5maW5kKHJlc3BvbnNlLnVzZXJfaWQpCg==</text>
+        <text encoding="base64">ICBzZXR1cEFqYXhQcmVmaWx0ZXIoKSB7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlbG9hZFVzZXJQcm9maWxlKCkgewogICAgICB2YXIgc2VsZiA9IHRoaXMKICAgICAgJC5nZXRKU09OKHRoaXMuYXBwLmFwaVVybCgnYXV0aC91c2VyLXByb2ZpbGUnKSkudGhlbihmdW5jdGlvbiAocmVzcG9uc2UpIHsKICAgICAgICB2YXIgc2Vzc2lvbiA9IHNlbGYuZ2V0KCdzZXNzaW9uJykKICAgICAgICBzZXNzaW9uLnNldCgnY29udGVudC51c2VyUHJvZmlsZScsIHNlbGYuYXBwLmNhbWVsaXplT2JqZWN0KHJlc3BvbnNlKSkKICAgICAgICBzZXNzaW9uLnVwZGF0ZVN0b3JlKCkKICAgICAgfSkKICAgIH0sCgo=</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VuZCgncmVsb2FkVXNlclByb2ZpbGUnKQo=</text>
+      <register name="2" type="4">
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>store</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>response.user_id</text>
+        <text>u</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>g</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>'session.isAuthenticated'</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>%s/emberLocalStorage/localStorage/g</text>
       </register>
     </registers>
     <search>
-      <last-search>reloadUser</last-search>
+      <last-search>session</last-search>
       <last-offset />
-      <last-pattern>reloadUser</last-pattern>
+      <last-pattern>session</last-pattern>
       <last-replace>localStorage</last-replace>
       <last-substitute>emberLocalStorage</last-substitute>
       <last-dir>1</last-dir>
@@ -651,8 +652,8 @@
         <entry>emberLocalStorage</entry>
         <entry encoding="base64">XDxsb2NhbFN0b3JhZ2VcPg==</entry>
         <entry>localStorage</entry>
-        <entry>session</entry>
         <entry>reloadUser</entry>
+        <entry>session</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

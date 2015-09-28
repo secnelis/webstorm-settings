@@ -44,6 +44,12 @@
         <mark key="." line="31" column="63" />
         <mark key="^" line="31" column="63" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager-item.hbs" timestamp="1443409105060">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="81" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" timestamp="1442684072124">
         <mark key="'" line="441" column="12" />
         <mark key="[" line="54" column="63" />
@@ -518,44 +524,44 @@
       <jump line="214" column="15" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PHRkPnt7dXNlci5zdGF0dXNOYW1lfX08L3RkPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFja0V2ZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcm9ncmVzc1BlcmNlbnQ6IDAsCg==</text>
+        <text encoding="base64">PHRkPnt7aW5wdXQgdHlwZT0ndGV4dCcgY2xhc3NCaW5kaW5nPSc6Zm9ybS1jb250cm9sIDppbnB1dC1zbScgdmFsdWU9dXNlci5uaWNrbmFtZX19PC90ZD4K</text>
       </register>
-      <register name="1" type="4">
-        <text>this</text>
+      <register name="1" type="2">
+        <text encoding="base64">PHRkPnt7dXNlci5zdGF0dXNOYW1lfX08L3RkPgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">PHRkPnt7dXNlci5uaWNrbmFtZX19PC90ZD4K</text>
       </register>
       <register name="3" type="4">
-        <text>'</text>
+        <text>email</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">PHRkPnt7dXNlci5lbWFpbH19PC90ZD4K</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGZpbGVBY2Nlc3M=</text>
+        <text>num</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>this</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgOiAwLAo=</text>
+      <register name="7" type="4">
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>progressPercent</text>
+        <text>'</text>
       </register>
-      <register name="9" type="4">
-        <text>this</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
     <search>

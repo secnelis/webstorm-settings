@@ -206,12 +206,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/plain-text-viewer.js" timestamp="1443202388183">
+      <file name="$USER_HOME$/projects/docq/app/components/plain-text-viewer.js" timestamp="1443425080153">
         <mark key="'" line="10" column="13" />
-        <mark key="[" line="56" column="66" />
-        <mark key="]" line="56" column="66" />
-        <mark key="." line="56" column="66" />
-        <mark key="^" line="56" column="68" />
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+        <mark key="^" line="32" column="44" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1443201406454">
         <mark key="'" line="209" column="4" />

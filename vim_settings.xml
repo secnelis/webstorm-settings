@@ -3,12 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/docq/app/styles/components/admin-user-manager.less" timestamp="1443411635468">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" timestamp="1443163472290">
         <mark key="'" line="42" column="2" />
         <mark key="[" line="78" column="51" />
         <mark key="]" line="78" column="63" />
         <mark key="." line="78" column="63" />
         <mark key="^" line="78" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/services/auth.js" timestamp="1443413831773">
+        <mark key="[" line="110" column="30" />
+        <mark key="]" line="111" column="20" />
+        <mark key="^" line="111" column="20" />
+        <mark key="." line="111" column="20" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/page-forgot-password.js" timestamp="1443161932268">
         <mark key="'" line="0" column="0" />
@@ -44,11 +57,12 @@
         <mark key="." line="31" column="63" />
         <mark key="^" line="31" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager-item.hbs" timestamp="1443409105060">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="2" column="81" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager-item.hbs" timestamp="1443413670752">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="35" />
       </file>
       <file name="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" timestamp="1442684072124">
         <mark key="'" line="441" column="12" />
@@ -91,12 +105,12 @@
         <mark key="." line="40" column="31" />
         <mark key="^" line="40" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1442997720048">
-        <mark key="'" line="84" column="14" />
-        <mark key="[" line="142" column="12" />
-        <mark key="]" line="143" column="19" />
-        <mark key="." line="143" column="19" />
-        <mark key="^" line="143" column="19" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1443413443696">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="47" />
+        <mark key="." line="42" column="47" />
+        <mark key="^" line="42" column="47" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/modal-upload.js" timestamp="1443202542243">
         <mark key="'" line="11" column="0" />
@@ -130,6 +144,12 @@
         <mark key="]" line="12" column="15" />
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="65" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/routes/admin.js" timestamp="1443413556610">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" timestamp="1443195180711">
         <mark key="[" line="22" column="40" />
@@ -206,6 +226,13 @@
         <mark key="]" line="52" column="23" />
         <mark key="." line="52" column="23" />
         <mark key="^" line="52" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/admin-user-manager-item.js" timestamp="1443413699146">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="16" />
+        <mark key="." line="52" column="16" />
+        <mark key="^" line="52" column="16" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header-mobile.js" timestamp="1443201422443">
         <mark key="[" line="178" column="5" />
@@ -376,6 +403,13 @@
         <mark key="." line="33" column="48" />
         <mark key="^" line="33" column="48" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" timestamp="1443414279516">
+        <mark key="'" line="26" column="11" />
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+        <mark key="^" line="30" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1442679974376">
         <mark key="[" line="19" column="105" />
         <mark key="]" line="19" column="106" />
@@ -402,11 +436,6 @@
         <mark key="^" line="21" column="69" />
         <mark key="." line="21" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sync-editor.conf" timestamp="1443200791849">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/components/page-index.js" timestamp="1443162659849">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="54" column="47" />
@@ -422,18 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="7" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
-      <jump line="91" column="7" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
-      <jump line="14" column="37" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
-      <jump line="16" column="37" filename="$USER_HOME$/projects/docq/node_modules/ember-cli/lib/broccoli/ember-app.js" />
-      <jump line="5" column="7" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
-      <jump line="26" column="1" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
-      <jump line="4" column="3" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
-      <jump line="17" column="26" filename="$USER_HOME$/projects/docq/deployment/deploy.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/docq/deploy-type" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/modal-contact.js" />
-      <jump line="1" column="24" filename="$USER_HOME$/projects/docq/app/components/modal-feedback.js" />
-      <jump line="14" column="27" filename="$USER_HOME$/projects/docq/app/components/modal-feedback.js" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/docq/app/components/modal-feedback.js" />
       <jump line="84" column="14" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/home-header.js" />
@@ -522,58 +539,69 @@
       <jump line="181" column="15" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
       <jump line="192" column="15" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
       <jump line="214" column="15" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
+      <jump line="26" column="11" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/admin-user-manager.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
+      <jump line="9" column="22" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
+      <jump line="16" column="18" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
+      <jump line="19" column="36" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
+      <jump line="25" column="19" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
+      <jump line="30" column="18" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
+      <jump line="42" column="1" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager-item.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager-item.hbs" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager-item.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHRkPnt7dXNlci5zdGF0dXNOYW1lfX08L3RkPgo=</text>
+      <register name="&quot;" type="4">
+        <text>nbsp</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>nbsp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFja0V2ZW50XD4=</text>
+        <text>password</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHRkPnt7aW5wdXQgdHlwZT0ndGV4dCcgY2xhc3NCaW5kaW5nPSc6Zm9ybS1jb250cm9sIDppbnB1dC1zbScgdmFsdWU9dXNlci5uaWNrbmFtZX19PC90ZD4K</text>
+        <text encoding="base64">ICAgIDx0cj4KICAgICAgPHRoPuW6j+WPtzwvdGg+CiAgICAgIDx0aD7pgq7nrrE8L3RoPgogICAgICA8dGg+5pi156ewPC90aD4KICAgICAgPHRoPuWvhueggTwvdGg+CiAgICAgIDx0aD7nirbmgIE8L3RoPgogICAgICA8dGg+Jm5ic3A7PC90aD4KICAgIDwvdHI+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PHRkPnt7dXNlci5zdGF0dXNOYW1lfX08L3RkPgo=</text>
+      <register name="1" type="4">
+        <text>nbsp</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PHRkPnt7dXNlci5uaWNrbmFtZX19PC90ZD4K</text>
+      <register name="2" type="4">
+        <text>邮箱</text>
       </register>
       <register name="3" type="4">
-        <text>email</text>
+        <text>序号</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHRkPnt7dXNlci5lbWFpbH19PC90ZD4K</text>
+        <text encoding="base64">ICAgIDx0cgo=</text>
       </register>
       <register name="5" type="4">
-        <text>num</text>
+        <text>self</text>
       </register>
       <register name="6" type="4">
-        <text>this</text>
+        <text>self</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>saveUser</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>alert('changed')</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFja0V2ZW50XD4=</last-search>
+      <last-search>password</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFja0V2ZW50XD4=</last-pattern>
+      <last-pattern>password</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>didIn</entry>
         <entry encoding="base64">XDxmaWxlSXRlbVw+</entry>
         <entry>download</entry>
         <entry encoding="base64">XDxwcm9tcHRcPg==</entry>
@@ -593,6 +621,7 @@
         <entry encoding="base64">XDxlZGl0b3JEb2N1bWVudERvbWFpblw+</entry>
         <entry encoding="base64">XDxkb0ZpbGVTaG93SGVhZGVyTG9nb3V0XD4=</entry>
         <entry encoding="base64">XDx0cmFja0V2ZW50XD4=</entry>
+        <entry>password</entry>
       </history-search>
       <history-cmd />
       <history-expr />

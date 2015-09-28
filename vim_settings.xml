@@ -85,12 +85,12 @@
         <mark key="^" line="7" column="55" />
         <mark key="." line="7" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/services/app.js" timestamp="1443159560444">
+      <file name="$USER_HOME$/projects/docq/app/services/app.js" timestamp="1443426856238">
         <mark key="'" line="55" column="3" />
-        <mark key="[" line="96" column="5" />
-        <mark key="]" line="97" column="42" />
-        <mark key="." line="97" column="42" />
-        <mark key="^" line="97" column="42" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="95" column="39" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="97" column="31" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/index-header.js" timestamp="1443162262250">
         <mark key="'" line="58" column="1" />
@@ -206,12 +206,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/plain-text-viewer.js" timestamp="1443425080153">
+      <file name="$USER_HOME$/projects/docq/app/components/plain-text-viewer.js" timestamp="1443426362298">
         <mark key="'" line="10" column="13" />
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="44" />
-        <mark key="." line="32" column="44" />
-        <mark key="^" line="32" column="44" />
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="32" column="51" />
+        <mark key="^" line="32" column="51" />
+        <mark key="." line="32" column="51" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1443201406454">
         <mark key="'" line="209" column="4" />
@@ -233,6 +233,12 @@
         <mark key="]" line="52" column="23" />
         <mark key="." line="52" column="23" />
         <mark key="^" line="52" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/word-mobile-viewer.js" timestamp="1443426905720">
+        <mark key="[" line="27" column="56" />
+        <mark key="]" line="27" column="56" />
+        <mark key="." line="27" column="56" />
+        <mark key="^" line="27" column="56" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/admin-user-manager-item.js" timestamp="1443417418007">
         <mark key="'" line="2" column="0" />
@@ -560,44 +566,44 @@
       <jump line="36" column="41" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InB1bGwtbGVmdCI+CiAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iPua3u+WKoOeUqOaItzwvYnV0dG9uPgogICAgPC9kaXY+Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>.htmlSafe()</text>
       </register>
       <register name="-" type="4">
-        <text>保存成功</text>
+        <text>.htmlSafe()</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgICQucG9zdCh0aGlzLmFwcC5hcGlVcmwoJ2FkbWluL3VzZXItaW5mbycpLCB7CiAgICAgICAgX21ldGhvZDogJ1BVVCcsCiAgICAgICAgdXNlcl9pZDogdGhpcy5nZXQoJ3VzZXIuaWQnKSwKICAgICAgICBlbWFpbDogdGhpcy5nZXQoJ3VzZXIuZW1haWwnKSwKICAgICAgICBuaWNrbmFtZTogdGhpcy5nZXQoJ3VzZXIubmlja25hbWUnKSwKICAgICAgICBzdGF0dXM6IHRoaXMuZ2V0KCd1c2VyLnN0YXR1cycpCiAgICAgIH0pCiAgICAgICAgLnRoZW4oZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgICBzZWxmLmFwcC5ub3R5KCfkv53lrZjmiJDlip8nKQogICAgICAgIH0sIGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgc2VsZi5hcHAubm90eUVycm9yKHJlc3BvbnNlLnJlc3BvbnNlSlNPTi5lcnJvcikKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGh0bWwgPSBodG1sLnJlcGxhY2UoLyAvZywgJyZuYnNwOycpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InB1bGwtbGVmdCI+CiAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iPua3u+WKoOeUqOaItzwvYnV0dG9uPgogICAgPC9kaXY+Cgo=</text>
+      <register name="1" type="4">
+        <text>.htmlSafe()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGYuc2V0KCdrZXl3b3JkJywgJycpCg==</text>
+        <text encoding="base64">ICAgIGh0bWwgPSBodG1sLnJlcGxhY2UoL1x0L2csICcmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsnKQogICAgaHRtbCA9IGh0bWwucmVwbGFjZSgvIC9nLCAnJm5ic3A7JykK</text>
       </register>
       <register name="3" type="4">
-        <text>保存成功</text>
+        <text encoding="base64">JzxwPicgKyB0ZXh0ICsgJzwvcD4n</text>
       </register>
-      <register name="4" type="4">
-        <text>status</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGh0bWwgPSBodG1sLnJlcGxhY2UoL1xyP1xuL2csICc8L3A+PHA+JykK</text>
       </register>
       <register name="5" type="4">
-        <text>user.status</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>user.nickname</text>
+        <text>nbsp</text>
       </register>
       <register name="7" type="4">
-        <text>user.email</text>
+        <text>nbsp</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lkOiB0aGlzLmdldCgnbmV3VXNlckVtYWlsJyksCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>user.id</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

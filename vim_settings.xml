@@ -151,6 +151,13 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" timestamp="1443417766602">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="33" />
+        <mark key="]" line="58" column="32" />
+        <mark key="." line="58" column="32" />
+        <mark key="^" line="58" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header.less" timestamp="1443195180711">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="22" column="40" />
@@ -227,10 +234,10 @@
         <mark key="." line="52" column="23" />
         <mark key="^" line="52" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/admin-user-manager-item.js" timestamp="1443414950966">
-        <mark key="'" line="58" column="7" />
-        <mark key="[" line="52" column="13" />
-        <mark key="]" line="52" column="16" />
+      <file name="$USER_HOME$/projects/docq/app/components/admin-user-manager-item.js" timestamp="1443417418007">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="63" column="9" />
         <mark key="." line="52" column="16" />
         <mark key="^" line="52" column="16" />
       </file>
@@ -403,12 +410,12 @@
         <mark key="." line="33" column="48" />
         <mark key="^" line="33" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" timestamp="1443415325412">
-        <mark key="'" line="26" column="11" />
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="34" column="31" />
-        <mark key="." line="34" column="31" />
-        <mark key="^" line="34" column="31" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" timestamp="1443417742991">
+        <mark key="'" line="32" column="41" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="32" column="41" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1442679974376">
         <mark key="[" line="19" column="105" />
@@ -451,9 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="14" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/home-header.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/projects/docq/app/components/home-header.js" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/docq/app/components/home-header.js" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" />
       <jump line="30" column="5" filename="$USER_HOME$/projects/docq/app/components/modal-feedback.js" />
@@ -551,46 +555,49 @@
       <jump line="41" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager-item.js" />
       <jump line="97" column="0" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
       <jump line="58" column="7" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager-item.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager-item.js" />
+      <jump line="36" column="41" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LnEtYWRtaW4tdXNlci1tYW5hZ2VyIHRoIHsK</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InB1bGwtbGVmdCI+CiAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iPua3u+WKoOeUqOaItzwvYnV0dG9uPgogICAgPC9kaXY+Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>保存成功</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnEtYWRtaW4tdXNlci1tYW5hZ2VyIHRoIHsK</text>
+        <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgICQucG9zdCh0aGlzLmFwcC5hcGlVcmwoJ2FkbWluL3VzZXItaW5mbycpLCB7CiAgICAgICAgX21ldGhvZDogJ1BVVCcsCiAgICAgICAgdXNlcl9pZDogdGhpcy5nZXQoJ3VzZXIuaWQnKSwKICAgICAgICBlbWFpbDogdGhpcy5nZXQoJ3VzZXIuZW1haWwnKSwKICAgICAgICBuaWNrbmFtZTogdGhpcy5nZXQoJ3VzZXIubmlja25hbWUnKSwKICAgICAgICBzdGF0dXM6IHRoaXMuZ2V0KCd1c2VyLnN0YXR1cycpCiAgICAgIH0pCiAgICAgICAgLnRoZW4oZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgICBzZWxmLmFwcC5ub3R5KCfkv53lrZjmiJDlip8nKQogICAgICAgIH0sIGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgc2VsZi5hcHAubm90eUVycm9yKHJlc3BvbnNlLnJlc3BvbnNlSlNPTi5lcnJvcikKICAgICAgICB9KQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>text</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InB1bGwtbGVmdCI+CiAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iPua3u+WKoOeUqOaItzwvYnV0dG9uPgogICAgPC9kaXY+Cgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHNlbGYuc2V0KCdrZXl3b3JkJywgJycpCg==</text>
       </register>
       <register name="3" type="4">
-        <text>p</text>
+        <text>保存成功</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>status</text>
       </register>
       <register name="5" type="4">
-        <text>b</text>
+        <text>user.status</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>user.nickname</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>user.email</text>
       </register>
-      <register name="8" type="4">
-        <text>新</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyX2lkOiB0aGlzLmdldCgnbmV3VXNlckVtYWlsJyksCg==</text>
       </register>
       <register name="9" type="4">
-        <text>td</text>
+        <text>user.id</text>
       </register>
     </registers>
     <search>

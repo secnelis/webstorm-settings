@@ -339,6 +339,11 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/editor/sync-editor.conf" timestamp="1443973720616">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/initializers/inject-auth.js" timestamp="1443325525139">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="16" />
@@ -374,11 +379,6 @@
         <mark key="[" line="9" column="40" />
         <mark key="]" line="9" column="40" />
         <mark key="." line="9" column="48" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/page-home.hbs" timestamp="1443358255430">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="37" column="5" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/side-nav-button.js" timestamp="1443357575488">
         <mark key="'" line="82" column="0" />
@@ -648,6 +648,12 @@
         <mark key="]" line="64" column="1" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" timestamp="1443973629589">
+        <mark key="[" line="8076" column="41" />
+        <mark key="]" line="8076" column="41" />
+        <mark key="^" line="8076" column="41" />
+        <mark key="." line="8076" column="41" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/access-password-panel.js" timestamp="1443202411045">
         <mark key="[" line="33" column="8" />
         <mark key="]" line="33" column="8" />
@@ -758,47 +764,47 @@
       <jump line="14" column="14" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyLCB0LnJvd3Nbcl0nLCByLCB0LnJvd3Nbcl0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZW5kKCdyZWxvYWRVc2VycycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3QnLCB0KQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyLCB0LnJvd3Nbcl0nLCByLCB0LnJvd3Nbcl0pCg==</text>
       </register>
       <register name="2" type="4">
-        <text>response</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
+        <text>1</text>
+      </register>
+      <register name="5" type="4">
         <text>response</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGluY3JlbWVudFBhZ2UobnVtKSB7CiAgICAgIHZhciBjdXJyZW50UGFnZSA9IE51bWJlcih0aGlzLmdldCgncGFnZScpKQogICAgICB2YXIgdG90YWxQYWdlcyA9IE51bWJlcih0aGlzLmdldCgndG90YWxQYWdlcycpKQogICAgICBpZiAoY3VycmVudFBhZ2UgPT09IHRvdGFsUGFnZXMgJiYgbnVtID09PSAxKSB7CiAgICAgICAgcmV0dXJuCiAgICAgIH0KICAgICAgaWYgKGN1cnJlbnRQYWdlIDw9IDEgJiYgbnVtID09PSAtMSkgewogICAgICAgIHJldHVybiBmYWxzZQogICAgICB9CiAgICAgIHRoaXMuaW5jcmVtZW50UHJvcGVydHkoJ3BhZ2UnLCBudW0pOwogICAgICB0aGlzLnNlbmQoJ3JlbG9hZFVzZXJzJykKICAgIH0sCgo=</text>
-      </register>
       <register name="6" type="4">
-        <text>pageClicked</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGluY3JlbWVudFBhZ2U9J2luY3JlbWVudFBhZ2UnIH19</text>
+        <text>response</text>
       </register>
-      <register name="8" type="4">
-        <text>pageClicked</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGluY3JlbWVudFBhZ2UobnVtKSB7CiAgICAgIHZhciBjdXJyZW50UGFnZSA9IE51bWJlcih0aGlzLmdldCgncGFnZScpKQogICAgICB2YXIgdG90YWxQYWdlcyA9IE51bWJlcih0aGlzLmdldCgndG90YWxQYWdlcycpKQogICAgICBpZiAoY3VycmVudFBhZ2UgPT09IHRvdGFsUGFnZXMgJiYgbnVtID09PSAxKSB7CiAgICAgICAgcmV0dXJuCiAgICAgIH0KICAgICAgaWYgKGN1cnJlbnRQYWdlIDw9IDEgJiYgbnVtID09PSAtMSkgewogICAgICAgIHJldHVybiBmYWxzZQogICAgICB9CiAgICAgIHRoaXMuaW5jcmVtZW50UHJvcGVydHkoJ3BhZ2UnLCBudW0pOwogICAgICB0aGlzLnNlbmQoJ3JlbG9hZFVzZXJzJykKICAgIH0sCgo=</text>
       </register>
       <register name="9" type="4">
         <text>pageClicked</text>
       </register>
       <register name=":" type="4">
-        <text>%s/q-home-pane/q-admin-pane/g</text>
+        <text>8077</text>
       </register>
     </registers>
     <search>
@@ -836,6 +842,7 @@
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>
         <entry>%s/q-home-pane/q-admin-pane/g</entry>
+        <entry>8077</entry>
       </history-cmd>
       <history-expr />
       <history-input />

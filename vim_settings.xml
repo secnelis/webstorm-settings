@@ -488,12 +488,18 @@
         <mark key="^" line="21" column="69" />
         <mark key="." line="21" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" timestamp="1444280781808">
-        <mark key="'" line="1848" column="53" />
-        <mark key="[" line="2893" column="24" />
-        <mark key="]" line="2893" column="64" />
-        <mark key="^" line="2893" column="64" />
-        <mark key="." line="2893" column="64" />
+      <file name="$USER_HOME$/projects/editor/sync-editor.conf" timestamp="1444358573819">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" timestamp="1444358428911">
+        <mark key="'" line="2650" column="21" />
+        <mark key="[" line="1837" column="72" />
+        <mark key="]" line="1837" column="93" />
+        <mark key="^" line="1837" column="93" />
+        <mark key="." line="1837" column="93" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-footer-mobile.hbs" timestamp="1443606233439">
         <mark key="[" line="7" column="58" />
@@ -523,82 +529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1665" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1669" column="23" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1670" column="23" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1671" column="23" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1699" column="23" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1776" column="16" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1812" column="23" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1816" column="20" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1818" column="23" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2017" column="31" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2025" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2032" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2033" column="24" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2129" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2205" column="64" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2207" column="70" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2784" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2790" column="32" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2805" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2823" column="24" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2831" column="24" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2875" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2920" column="40" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2924" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2930" column="95" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2933" column="19" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2984" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3076" column="130" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3247" column="30" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3287" column="217" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3343" column="27" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3369" column="31" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3384" column="23" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3392" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3399" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3408" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3409" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3412" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3413" column="16" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3423" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3424" column="16" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3681" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3717" column="113" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3926" column="40" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3946" column="41" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3948" column="41" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3954" column="43" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3955" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3956" column="51" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3960" column="31" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3961" column="32" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3962" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4019" column="40" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4020" column="31" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4021" column="32" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4022" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4158" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4159" column="35" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4160" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4161" column="27" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4197" column="42" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4198" column="40" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="2896" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3033" column="52" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3692" column="57" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3694" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3713" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4326" column="45" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4489" column="108" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4539" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4556" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4560" column="80" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4602" column="46" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="6961" column="50" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="7443" column="54" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="8089" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="189" column="13" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="383" column="55" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="814" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
@@ -623,67 +553,136 @@
       <jump line="1763" column="52" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="1779" column="48" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="1848" column="53" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7319" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1737" column="77" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1872" column="71" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1946" column="71" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2076" column="119" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3067" column="73" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3162" column="69" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2067" column="77" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3105" column="73" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="8080" column="41" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="8082" column="41" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1906" column="57" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1980" column="57" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2094" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2095" column="43" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3385" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3386" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3822" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3835" column="46" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="4560" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="4657" column="73" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="4766" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="4768" column="62" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="5108" column="48" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="5109" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7318" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7320" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7323" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7324" column="48" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7330" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7331" column="43" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7332" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7337" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7338" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7342" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7454" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7760" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="225" column="13" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="890" column="61" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1835" column="58" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2674" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2676" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2693" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2695" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2713" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2715" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2733" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2735" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2743" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2745" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2970" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3143" column="58" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3830" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3831" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="4658" column="52" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7004" column="41" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7444" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7486" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="8113" column="62" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="385" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="408" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="746" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1283" column="65" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1472" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1474" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1608" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1619" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1644" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1645" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1837" column="93" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1902" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1917" column="50" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1976" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1991" column="50" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2652" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2650" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8YSBocmVmPSIvcmVnaXN0ZXI/dXRtPWZpbGUtc2hvdy1tb2JpbGUtZm9vdGVyIj5odHRwOi8vZG9jcS5jbjwvYT4K</text>
+      <register name="&quot;" type="4">
+        <text>dr</text>
       </register>
       <register name="-" type="4">
-        <text>DOCQ</text>
+        <text>dr</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aWR0aF8xcHhcPg==</text>
+        <text>Math.min</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8YSBjbGFzcz0icS1maWxlLXNob3ctZm9vdGVyLWxvZ28iIGhyZWY9IiMiIHt7YWN0aW9uIGdvVG9SZWdpc3Rlcn19PkRPQ1E8L2E+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICA8YSBocmVmPSIvcmVnaXN0ZXI/dXRtPWZpbGUtc2hvdy1tb2JpbGUtZm9vdGVyIj5odHRwOi8vZG9jcS5jbjwvYT4K</text>
+      <register name="1" type="4">
+        <text>dr</text>
       </register>
       <register name="2" type="4">
-        <text>DOCQ</text>
+        <text>cols</text>
       </register>
       <register name="3" type="4">
-        <text>h</text>
+        <text>nRowsCount</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>nRowsCount</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text>nColsCount</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>nColsCount</text>
       </register>
       <register name="7" type="4">
-        <text>g</text>
+        <text>nColsCount</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>nRowsCount</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>nColsCount</text>
       </register>
       <register name=":" type="4">
-        <text>2894</text>
+        <text>1847</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aWR0aF8xcHhcPg==</last-search>
+      <last-search>Math.min</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aWR0aF8xcHhcPg==</last-pattern>
+      <last-pattern>Math.min</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnB1dFR5cGVcPg==</entry>
-        <entry>textarea</entry>
-        <entry encoding="base64">XDx0ZXh0YXJlYVw+</entry>
-        <entry>initPro</entry>
-        <entry encoding="base64">XDx3aGljaFw+</entry>
-        <entry encoding="base64">XDxpc0NsaWNrYWJsZVw+</entry>
-        <entry>document.domain</entry>
         <entry encoding="base64">XDxjb21wYW55TmFtZVw+</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDxpc0RyYWdnaW5nXD4=</entry>
@@ -694,12 +693,21 @@
         <entry encoding="base64">XDx0cmFja0V2ZW50XD4=</entry>
         <entry>password</entry>
         <entry>undefined</entry>
-        <entry>'undefined'</entry>
         <entry>2894</entry>
         <entry encoding="base64">XDx3aWR0aF8xcHhcPg==</entry>
+        <entry>for.+nColsCount</entry>
+        <entry>for\.+nColsCount</entry>
+        <entry>\v.+</entry>
+        <entry>\vfor.+nColsCount</entry>
+        <entry>\vfor.+nRowsCount</entry>
+        <entry>'undefined'</entry>
+        <entry encoding="base64">XDxuQ29sc0NvdW50XD4=</entry>
+        <entry>Math.min</entry>
       </history-search>
       <history-cmd>
         <entry>2894</entry>
+        <entry>3069</entry>
+        <entry>1847</entry>
       </history-cmd>
       <history-expr />
       <history-input />

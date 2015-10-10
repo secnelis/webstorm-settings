@@ -502,8 +502,8 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" timestamp="1444358428911">
-        <mark key="'" line="2650" column="21" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" timestamp="1444458291118">
+        <mark key="'" line="7436" column="71" />
         <mark key="[" line="1837" column="72" />
         <mark key="]" line="1837" column="93" />
         <mark key="^" line="1837" column="93" />
@@ -537,11 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1549" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1550" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1570" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1577" column="62" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1580" column="41" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="1582" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="1610" column="131" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="1648" column="49" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
@@ -637,6 +632,11 @@
       <jump line="75" column="2" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
       <jump line="31" column="13" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
       <jump line="55" column="9" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7392" column="20" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7431" column="24" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7435" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7436" column="71" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -646,7 +646,7 @@
         <text encoding="base64">6Kej6Zmk5b2T5YmN5paH5qGj5Lit5omA5pyJ6KKr6ZSB5a6a55qE5Yy65Z+f77yI55So57qi6Imy6Jma57q/6KGo56S677yJ44CCPGJyPjxicj7pgILnlKjlnLrmma/vvJo8YnI+55Sx5LqO5oSP5aSW5Zug57Sg77yI5aaC5q2j5Zyo57yW6L6R55qE55So5oi356qB54S25pat572R77yJ6YCg5oiQ5paH5qGj6YOo5YiG5YaF5a656KKr6ZSB5a6a77yM5peg5rOV5q2j5bi46Kej6ZSB77yM5b2x5ZON5YW25LuW55So5oi355qE57yW6L6R44CCPGJyPjxicj7ms6jmhI/kuovpobnvvJo8YnI+5b2T5YmN5pON5L2c5Lya5by65Yi25omA5pyJ5q2j5Zyo57yW6L6R6K+l5paH5qGj55qE55So5oi35Li05pe256a757q/77yM5pyq5L+d5a2Y55qE5YaF5a655bCG5Lii5aSx77yM5pON5L2c5a6M5oiQ5ZCO6ZyA6KaB5Yi35paw6aG16Z2i5pa55Y+v57un57ut57yW6L6R44CCPGJyPjxicj7or7fnoa7kv53mgqjnkIbop6PkuIrpnaLnmoTlhoXlrrnvvIzngrnlh7sgIuehruiupCIg5oyJ6ZKu5omn6KGM6K+l5pON5L2cJyw=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXR1cEFqYXhQcmVmaWx0ZXJcPg==</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8YSBjbGFzcz0icS1maWxlLXNob3ctZm9vdGVyLWxvZ28iIGhyZWY9IiMiIHt7YWN0aW9uIGdvVG9SZWdpc3Rlcn19PkRPQ1E8L2E+Cg==</text>
@@ -683,15 +683,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXR1cEFqYXhQcmVmaWx0ZXJcPg==</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXR1cEFqYXhQcmVmaWx0ZXJcPg==</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDxpc0RyYWdnaW5nXD4=</entry>
         <entry encoding="base64">XDxhZGRDb250YWN0c1w+</entry>
         <entry>onFileOwn</entry>
@@ -711,6 +710,7 @@
         <entry encoding="base64">XDxuQ29sc0NvdW50XD4=</entry>
         <entry>Math.min</entry>
         <entry encoding="base64">XDxzZXR1cEFqYXhQcmVmaWx0ZXJcPg==</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>2894</entry>

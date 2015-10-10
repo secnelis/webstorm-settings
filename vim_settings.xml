@@ -17,11 +17,12 @@
         <mark key="." line="78" column="63" />
         <mark key="^" line="78" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/services/auth.js" timestamp="1443413831773">
-        <mark key="[" line="110" column="30" />
-        <mark key="]" line="111" column="20" />
+      <file name="$USER_HOME$/projects/docq/app/services/auth.js" timestamp="1444443923549">
+        <mark key="'" line="55" column="9" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="29" />
         <mark key="^" line="111" column="20" />
-        <mark key="." line="111" column="20" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/page-forgot-password.js" timestamp="1443161932268">
         <mark key="'" line="0" column="0" />
@@ -199,11 +200,12 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1443202473513">
+      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1444443551385">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="58" />
-        <mark key="]" line="27" column="62" />
-        <mark key="." line="27" column="62" />
+        <mark key="[" line="27" column="60" />
+        <mark key="]" line="27" column="61" />
+        <mark key="." line="27" column="61" />
+        <mark key="^" line="27" column="61" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header-mobile.less" timestamp="1443605201863">
         <mark key="'" line="40" column="0" />
@@ -529,14 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="13" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="383" column="55" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="814" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="857" column="108" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="858" column="80" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1488" column="30" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1541" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="1543" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="1549" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="1550" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="1570" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
@@ -629,43 +623,51 @@
       <jump line="1991" column="50" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="2652" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="2650" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="104" column="4" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
+      <jump line="74" column="2" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
+      <jump line="77" column="2" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
+      <jump line="75" column="2" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
+      <jump line="31" column="13" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
+      <jump line="55" column="9" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0dXBBamF4UHJlZmlsdGVyKCkK</text>
       </register>
       <register name="-" type="4">
         <text>dr</text>
       </register>
       <register name="/" type="4">
-        <text>Math.min</text>
+        <text encoding="base64">XDxzZXR1cEFqYXhQcmVmaWx0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8YSBjbGFzcz0icS1maWxlLXNob3ctZm9vdGVyLWxvZ28iIGhyZWY9IiMiIHt7YWN0aW9uIGdvVG9SZWdpc3Rlcn19PkRPQ1E8L2E+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>dr</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0dXBBamF4UHJlZmlsdGVyKCkK</text>
       </register>
-      <register name="2" type="4">
-        <text>cols</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldHVwQWpheFByZWZpbHRlcigpCg==</text>
       </register>
       <register name="3" type="4">
-        <text>nRowsCount</text>
+        <text>dr</text>
       </register>
       <register name="4" type="4">
-        <text>nRowsCount</text>
+        <text>cols</text>
       </register>
       <register name="5" type="4">
-        <text>nColsCount</text>
+        <text>nRowsCount</text>
       </register>
       <register name="6" type="4">
-        <text>nColsCount</text>
+        <text>nRowsCount</text>
       </register>
       <register name="7" type="4">
         <text>nColsCount</text>
       </register>
       <register name="8" type="4">
-        <text>nRowsCount</text>
+        <text>nColsCount</text>
       </register>
       <register name="9" type="4">
         <text>nColsCount</text>
@@ -675,15 +677,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Math.min</last-search>
+      <last-search encoding="base64">XDxzZXR1cEFqYXhQcmVmaWx0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>Math.min</last-pattern>
+      <last-pattern encoding="base64">XDxzZXR1cEFqYXhQcmVmaWx0ZXJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wYW55TmFtZVw+</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDxpc0RyYWdnaW5nXD4=</entry>
         <entry encoding="base64">XDxhZGRDb250YWN0c1w+</entry>
@@ -703,6 +704,7 @@
         <entry>'undefined'</entry>
         <entry encoding="base64">XDxuQ29sc0NvdW50XD4=</entry>
         <entry>Math.min</entry>
+        <entry encoding="base64">XDxzZXR1cEFqYXhQcmVmaWx0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2894</entry>

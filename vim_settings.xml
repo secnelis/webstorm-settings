@@ -72,6 +72,12 @@
         <mark key="." line="54" column="89" />
         <mark key="^" line="54" column="89" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1444446858978">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="33" />
+        <mark key="^" line="41" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" timestamp="1442995708991">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="32" column="0" />
@@ -220,12 +226,12 @@
         <mark key="^" line="32" column="51" />
         <mark key="." line="32" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1443606112466">
+      <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1444447135724">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="190" column="7" />
-        <mark key="." line="188" column="31" />
-        <mark key="^" line="188" column="31" />
+        <mark key="[" line="234" column="90" />
+        <mark key="]" line="234" column="90" />
+        <mark key="." line="234" column="90" />
+        <mark key="^" line="234" column="90" />
       </file>
       <file name="$USER_HOME$/projects/docq/config/environment.js" timestamp="1443200677986">
         <mark key="'" line="18" column="4" />
@@ -338,12 +344,12 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1443201398997">
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1444446809374">
         <mark key="'" line="79" column="32" />
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="46" />
-        <mark key="^" line="15" column="46" />
-        <mark key="." line="15" column="46" />
+        <mark key="[" line="41" column="55" />
+        <mark key="]" line="41" column="56" />
+        <mark key="^" line="41" column="56" />
+        <mark key="." line="41" column="56" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/recent-file-dropdown-item.js" timestamp="1443165246689">
         <mark key="'" line="0" column="0" />
@@ -633,11 +639,11 @@
       <jump line="55" column="9" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0dXBBamF4UHJlZmlsdGVyKCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">6Kej6Zmk5b2T5YmN5paH5qGj5Lit5omA5pyJ6KKr6ZSB5a6a55qE5Yy65Z+f77yI55So57qi6Imy6Jma57q/6KGo56S677yJ44CCPGJyPjxicj7pgILnlKjlnLrmma/vvJo8YnI+55Sx5LqO5oSP5aSW5Zug57Sg77yI5aaC5q2j5Zyo57yW6L6R55qE55So5oi356qB54S25pat572R77yJ6YCg5oiQ5paH5qGj6YOo5YiG5YaF5a656KKr6ZSB5a6a77yM5peg5rOV5q2j5bi46Kej6ZSB77yM5b2x5ZON5YW25LuW55So5oi355qE57yW6L6R44CCPGJyPjxicj7ms6jmhI/kuovpobnvvJo8YnI+5b2T5YmN5pON5L2c5Lya5by65Yi25omA5pyJ5q2j5Zyo57yW6L6R6K+l5paH5qGj55qE55So5oi35Li05pe256a757q/77yM5pyq5L+d5a2Y55qE5YaF5a655bCG5Lii5aSx77yM5pON5L2c5a6M5oiQ5ZCO6ZyA6KaB5Yi35paw6aG16Z2i5pa55Y+v57un57ut57yW6L6R44CCPGJyPjxicj7or7fnoa7kv53mgqjnkIbop6PkuIrpnaLnmoTlhoXlrrnvvIzngrnlh7sgIuehruiupCIg5oyJ6ZKu5omn6KGM6K+l5pON5L2cJyw=</text>
       </register>
       <register name="-" type="4">
-        <text>dr</text>
+        <text encoding="base64">6Kej6Zmk5b2T5YmN5paH5qGj5Lit5omA5pyJ6KKr6ZSB5a6a55qE5Yy65Z+f77yI55So57qi6Imy6Jma57q/6KGo56S677yJ44CCPGJyPjxicj7pgILnlKjlnLrmma/vvJo8YnI+55Sx5LqO5oSP5aSW5Zug57Sg77yI5aaC5q2j5Zyo57yW6L6R55qE55So5oi356qB54S25pat572R77yJ6YCg5oiQ5paH5qGj6YOo5YiG5YaF5a656KKr6ZSB5a6a77yM5peg5rOV5q2j5bi46Kej6ZSB77yM5b2x5ZON5YW25LuW55So5oi355qE57yW6L6R44CCPGJyPjxicj7ms6jmhI/kuovpobnvvJo8YnI+5b2T5YmN5pON5L2c5Lya5by65Yi25omA5pyJ5q2j5Zyo57yW6L6R6K+l5paH5qGj55qE55So5oi35Li05pe256a757q/77yM5pyq5L+d5a2Y55qE5YaF5a655bCG5Lii5aSx77yM5pON5L2c5a6M5oiQ5ZCO6ZyA6KaB5Yi35paw6aG16Z2i5pa55Y+v57un57ut57yW6L6R44CCPGJyPjxicj7or7fnoa7kv53mgqjnkIbop6PkuIrpnaLnmoTlhoXlrrnvvIzngrnlh7sgIuehruiupCIg5oyJ6ZKu5omn6KGM6K+l5pON5L2cJyw=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR1cEFqYXhQcmVmaWx0ZXJcPg==</text>
@@ -645,32 +651,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICA8YSBjbGFzcz0icS1maWxlLXNob3ctZm9vdGVyLWxvZ28iIGhyZWY9IiMiIHt7YWN0aW9uIGdvVG9SZWdpc3Rlcn19PkRPQ1E8L2E+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0dXBBamF4UHJlZmlsdGVyKCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">6Kej6Zmk5b2T5YmN5paH5qGj5Lit5omA5pyJ6KKr6ZSB5a6a55qE5Yy65Z+f77yI55So57qi6Imy6Jma57q/6KGo56S677yJ44CCPGJyPjxicj7pgILnlKjlnLrmma/vvJo8YnI+55Sx5LqO5oSP5aSW5Zug57Sg77yI5aaC5q2j5Zyo57yW6L6R55qE55So5oi356qB54S25pat572R77yJ6YCg5oiQ5paH5qGj6YOo5YiG5YaF5a656KKr6ZSB5a6a77yM5peg5rOV5q2j5bi46Kej6ZSB77yM5b2x5ZON5YW25LuW55So5oi355qE57yW6L6R44CCPGJyPjxicj7ms6jmhI/kuovpobnvvJo8YnI+5b2T5YmN5pON5L2c5Lya5by65Yi25omA5pyJ5q2j5Zyo57yW6L6R6K+l5paH5qGj55qE55So5oi35Li05pe256a757q/77yM5pyq5L+d5a2Y55qE5YaF5a655bCG5Lii5aSx77yM5pON5L2c5a6M5oiQ5ZCO6ZyA6KaB5Yi35paw6aG16Z2i5pa55Y+v57un57ut57yW6L6R44CCPGJyPjxicj7or7fnoa7kv53mgqjnkIbop6PkuIrpnaLnmoTlhoXlrrnvvIzngrnlh7sgIuehruiupCIg5oyJ6ZKu5omn6KGM6K+l5pON5L2cJyw=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldHVwQWpheFByZWZpbHRlcigpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">6Kej6Zmk5b2T5YmN5paH5qGj5Lit5omA5pyJ6KKr6ZSB5a6a55qE5Yy65Z+f77yI55So57qi6Imy6Jma57q/6KGo56S677yJ44CCPGJyPjxicj7pgILnlKjlnLrmma/vvJo8YnI+55Sx5LqO5oSP5aSW5Zug57Sg77yI5aaC5q2j5Zyo57yW6L6R55qE55So5oi356qB54S25pat572R77yJ6YCg5oiQ5paH5qGj6YOo5YiG5YaF5a656KKr6ZSB5a6a77yM5peg5rOV5q2j5bi46Kej6ZSB77yM5b2x5ZON5YW25LuW55So5oi355qE57yW6L6R44CCPGJyPjxicj7ms6jmhI/kuovpobnvvJo8YnI+5b2T5YmN5pON5L2c5Lya5by65Yi25omA5pyJ5q2j5Zyo57yW6L6R6K+l5paH5qGj55qE55So5oi35Li05pe256a757q/77yM5pyq5L+d5a2Y55qE5YaF5a655bCG5Lii5aSx77yM5pON5L2c5a6M5oiQ5ZCO6ZyA6KaB5Yi35paw6aG16Z2i5pa55Y+v57un57ut57yW6L6R44CCPGJyPjxicj7or7fnoa7kv53mgqjnkIbop6PkuIrpnaLnmoTlhoXlrrnvvIzngrnlh7sgIuehruiupCIg5oyJ6ZKu5omn6KGM6K+l5pON5L2cJyw=</text>
       </register>
       <register name="3" type="4">
-        <text>dr</text>
+        <text>与服务器的连接中断，无法继续编辑该文档。</text>
       </register>
       <register name="4" type="4">
-        <text>cols</text>
+        <text>此</text>
       </register>
       <register name="5" type="4">
-        <text>nRowsCount</text>
+        <text>点</text>
       </register>
       <register name="6" type="4">
-        <text>nRowsCount</text>
+        <text>秒</text>
       </register>
       <register name="7" type="4">
-        <text>nColsCount</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>nColsCount</text>
+        <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>nColsCount</text>
+        <text>钟</text>
       </register>
       <register name=":" type="4">
         <text>1847</text>

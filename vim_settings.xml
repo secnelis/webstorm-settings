@@ -191,11 +191,9 @@
         <mark key="^" line="58" column="74" />
         <mark key="." line="58" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" timestamp="1444541721891">
-        <mark key="[" line="358" column="54" />
-        <mark key="]" line="358" column="81" />
-        <mark key="." line="358" column="81" />
-        <mark key="^" line="358" column="81" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" timestamp="1444552713337">
+        <mark key="'" line="1121" column="49" />
+        <mark key="^" line="831" column="50" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" timestamp="1443355615511">
         <mark key="[" line="34" column="0" />
@@ -674,7 +672,8 @@
         <mark key="]" line="64" column="1" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" timestamp="1443973629589">
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" timestamp="1444552401509">
+        <mark key="'" line="7756" column="22" />
         <mark key="[" line="8076" column="41" />
         <mark key="]" line="8076" column="41" />
         <mark key="^" line="8076" column="41" />
@@ -694,38 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="11" filename="$USER_HOME$/projects/docq/app/components/page-index.js" />
-      <jump line="87" column="35" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
-      <jump line="63" column="62" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
-      <jump line="44" column="20" filename="$USER_HOME$/projects/docq/app/services/auth.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
-      <jump line="29" column="14" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
-      <jump line="14" column="16" filename="$USER_HOME$/projects/docq/app/models/user.js" />
-      <jump line="0" column="14" filename="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" />
-      <jump line="7" column="14" filename="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" />
-      <jump line="9" column="4" filename="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" />
-      <jump line="14" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" />
-      <jump line="48" column="15" filename="$USER_HOME$/projects/docq/app/components/page-home.js" />
-      <jump line="64" column="1" filename="$USER_HOME$/projects/docq/app/components/page-admin.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/projects/docq/app/components/page-admin.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/page-admin.js" />
-      <jump line="49" column="1" filename="$USER_HOME$/projects/docq/app/components/page-admin.js" />
-      <jump line="16" column="8" filename="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" />
-      <jump line="39" column="40" filename="$USER_HOME$/projects/docq/app/components/home-header.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-header.js" />
-      <jump line="65" column="2" filename="$USER_HOME$/projects/docq/app/components/admin-header.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/home-header.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/docq/app/components/home-header.js" />
-      <jump line="0" column="2" filename="$USER_HOME$/projects/docq/app/templates/components/admin-header.hbs" />
-      <jump line="19" column="4" filename="$USER_HOME$/projects/docq/app/components/admin-header.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/admin-header.less" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/admin-header.less" />
-      <jump line="20" column="33" filename="$USER_HOME$/projects/docq/app/components/page-admin.js" />
-      <jump line="0" column="93" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
       <jump line="0" column="3" filename="$USER_HOME$/projects/docq/app/styles/components/home-side-nav.less" />
       <jump line="39" column="24" filename="$USER_HOME$/projects/docq/app/styles/components/home-side-nav.less" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/page-home.hbs" />
@@ -794,55 +761,87 @@
       <jump line="1211" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="2986" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="507" column="30" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="8227" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3213" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="2918" column="9" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="88" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="224" column="13" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="932" column="61" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="1837" column="58" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3384" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3386" column="76" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3826" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="3842" column="45" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="4580" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="4658" column="73" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="4766" column="62" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="4769" column="62" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="5108" column="79" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="5112" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7356" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7358" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7361" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7362" column="48" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7368" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7369" column="43" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7370" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7375" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7376" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7380" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7488" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="7756" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
+      <jump line="832" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
+      <jump line="2448" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
+      <jump line="1121" column="49" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc2NfYWRkQXV0b0ZpbHRlclw+</text>
+        <text encoding="base64">XDxfZ2V0QWRqYWNlbnRDZWxsc0FGXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYXV0b2ZpbHRlcnMuanMnLCAnQXV0b0ZpbHRlcnMoKScpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChhY3RpdmVDZWxscykK</text>
+      </register>
+      <register name="3" type="4">
         <text>)</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>(</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAge3sjaWYgbGlua3NWaXNpYmlsaXR5LmluZGV4IH19CiAgICAgICAge3tsaW5rLXRvICfkuLvpobUnICdpbmRleCd9fQogICAgICB7ey9pZn19CgogICAgICB7eyNpZiAoZXEgYXBwLmNvbmZpZy5kZXBsb3lUeXBlICdwdWJsaWMnKX19CgogICAgICAgIHt7I2lmIGxpbmtzVmlzaWJpbGl0eS5wcm9kdWN0RmVhdHVyZXMgfX0KICAgICAgICAgIDxhIGhyZWY9IiMiIHt7YWN0aW9uICdnb1RvUHJvZHVjdEZlYXR1cmVzJ319PuS6p+WTgeeJueiJsjwvYT4KICAgICAgICAgIDxhIGhyZWY9IiMiIHt7YWN0aW9uICdnb1RvQ2hhbmdlbG9nJ319PuabtOaWsOaXpeW/lzwvYT4KICAgICAgICB7ey9pZn19CgogICAgICAgIHt7I2lmIGxpbmtzVmlzaWJpbGl0eS5jbGllbnREb3dubG9hZHMgfX0KICAgICAgICAgIDxhIGhyZWY9IiMiIHt7YWN0aW9uICdnb1RvQ2xpZW50RG93bmxvYWRzJ319PuWuouaIt+err+S4i+i9vTwvYT4KICAgICAgICB7ey9pZn19CgogICAgICB7ey9pZn19CgogICAgICB7eyNpZiBsaW5rc1Zpc2liaWxpdHkuaGVscCB9fQogICAgICAgIDxhIGhyZWY9Ii9oZWxwIiB0YXJnZXQ9Il9ibGFuayIge3thY3Rpb24gJ3RyYWNrRXZlbnQnICdpbmRleCcgJ2NsaWNrJyAn5biu5YqpJyBwcmV2ZW50RGVmYXVsdD1mYWxzZX19PuW4ruWKqTwvYT4KICAgICAgICB7eyNpZiAoZXEgYXBwLmNvbmZpZy5kZXBsb3lUeXBlICdwdWJsaWMnKX19CiAgICAgICAgPHNwYW4gY2xhc3M9InNlcGFyYXRvciI+fDwvc3Bhbj4KICAgICAgICB7ey9pZn19CiAgICAgIHt7L2lmfX0K</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpc01vZGVybkJyb3dzZXI6IEVtYmVyLmNvbXB1dGVkKGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIHRoaXMuYXBwLmlzTW9kZXJuQnJvd3NlcigpCiAgfSksCgogIGlzTW9iaWxlQnJvd3NlcjogRW1iZXIuY29tcHV0ZWQoZnVuY3Rpb24oKSB7CiAgICByZXR1cm4gdGhpcy5hcHAuaXNNb2JpbGVCcm93c2VyKCkKICB9KSwKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge3sjaWYgbGlua3NWaXNpYmlsaXR5LmluZGV4IH19CiAgICAgICAge3tsaW5rLXRvICfkuLvpobUnICdpbmRleCd9fQogICAgICB7ey9pZn19CgogICAgICB7eyNpZiAoZXEgYXBwLmNvbmZpZy5kZXBsb3lUeXBlICdwdWJsaWMnKX19CgogICAgICAgIHt7I2lmIGxpbmtzVmlzaWJpbGl0eS5wcm9kdWN0RmVhdHVyZXMgfX0KICAgICAgICAgIDxhIGhyZWY9IiMiIHt7YWN0aW9uICdnb1RvUHJvZHVjdEZlYXR1cmVzJ319PuS6p+WTgeeJueiJsjwvYT4KICAgICAgICAgIDxhIGhyZWY9IiMiIHt7YWN0aW9uICdnb1RvQ2hhbmdlbG9nJ319PuabtOaWsOaXpeW/lzwvYT4KICAgICAgICB7ey9pZn19CgogICAgICAgIHt7I2lmIGxpbmtzVmlzaWJpbGl0eS5jbGllbnREb3dubG9hZHMgfX0KICAgICAgICAgIDxhIGhyZWY9IiMiIHt7YWN0aW9uICdnb1RvQ2xpZW50RG93bmxvYWRzJ319PuWuouaIt+err+S4i+i9vTwvYT4KICAgICAgICB7ey9pZn19CgogICAgICB7ey9pZn19CgogICAgICB7eyNpZiBsaW5rc1Zpc2liaWxpdHkuaGVscCB9fQogICAgICAgIDxhIGhyZWY9Ii9oZWxwIiB0YXJnZXQ9Il9ibGFuayIge3thY3Rpb24gJ3RyYWNrRXZlbnQnICdpbmRleCcgJ2NsaWNrJyAn5biu5YqpJyBwcmV2ZW50RGVmYXVsdD1mYWxzZX19PuW4ruWKqTwvYT4KICAgICAgICB7eyNpZiAoZXEgYXBwLmNvbmZpZy5kZXBsb3lUeXBlICdwdWJsaWMnKX19CiAgICAgICAgPHNwYW4gY2xhc3M9InNlcGFyYXRvciI+fDwvc3Bhbj4KICAgICAgICB7ey9pZn19CiAgICAgIHt7L2lmfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icS1pbmRleC1mcmllbmQtc2l0ZXMgdGV4dC1jZW50ZXIiPgoKICAgICAgICA8bGFiZWw+5YWo5bmz5Y+w5a6i5oi356uv5LiL6L2977yaPC9sYWJlbD4KICAgICAgICA8YSBocmVmPSIvRE9DUS56aXAiIHRhcmdldD0iX2JsYW5rIiB7e2FjdGlvbiAndHJhY2tFdmVudCcgJ2luZGV4JyAnY2xpY2snICdXaW5kb3cg54mI5a6i5oi356uvJyBwcmV2ZW50RGVmYXVsdD1mYWxzZX19PldpbmRvd3Mg54mIPC9hPgogICAgICAgIDxhIGhyZWY9Ii9ET0NRLmFwcC56aXAiIHRhcmdldD0iX2JsYW5rIiB7e2FjdGlvbiAndHJhY2tFdmVudCcgJ2luZGV4JyAnY2xpY2snICdNYWMg54mI5a6i5oi356uvJyBwcmV2ZW50RGVmYXVsdD1mYWxzZX19Pk1hYyDniYg8L2E+CgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBpc01vZGVybkJyb3dzZXI6IEVtYmVyLmNvbXB1dGVkKGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIHRoaXMuYXBwLmlzTW9kZXJuQnJvd3NlcigpCiAgfSksCgogIGlzTW9iaWxlQnJvd3NlcjogRW1iZXIuY29tcHV0ZWQoZnVuY3Rpb24oKSB7CiAgICByZXR1cm4gdGhpcy5hcHAuaXNNb2JpbGVCcm93c2VyKCkKICB9KSwKCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>n</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>8221</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc2NfYWRkQXV0b0ZpbHRlclw+</last-search>
+      <last-search encoding="base64">XDxfZ2V0QWRqYWNlbnRDZWxsc0FGXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc2NfYWRkQXV0b0ZpbHRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0QWRqYWNlbnRDZWxsc0FGXD4=</last-pattern>
       <last-replace>q-admin-pane</last-replace>
       <last-substitute>q-home-pane</last-substitute>
       <last-dir>1</last-dir>
@@ -850,12 +849,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb0ZpbGVTaG93SGVhZGVyTG9nb3V0XD4=</entry>
-        <entry encoding="base64">XDx0cmFja0V2ZW50XD4=</entry>
-        <entry>doLogin</entry>
-        <entry>addon</entry>
-        <entry encoding="base64">XDxlbWJlckxvY2FsU3RvcmFnZVw+</entry>
-        <entry>emberLo</entry>
         <entry>emberLocalStorage</entry>
         <entry encoding="base64">XDxsb2NhbFN0b3JhZ2VcPg==</entry>
         <entry>localStorage</entry>
@@ -870,6 +863,12 @@
         <entry>filter</entry>
         <entry>Filter</entry>
         <entry encoding="base64">XDxhc2NfYWRkQXV0b0ZpbHRlclw+</entry>
+        <entry>getRowC</entry>
+        <entry>nRowsCoun</entry>
+        <entry encoding="base64">XDxuUm93c0NvdW50XD4=</entry>
+        <entry>mainAj</entry>
+        <entry>mainAdj</entry>
+        <entry encoding="base64">XDxfZ2V0QWRqYWNlbnRDZWxsc0FGXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

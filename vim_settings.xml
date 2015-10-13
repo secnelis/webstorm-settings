@@ -67,8 +67,8 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="118" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1444744307917">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1444747462064">
+        <mark key="'" line="208" column="9" />
         <mark key="[" line="108" column="87" />
         <mark key="]" line="108" column="102" />
         <mark key="." line="108" column="102" />
@@ -691,7 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="2" column="1" filename="$USER_HOME$/projects/docq/app/styles/components/side-nav.less" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav.js" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/page-home.hbs" />
@@ -791,6 +790,7 @@
       <jump line="120" column="14" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
+      <jump line="208" column="9" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

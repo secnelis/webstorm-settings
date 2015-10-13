@@ -105,12 +105,12 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" timestamp="1442995708991">
+      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" timestamp="1444741466170">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="31" column="99" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="51" column="62" />
+        <mark key="]" line="51" column="62" />
+        <mark key="^" line="51" column="62" />
+        <mark key="." line="51" column="62" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/services/app.js" timestamp="1443324921325">
         <mark key="'" line="63" column="3" />
@@ -210,7 +210,7 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1443202473513">
+      <file name="$USER_HOME$/projects/docq/app/index.html" timestamp="1444741709869">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="58" />
         <mark key="]" line="27" column="62" />
@@ -292,12 +292,12 @@
         <mark key="." line="24" column="57" />
         <mark key="^" line="24" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/modal-share.js" timestamp="1443336283082">
-        <mark key="'" line="214" column="15" />
-        <mark key="[" line="33" column="40" />
-        <mark key="]" line="33" column="40" />
-        <mark key="." line="33" column="48" />
-        <mark key="^" line="71" column="11" />
+      <file name="$USER_HOME$/projects/docq/app/components/modal-share.js" timestamp="1444741146342">
+        <mark key="'" line="120" column="14" />
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="52" />
+        <mark key="." line="25" column="52" />
+        <mark key="^" line="25" column="52" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-header.js" timestamp="1443355868769">
         <mark key="'" line="9" column="0" />
@@ -690,7 +690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="1" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="66" column="1" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
@@ -790,46 +789,47 @@
       <jump line="358" column="85" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
       <jump line="830" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
       <jump line="836" column="107" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
+      <jump line="120" column="14" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9jb25zb2xlLmxvZygnbWF4IHJvd3MnLCBtYXhSb3dzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>{{if showContactsShareTabFirst 'active'}}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBpZENlbGxOZXh0ID0gbmV3IENlbGxBZGRyZXNzKGFjdGl2ZUNlbGxzLnIyLCBjb2wsIDApOwo=</text>
+      <register name="0" type="4">
+        <text>{{if showContactsShareTabFirst 'active'}}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9jb25zb2xlLmxvZygnbWF4IHJvd3MnLCBtYXhSb3dzKTsK</text>
+      <register name="1" type="4">
+        <text>'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBtYXhSb3dzID0gd3MubW9kZWwuZ2V0Um93c0NvdW50KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL2NvbnNvbGUubG9nKCdtYXggcm93cycsIG1heFJvd3MpOwo=</text>
+      <register name="2" type="4">
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>2</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>v</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

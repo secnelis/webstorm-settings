@@ -67,8 +67,8 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="118" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1443336246466">
-        <mark key="'" line="290" column="6" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1444744307917">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="108" column="87" />
         <mark key="]" line="108" column="102" />
         <mark key="." line="108" column="102" />
@@ -198,7 +198,7 @@
         <mark key="." line="836" column="107" />
         <mark key="^" line="836" column="107" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" timestamp="1444743498940">
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" timestamp="1444744293067">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="37" column="3" />
         <mark key="." line="176" column="60" />
@@ -691,7 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="1" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="2" column="1" filename="$USER_HOME$/projects/docq/app/styles/components/side-nav.less" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav.js" />
@@ -791,6 +790,7 @@
       <jump line="836" column="107" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
       <jump line="120" column="14" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -800,7 +800,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>rename</text>
       </register>
       <register name="0" type="4">
         <text>{{if showContactsShareTabFirst 'active'}}</text>
@@ -837,9 +837,9 @@
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>rename</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>rename</last-pattern>
       <last-replace>q-admin-pane</last-replace>
       <last-substitute>q-home-pane</last-substitute>
       <last-dir>1</last-dir>
@@ -847,7 +847,6 @@
     </search>
     <history>
       <history-search>
-        <entry>localStorage</entry>
         <entry>reloadUser</entry>
         <entry>session</entry>
         <entry encoding="base64">XDxob21lXD4=</entry>
@@ -867,6 +866,7 @@
         <entry encoding="base64">XDxfZ2V0QWRqYWNlbnRDZWxsc0FGXD4=</entry>
         <entry>getRowsCou</entry>
         <entry>console.log</entry>
+        <entry>rename</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

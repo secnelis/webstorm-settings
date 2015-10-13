@@ -632,10 +632,11 @@
         <mark key="^" line="4" column="88" />
         <mark key="." line="4" column="88" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1442679974376">
-        <mark key="[" line="19" column="105" />
-        <mark key="]" line="19" column="106" />
-        <mark key="." line="19" column="106" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1444742775967">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
         <mark key="^" line="19" column="106" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/admin-side-nav.hbs" timestamp="1443358452855">
@@ -690,7 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="66" column="1" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="2" column="1" filename="$USER_HOME$/projects/docq/app/styles/components/side-nav.less" />
@@ -790,10 +790,11 @@
       <jump line="830" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
       <jump line="836" column="107" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
       <jump line="120" column="14" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{{if showContactsShareTabFirst 'active'}}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHt7ZWxzZX19CiAgICAgIDxpIGNsYXNzPSJxLWljMTkgcS1pYzE5LXNob3ctc2lkZS1iYXIiPjwvaT4KICAgICAgPHNwYW4+5pi+56S65L6n6L655qCPPC9zcGFuPgo=</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -804,32 +805,32 @@
       <register name="0" type="4">
         <text>{{if showContactsShareTabFirst 'active'}}</text>
       </register>
-      <register name="1" type="4">
-        <text>'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHt7ZWxzZX19CiAgICAgIDxpIGNsYXNzPSJxLWljMTkgcS1pYzE5LXNob3ctc2lkZS1iYXIiPjwvaT4KICAgICAgPHNwYW4+5pi+56S65L6n6L655qCPPC9zcGFuPgo=</text>
       </register>
       <register name="2" type="4">
         <text>'</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>v</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>v</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

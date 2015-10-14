@@ -371,6 +371,12 @@
         <mark key="." line="78" column="24" />
         <mark key="^" line="78" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/page-home.hbs" timestamp="1444804871318">
+        <mark key="[" line="20" column="189" />
+        <mark key="]" line="20" column="187" />
+        <mark key="." line="20" column="187" />
+        <mark key="^" line="20" column="187" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/base-component.js" timestamp="1444014797252">
         <mark key="'" line="16" column="5" />
         <mark key="[" line="2" column="39" />
@@ -486,12 +492,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-action-bar.js" timestamp="1443164212593">
-        <mark key="'" line="23" column="16" />
-        <mark key="[" line="39" column="57" />
-        <mark key="]" line="39" column="60" />
-        <mark key="^" line="39" column="60" />
-        <mark key="." line="39" column="60" />
+      <file name="$USER_HOME$/projects/docq/app/components/home-action-bar.js" timestamp="1444805714024">
+        <mark key="'" line="31" column="16" />
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-viewer.js" timestamp="1444786690006">
         <mark key="'" line="26" column="2" />
@@ -785,10 +791,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>myFiles</text>
+        <text>.readOnly(),</text>
       </register>
       <register name="-" type="4">
-        <text>myFiles</text>
+        <text>.readOnly(),</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</text>
@@ -797,31 +803,31 @@
         <text encoding="base64">ICAgIHZhciBmaWxlcyA9IHRoaXMuZ2V0KCdteUZpbGVFbnRyaWVzJykKICAgIHZhciBkaXJJZCA9IHRoaXMuZ2V0KCdjdXJyZW50RGlyZWN0b3J5SWQnKQogICAgdmFyIGlzUm9vdE5vZGUgPSBkaXJJZCA9PT0gMAogICAgdmFyIGxvY2F0aW9ucyA9IFtdCiAgICB3aGlsZSAoICEgaXNSb290Tm9kZSkgewogICAgICB2YXIgZGlyID0gZmlsZXMuZmluZEJ5KCdpZCcsIGRpcklkKQogICAgICB2YXIgbG9jYXRpb24gPSBEaXJlY3RvcnlMb2NhdGlvbi5jcmVhdGUoewogICAgICAgIG5hdkJ1dHRvbklkOiAnbXlGaWxlcycsCiAgICAgICAgZGlyZWN0b3J5SWQ6IGRpcklkLAogICAgICAgIG5hbWU6IGRpci5nZXQoJ25hbWUnKQogICAgICB9KQogICAgICBsb2NhdGlvbnMucHVzaE9iamVjdChsb2NhdGlvbikKICAgICAgZGlySWQgPSBkaXIuZ2V0KCdwYXJlbnRJZCcpCiAgICAgIGlzUm9vdE5vZGUgPSBkaXIuZ2V0KCdpc1Jvb3ROb2RlJykKICAgIH0KICAgIGxvY2F0aW9ucy5wdXNoT2JqZWN0KERpcmVjdG9yeUxvY2F0aW9uLmNyZWF0ZSh7CiAgICAgIG5hdkJ1dHRvbklkOiAnbXlGaWxlcycsCiAgICAgIGRpcmVjdG9yeUlkOiAwLAogICAgICBuYW1lOiAn5oiR55qE5paH5Lu2JwogICAgfSkpCiAgICBsb2NhdGlvbnMgPSBsb2NhdGlvbnMucmV2ZXJzZU9iamVjdHMoKQogICAgdGhpcy5zZXQoJ2JyZWFkY3J1bWJMb2NhdGlvblBhdGgnLCBsb2NhdGlvbnMpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>myFiles</text>
+        <text>.readOnly(),</text>
       </register>
       <register name="2" type="4">
-        <text>myFiles</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>y</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>m</text>
+        <text>,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0KCdicmVhZGNydW1iTG9jYXRpb25QYXRoJywgW0RpcmVjdG9yeUxvY2F0aW9uLmNyZWF0ZSh7CiAgICAgIG5hdkJ1dHRvbklkOiAncmVjZWl2ZWRGaWxlcycsCiAgICAgIGRpcmVjdG9yeUlkOiAwLAogICAgICBuYW1lOiAnJwogICAgfSldKQo=</text>
+      <register name="5" type="4">
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>件</text>
+        <text>null</text>
       </register>
       <register name="7" type="4">
-        <text>文</text>
+        <text>null</text>
       </register>
       <register name="8" type="4">
-        <text>的</text>
+        <text>length</text>
       </register>
       <register name="9" type="4">
-        <text>我</text>
+        <text>C</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

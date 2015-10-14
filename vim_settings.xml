@@ -61,12 +61,12 @@
         <mark key="^" line="11" column="72" />
         <mark key="." line="11" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" timestamp="1444786822471">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="48" />
-        <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="48" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" timestamp="1444794433460">
+        <mark key="'" line="94" column="8" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="63" column="48" />
+        <mark key="^" line="46" column="23" />
+        <mark key="." line="46" column="23" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1444784771952">
         <mark key="'" line="21" column="15" />
@@ -191,11 +191,11 @@
         <mark key="." line="836" column="107" />
         <mark key="^" line="836" column="107" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" timestamp="1444784871974">
-        <mark key="[" line="282" column="67" />
-        <mark key="]" line="282" column="67" />
-        <mark key="." line="282" column="67" />
-        <mark key="^" line="282" column="67" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" timestamp="1444794112776">
+        <mark key="[" line="413" column="23" />
+        <mark key="]" line="413" column="46" />
+        <mark key="." line="413" column="46" />
+        <mark key="^" line="413" column="46" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/plain-text-viewer.hbs" timestamp="1442691240135">
         <mark key="[" line="5" column="47" />
@@ -416,6 +416,13 @@
         <mark key="]" line="22" column="40" />
         <mark key="^" line="22" column="40" />
         <mark key="." line="22" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" timestamp="1444794570290">
+        <mark key="'" line="35" column="58" />
+        <mark key="[" line="57" column="20" />
+        <mark key="]" line="57" column="32" />
+        <mark key="." line="57" column="32" />
+        <mark key="^" line="57" column="32" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-viewer.less" timestamp="1442690334858">
         <mark key="[" line="9" column="22" />
@@ -675,11 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="21" filename="$USER_HOME$/projects/docq/app/styles/components/admin-user-manager.less" />
-      <jump line="35" column="79" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
-      <jump line="58" column="4" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
-      <jump line="42" column="11" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
       <jump line="14" column="14" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
       <jump line="42" column="0" filename="$USER_HOME$/projects/docq/app/styles/common.less" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/common.less" />
@@ -775,55 +777,60 @@
       <jump line="77" column="33" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
       <jump line="34" column="8" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header-mobile.hbs" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/docq/app/styles/normalize.less" />
+      <jump line="176" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" />
+      <jump line="9" column="2" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
+      <jump line="35" column="58" filename="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" />
+      <jump line="92" column="8" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>myFiles</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>myFiles</text>
       </register>
       <register name="/" type="4">
-        <text>isRoot</text>
+        <text encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7eyNpZiBmaWxlQWNjZXNzLmlzRGlyfX0K</text>
+        <text encoding="base64">ICAgIHZhciBmaWxlcyA9IHRoaXMuZ2V0KCdteUZpbGVFbnRyaWVzJykKICAgIHZhciBkaXJJZCA9IHRoaXMuZ2V0KCdjdXJyZW50RGlyZWN0b3J5SWQnKQogICAgdmFyIGlzUm9vdE5vZGUgPSBkaXJJZCA9PT0gMAogICAgdmFyIGxvY2F0aW9ucyA9IFtdCiAgICB3aGlsZSAoICEgaXNSb290Tm9kZSkgewogICAgICB2YXIgZGlyID0gZmlsZXMuZmluZEJ5KCdpZCcsIGRpcklkKQogICAgICB2YXIgbG9jYXRpb24gPSBEaXJlY3RvcnlMb2NhdGlvbi5jcmVhdGUoewogICAgICAgIG5hdkJ1dHRvbklkOiAnbXlGaWxlcycsCiAgICAgICAgZGlyZWN0b3J5SWQ6IGRpcklkLAogICAgICAgIG5hbWU6IGRpci5nZXQoJ25hbWUnKQogICAgICB9KQogICAgICBsb2NhdGlvbnMucHVzaE9iamVjdChsb2NhdGlvbikKICAgICAgZGlySWQgPSBkaXIuZ2V0KCdwYXJlbnRJZCcpCiAgICAgIGlzUm9vdE5vZGUgPSBkaXIuZ2V0KCdpc1Jvb3ROb2RlJykKICAgIH0KICAgIGxvY2F0aW9ucy5wdXNoT2JqZWN0KERpcmVjdG9yeUxvY2F0aW9uLmNyZWF0ZSh7CiAgICAgIG5hdkJ1dHRvbklkOiAnbXlGaWxlcycsCiAgICAgIGRpcmVjdG9yeUlkOiAwLAogICAgICBuYW1lOiAn5oiR55qE5paH5Lu2JwogICAgfSkpCiAgICBsb2NhdGlvbnMgPSBsb2NhdGlvbnMucmV2ZXJzZU9iamVjdHMoKQogICAgdGhpcy5zZXQoJ2JyZWFkY3J1bWJMb2NhdGlvblBhdGgnLCBsb2NhdGlvbnMpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>myFiles</text>
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text>myFiles</text>
       </register>
       <register name="3" type="4">
-        <text>}</text>
+        <text>y</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
-      </register>
-      <register name="5" type="4">
-        <text>a</text>
-      </register>
-      <register name="6" type="4">
         <text>m</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0KCdicmVhZGNydW1iTG9jYXRpb25QYXRoJywgW0RpcmVjdG9yeUxvY2F0aW9uLmNyZWF0ZSh7CiAgICAgIG5hdkJ1dHRvbklkOiAncmVjZWl2ZWRGaWxlcycsCiAgICAgIGRpcmVjdG9yeUlkOiAwLAogICAgICBuYW1lOiAnJwogICAgfSldKQo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>件</text>
+      </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>文</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>的</text>
       </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text>我</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>
       </register>
     </registers>
     <search>
-      <last-search>isRoot</last-search>
+      <last-search encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</last-search>
       <last-offset />
-      <last-pattern>isRoot</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</last-pattern>
       <last-replace>q-admin-pane</last-replace>
       <last-substitute>q-home-pane</last-substitute>
       <last-dir>1</last-dir>
@@ -831,7 +838,6 @@
     </search>
     <history>
       <history-search>
-        <entry>q-home-pane</entry>
         <entry>s</entry>
         <entry>home</entry>
         <entry encoding="base64">XDxjdXJyZW50TmF2QnV0dG9uSWRcPg==</entry>
@@ -851,6 +857,7 @@
         <entry>goTo</entry>
         <entry encoding="base64">XDxuYXZCdXR0b25JZFw+</entry>
         <entry>isRoot</entry>
+        <entry encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

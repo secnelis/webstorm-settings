@@ -248,7 +248,8 @@
         <mark key="." line="19" column="48" />
         <mark key="^" line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/modal-text-editor.js" timestamp="1443336019002">
+      <file name="$USER_HOME$/projects/docq/app/components/modal-text-editor.js" timestamp="1445222142835">
+        <mark key="'" line="60" column="3" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="50" />
         <mark key="^" line="52" column="72" />
@@ -477,6 +478,12 @@
         <mark key="'" line="1119" column="27" />
         <mark key="[" line="573" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-text-editor.hbs" timestamp="1445222171427">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="60" />
+        <mark key="]" line="22" column="60" />
+        <mark key="." line="22" column="60" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/icons.less" timestamp="1442680245821">
         <mark key="'" line="119" column="0" />
         <mark key="[" line="143" column="9" />
@@ -690,8 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="1" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="66" column="1" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="2" column="1" filename="$USER_HOME$/projects/docq/app/styles/components/side-nav.less" />
@@ -790,13 +795,15 @@
       <jump line="358" column="85" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
       <jump line="830" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
       <jump line="836" column="107" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
+      <jump line="60" column="3" filename="$USER_HOME$/projects/docq/app/components/modal-text-editor.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/modal-text-editor.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9jb25zb2xlLmxvZygnbWF4IHJvd3MnLCBtYXhSb3dzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>在</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>在</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -804,32 +811,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBpZENlbGxOZXh0ID0gbmV3IENlbGxBZGRyZXNzKGFjdGl2ZUNlbGxzLnIyLCBjb2wsIDApOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9jb25zb2xlLmxvZygnbWF4IHJvd3MnLCBtYXhSb3dzKTsK</text>
+      <register name="1" type="4">
+        <text>在</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBtYXhSb3dzID0gd3MubW9kZWwuZ2V0Um93c0NvdW50KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvL2NvbnNvbGUubG9nKCdtYXggcm93cycsIG1heFJvd3MpOwo=</text>
+      <register name="2" type="4">
+        <text>正</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>}</text>
       </register>
       <register name="4" type="4">
-        <text>2</text>
+        <text>}</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>'</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>存</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>保</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

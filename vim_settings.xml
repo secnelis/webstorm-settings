@@ -21,11 +21,12 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1445315275338">
-        <mark key="[" line="469" column="33" />
-        <mark key="]" line="469" column="41" />
-        <mark key="." line="469" column="41" />
-        <mark key="^" line="469" column="41" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1445316834090">
+        <mark key="'" line="817" column="42" />
+        <mark key="[" line="816" column="63" />
+        <mark key="]" line="816" column="63" />
+        <mark key="." line="816" column="63" />
+        <mark key="^" line="816" column="44" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1443360599595">
         <mark key="'" line="21" column="16" />
@@ -703,10 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" />
-      <jump line="5" column="2" filename="$USER_HOME$/projects/docq/app/components/page-admin.js" />
-      <jump line="45" column="41" filename="$USER_HOME$/projects/docq/app/components/page-admin.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/docq/app/components/page-admin.js" />
       <jump line="2" column="32" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/models/file.js" />
       <jump line="94" column="0" filename="$USER_HOME$/projects/docq/app/models/file.js" />
@@ -803,55 +800,59 @@
       <jump line="678" column="12" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="452" column="21" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="469" column="25" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="472" column="23" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="736" column="22" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="817" column="42" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sendData</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>sendData</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>ws.send</text>
+        <text encoding="base64">XDxkYXRhSGFuZGxlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy53cy5zZW5kKHNlbmREYXRhKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>sendData</text>
+        <text>.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2VuZGluZyAnICsgc3RhcnQgKyAnIHRvICcgKyBlbmQpOwo=</text>
+      <register name="2" type="4">
+        <text>length</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ID0gJ2MnOw==</text>
+        <text encoding="base64">IGxlbmd0aA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text>sendData</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2VuZGluZyAnICsgc3RhcnQgKyAnIHRvICcgKyBlbmQpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>sendData.length</text>
-      </register>
       <register name="6" type="4">
-        <text>h</text>
+        <text encoding="base64">ID0gJ2MnOw==</text>
       </register>
-      <register name="7" type="4">
-        <text>t</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2VuZGluZyAnICsgc3RhcnQgKyAnIHRvICcgKyBlbmQpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>g</text>
+        <text>sendData.length</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>h</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>
       </register>
     </registers>
     <search>
-      <last-search>ws.send</last-search>
+      <last-search encoding="base64">XDxkYXRhSGFuZGxlclw+</last-search>
       <last-offset />
-      <last-pattern>ws.send</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhSGFuZGxlclw+</last-pattern>
       <last-replace>q-admin-pane</last-replace>
       <last-substitute>q-home-pane</last-substitute>
       <last-dir>1</last-dir>
@@ -859,8 +860,6 @@
     </search>
     <history>
       <history-search>
-        <entry>session</entry>
-        <entry encoding="base64">XDxob21lXD4=</entry>
         <entry>q-home-pane</entry>
         <entry>s</entry>
         <entry>home</entry>
@@ -879,6 +878,8 @@
         <entry>console.log</entry>
         <entry>send</entry>
         <entry>ws.send</entry>
+        <entry encoding="base64">XDx3c1w+</entry>
+        <entry encoding="base64">XDxkYXRhSGFuZGxlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

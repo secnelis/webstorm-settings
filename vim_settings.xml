@@ -21,12 +21,12 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1445317883314">
-        <mark key="'" line="405" column="37" />
-        <mark key="[" line="816" column="63" />
-        <mark key="]" line="816" column="63" />
-        <mark key="." line="816" column="63" />
-        <mark key="^" line="816" column="44" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1445320733795">
+        <mark key="'" line="397" column="10" />
+        <mark key="[" line="453" column="46" />
+        <mark key="]" line="453" column="46" />
+        <mark key="." line="453" column="46" />
+        <mark key="^" line="453" column="46" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1443360599595">
         <mark key="'" line="21" column="16" />
@@ -704,18 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="58" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
-      <jump line="27" column="11" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
-      <jump line="20" column="13" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
-      <jump line="11" column="5" filename="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" />
-      <jump line="6" column="5" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager-item.hbs" />
-      <jump line="30" column="42" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
-      <jump line="38" column="22" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
-      <jump line="22" column="27" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
-      <jump line="39" column="6" filename="$USER_HOME$/projects/docq/app/templates/components/page-numbers.hbs" />
-      <jump line="12" column="9" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
-      <jump line="45" column="27" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
       <jump line="5" column="21" filename="$USER_HOME$/projects/docq/app/styles/components/admin-user-manager.less" />
       <jump line="35" column="79" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
@@ -798,61 +786,73 @@
       <jump line="736" column="22" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="817" column="42" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="396" column="24" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="397" column="23" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="635" column="13" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="135" column="25" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="137" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="405" column="37" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="242" column="35" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="405" column="50" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="241" column="39" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="45" column="12" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="116" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="398" column="8" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="456" column="18" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="468" column="20" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="485" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="816" column="20" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="117" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="299" column="26" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="300" column="26" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="326" column="23" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="397" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXhDb3VudFNhdmVDaGFuZ2VzXD4=</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy53cy5zZW5kKHNlbmREYXRhKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>5</text>
       </register>
       <register name="2" type="4">
-        <text>length</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGxlbmd0aA==</text>
+        <text>length</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IGxlbmd0aA==</text>
+      </register>
+      <register name="5" type="4">
         <text>sendData</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2VuZGluZyAnICsgc3RhcnQgKyAnIHRvICcgKyBlbmQpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ID0gJ2MnOw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2VuZGluZyAnICsgc3RhcnQgKyAnIHRvICcgKyBlbmQpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>sendData.length</text>
-      </register>
       <register name="9" type="4">
-        <text>h</text>
+        <text>sendData.length</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXhDb3VudFNhdmVDaGFuZ2VzXD4=</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXhDb3VudFNhdmVDaGFuZ2VzXD4=</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>q-admin-pane</last-replace>
       <last-substitute>q-home-pane</last-substitute>
       <last-dir>1</last-dir>
@@ -873,13 +873,13 @@
         <entry>mainAdj</entry>
         <entry encoding="base64">XDxfZ2V0QWRqYWNlbnRDZWxsc0FGXD4=</entry>
         <entry>getRowsCou</entry>
-        <entry>console.log</entry>
         <entry>send</entry>
         <entry>ws.send</entry>
         <entry encoding="base64">XDx3c1w+</entry>
         <entry encoding="base64">XDxkYXRhSGFuZGxlclw+</entry>
         <entry encoding="base64">XDxzYXZlQ2hhbmdlc1w+</entry>
         <entry encoding="base64">XDxtYXhDb3VudFNhdmVDaGFuZ2VzXD4=</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>
@@ -930,6 +930,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

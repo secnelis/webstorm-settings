@@ -21,6 +21,10 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1445312340947">
+        <mark key="'" line="455" column="21" />
+        <mark key="[" line="453" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1443360599595">
         <mark key="'" line="21" column="16" />
         <mark key="[" line="12" column="34" />
@@ -697,13 +701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="1" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
-      <jump line="2" column="1" filename="$USER_HOME$/projects/docq/app/styles/components/side-nav.less" />
-      <jump line="39" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/page-home.hbs" />
-      <jump line="16" column="36" filename="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" />
-      <jump line="7" column="11" filename="$USER_HOME$/projects/docq/app/components/admin-side-nav.js" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" />
       <jump line="5" column="2" filename="$USER_HOME$/projects/docq/app/components/page-admin.js" />
       <jump line="45" column="41" filename="$USER_HOME$/projects/docq/app/components/page-admin.js" />
@@ -797,55 +794,62 @@
       <jump line="836" column="107" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
       <jump line="60" column="3" filename="$USER_HOME$/projects/docq/app/components/modal-text-editor.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/modal-text-editor.hbs" />
+      <jump line="232" column="24" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="315" column="22" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="758" column="18" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="717" column="8" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="678" column="12" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="452" column="21" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>在</text>
+        <text>senddata</text>
       </register>
       <register name="-" type="4">
-        <text>在</text>
+        <text>senddata</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>ws.send</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBpZENlbGxOZXh0ID0gbmV3IENlbGxBZGRyZXNzKGFjdGl2ZUNlbGxzLnIyLCBjb2wsIDApOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>在</text>
+        <text>senddata</text>
       </register>
       <register name="2" type="4">
-        <text>正</text>
+        <text>JSON.stringify(data)</text>
       </register>
       <register name="3" type="4">
-        <text>}</text>
+        <text>在</text>
       </register>
       <register name="4" type="4">
-        <text>}</text>
+        <text>正</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
       <register name="6" type="4">
-        <text>存</text>
+        <text>}</text>
       </register>
       <register name="7" type="4">
-        <text>保</text>
-      </register>
-      <register name="8" type="4">
         <text>'</text>
       </register>
+      <register name="8" type="4">
+        <text>存</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>保</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>ws.send</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>ws.send</last-pattern>
       <last-replace>q-admin-pane</last-replace>
       <last-substitute>q-home-pane</last-substitute>
       <last-dir>1</last-dir>
@@ -853,8 +857,6 @@
     </search>
     <history>
       <history-search>
-        <entry>localStorage</entry>
-        <entry>reloadUser</entry>
         <entry>session</entry>
         <entry encoding="base64">XDxob21lXD4=</entry>
         <entry>q-home-pane</entry>
@@ -873,6 +875,8 @@
         <entry encoding="base64">XDxfZ2V0QWRqYWNlbnRDZWxsc0FGXD4=</entry>
         <entry>getRowsCou</entry>
         <entry>console.log</entry>
+        <entry>send</entry>
+        <entry>ws.send</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

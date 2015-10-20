@@ -21,11 +21,11 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1445320733795">
-        <mark key="'" line="397" column="10" />
-        <mark key="[" line="453" column="46" />
-        <mark key="]" line="453" column="46" />
-        <mark key="." line="453" column="46" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1445321584559">
+        <mark key="'" line="485" column="10" />
+        <mark key="[" line="455" column="0" />
+        <mark key="]" line="455" column="16" />
+        <mark key="." line="455" column="16" />
         <mark key="^" line="453" column="46" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1443360599595">
@@ -354,7 +354,7 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sync-editor.conf" timestamp="1443973720616">
+      <file name="$USER_HOME$/projects/editor/sync-editor.conf" timestamp="1445321814985">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
@@ -704,8 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
-      <jump line="5" column="21" filename="$USER_HOME$/projects/docq/app/styles/components/admin-user-manager.less" />
       <jump line="35" column="79" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
       <jump line="58" column="4" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
@@ -793,21 +791,23 @@
       <jump line="405" column="50" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="241" column="39" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="45" column="12" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="116" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="398" column="8" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="456" column="18" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="468" column="20" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="485" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="816" column="20" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="117" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="465" column="16" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="816" column="22" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="116" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="299" column="26" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="300" column="26" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="326" column="23" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="397" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="455" column="18" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="468" column="22" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="485" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy9jb25zb2xlLmxvZygnc2VuZCBkYXRhIGxlbmd0aDogJyArIGxlbik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -818,32 +818,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy53cy5zZW5kKHNlbmREYXRhKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>5</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy9jb25zb2xlLmxvZygnc2VuZCBkYXRhIGxlbmd0aDogJyArIGxlbik7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>5</text>
       </register>
       <register name="3" type="4">
-        <text>length</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGxlbmd0aA==</text>
+        <text>length</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IGxlbmd0aA==</text>
+      </register>
+      <register name="6" type="4">
         <text>sendData</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2VuZGluZyAnICsgc3RhcnQgKyAnIHRvICcgKyBlbmQpOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ID0gJ2MnOw==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2VuZGluZyAnICsgc3RhcnQgKyAnIHRvICcgKyBlbmQpOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>sendData.length</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

@@ -21,8 +21,8 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1445316834090">
-        <mark key="'" line="817" column="42" />
+      <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1445317883314">
+        <mark key="'" line="405" column="37" />
         <mark key="[" line="816" column="63" />
         <mark key="]" line="816" column="63" />
         <mark key="." line="816" column="63" />
@@ -704,13 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="32" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/models/file.js" />
-      <jump line="94" column="0" filename="$USER_HOME$/projects/docq/app/models/file.js" />
-      <jump line="21" column="44" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/docq/app/styles/pages/admin.less" />
-      <jump line="16" column="11" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
-      <jump line="18" column="18" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
       <jump line="24" column="58" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
       <jump line="27" column="11" filename="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" />
       <jump line="20" column="13" filename="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" />
@@ -804,6 +797,13 @@
       <jump line="472" column="23" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="736" column="22" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="817" column="42" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="396" column="24" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="397" column="23" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="635" column="13" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="135" column="25" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="137" column="33" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="405" column="37" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
+      <jump line="242" column="35" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -813,7 +813,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhSGFuZGxlclw+</text>
+        <text encoding="base64">XDxtYXhDb3VudFNhdmVDaGFuZ2VzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy53cy5zZW5kKHNlbmREYXRhKTsK</text>
@@ -850,9 +850,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhSGFuZGxlclw+</last-search>
+      <last-search encoding="base64">XDxtYXhDb3VudFNhdmVDaGFuZ2VzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhSGFuZGxlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxtYXhDb3VudFNhdmVDaGFuZ2VzXD4=</last-pattern>
       <last-replace>q-admin-pane</last-replace>
       <last-substitute>q-home-pane</last-substitute>
       <last-dir>1</last-dir>
@@ -860,8 +860,6 @@
     </search>
     <history>
       <history-search>
-        <entry>q-home-pane</entry>
-        <entry>s</entry>
         <entry>home</entry>
         <entry encoding="base64">XDxjdXJyZW50TmF2QnV0dG9uSWRcPg==</entry>
         <entry>map</entry>
@@ -880,6 +878,8 @@
         <entry>ws.send</entry>
         <entry encoding="base64">XDx3c1w+</entry>
         <entry encoding="base64">XDxkYXRhSGFuZGxlclw+</entry>
+        <entry encoding="base64">XDxzYXZlQ2hhbmdlc1w+</entry>
+        <entry encoding="base64">XDxtYXhDb3VudFNhdmVDaGFuZ2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

@@ -165,11 +165,10 @@
         <mark key="." line="78" column="19" />
         <mark key="^" line="34" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/access-logs-panel.js" timestamp="1445336076518">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="9" column="13" />
+      <file name="$USER_HOME$/projects/docq/app/components/access-logs-panel.js" timestamp="1445337138240">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1443357541096">
         <mark key="'" line="31" column="11" />
@@ -828,8 +827,8 @@
       <jump line="64" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/modal-share.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fileAccess</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHBhZ2UgPSAK</text>
       </register>
       <register name="-" type="4">
         <text>fileAccess</text>
@@ -840,32 +839,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBjb2xvcjogIzYwNWY1ZjsK</text>
       </register>
-      <register name="1" type="4">
-        <text>fileAccess</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHBhZ2UgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb2xvcjogQGRrZ3JheTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICByZWxvYWRSZWNvcmRzKCkgewogICAgCiAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>l</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZWNvcmRzOiBbXSwKICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>b</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>a</text>
-      </register>
-      <register name="8" type="4">
-        <text>t</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBsb2FkCg==</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>fileAccess</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

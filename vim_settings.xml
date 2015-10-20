@@ -112,12 +112,12 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" timestamp="1445336061656">
-        <mark key="'" line="85" column="21" />
-        <mark key="[" line="126" column="34" />
-        <mark key="]" line="126" column="37" />
-        <mark key="." line="126" column="37" />
-        <mark key="^" line="126" column="37" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" timestamp="1445342085084">
+        <mark key="'" line="123" column="16" />
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/services/app.js" timestamp="1443324921325">
         <mark key="'" line="63" column="3" />
@@ -165,12 +165,12 @@
         <mark key="." line="78" column="19" />
         <mark key="^" line="34" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/access-logs-panel.js" timestamp="1445340755852">
+      <file name="$USER_HOME$/projects/docq/app/components/access-logs-panel.js" timestamp="1445341826387">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="29" column="29" />
-        <mark key="." line="29" column="29" />
-        <mark key="^" line="29" column="29" />
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="43" column="35" />
+        <mark key="." line="43" column="35" />
+        <mark key="^" line="43" column="35" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1443357541096">
         <mark key="'" line="31" column="11" />
@@ -314,12 +314,12 @@
         <mark key="." line="24" column="57" />
         <mark key="^" line="24" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/modal-share.js" timestamp="1445335700473">
-        <mark key="'" line="34" column="64" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="44" />
-        <mark key="." line="35" column="67" />
-        <mark key="^" line="35" column="67" />
+      <file name="$USER_HOME$/projects/docq/app/components/modal-share.js" timestamp="1445342250478">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="34" column="35" />
+        <mark key="." line="34" column="35" />
+        <mark key="^" line="35" column="66" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-header.js" timestamp="1443355868769">
         <mark key="'" line="9" column="0" />
@@ -383,6 +383,11 @@
         <mark key="]" line="7" column="16" />
         <mark key="." line="7" column="19" />
         <mark key="^" line="1" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-footer-mobile.hbs" timestamp="1445341608134">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/page-index.js" timestamp="1444014791557">
         <mark key="'" line="46" column="11" />
@@ -732,9 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
-      <jump line="189" column="27" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
-      <jump line="192" column="61" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
       <jump line="15" column="34" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
       <jump line="459" column="20" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
       <jump line="460" column="36" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
@@ -824,7 +826,6 @@
       <jump line="26" column="32" filename="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/modal-share.less" />
       <jump line="85" column="21" filename="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" />
-      <jump line="34" column="64" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
       <jump line="55" column="21" filename="$USER_HOME$/projects/docq/app/styles/app.less" />
       <jump line="64" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/modal-share.less" />
       <jump line="86" column="0" filename="$USER_HOME$/projects/docq/app/components/modal-text-editor.js" />
@@ -832,55 +833,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/access-logs-panel.js" />
       <jump line="25" column="2" filename="$USER_HOME$/projects/docq/app/components/modal-text-editor.js" />
       <jump line="46" column="20" filename="$USER_HOME$/projects/docq/app/components/modal-text-editor.js" />
+      <jump line="20" column="16" filename="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" />
+      <jump line="123" column="16" filename="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" />
+      <jump line="34" column="4" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChwcmV2aWV3KSB7CiAgICAgIHVybCArPSAnJwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>page</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlVXJsXD4=</text>
+        <text encoding="base64">XDxpc05vcm1hbEZpbGVPd25lclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LnEtYWNjZXNzLWxvZ3MtcGFuZWwgdGggewogIGNvbG9yOiAjNjA1ZjVmOwogIHRleHQtYWxpZ246IGNlbnRlcjsKfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChwcmV2aWV3KSB7CiAgICAgIHVybCArPSAnJwogICAgfQo=</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text>readOnly</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChhY2Nlc3NUb2tlbikgewo=</text>
+      <register name="3" type="4">
+        <text>t</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>page</text>
+        <text encoding="base64">Jg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGFnZSA9IHBhZ2UgfHwgdGhpcy5nZXQoJ3BhZ2UnKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb2xvcjogIzYwNWY1ZjsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>th</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlVXJsXD4=</last-search>
+      <last-search encoding="base64">XDxpc05vcm1hbEZpbGVPd25lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlVXJsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpc05vcm1hbEZpbGVPd25lclw+</last-pattern>
       <last-replace>q-admin-pane</last-replace>
       <last-substitute>q-home-pane</last-substitute>
       <last-dir>1</last-dir>
@@ -888,8 +893,6 @@
     </search>
     <history>
       <history-search>
-        <entry>filter</entry>
-        <entry>Filter</entry>
         <entry encoding="base64">XDxhc2NfYWRkQXV0b0ZpbHRlclw+</entry>
         <entry>getRowC</entry>
         <entry>nRowsCoun</entry>
@@ -908,6 +911,8 @@
         <entry>label</entry>
         <entry encoding="base64">XDxmaWxlQ29udGVudHNcPg==</entry>
         <entry encoding="base64">XDxmaWxlVXJsXD4=</entry>
+        <entry>isFileOwn</entry>
+        <entry encoding="base64">XDxpc05vcm1hbEZpbGVPd25lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

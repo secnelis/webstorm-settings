@@ -398,12 +398,12 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/yt/app/components/service-material-editor.js" timestamp="1445437352745">
+      <file name="$USER_HOME$/projects/yt/app/components/service-material-editor.js" timestamp="1445438311859">
         <mark key="'" line="72" column="14" />
-        <mark key="[" line="51" column="51" />
-        <mark key="]" line="52" column="35" />
-        <mark key="^" line="52" column="35" />
-        <mark key="." line="52" column="35" />
+        <mark key="[" line="53" column="65" />
+        <mark key="]" line="53" column="71" />
+        <mark key="^" line="53" column="71" />
+        <mark key="." line="53" column="71" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1444806854515">
         <mark key="'" line="89" column="35" />
@@ -817,11 +817,11 @@
       <jump line="43" column="35" filename="$USER_HOME$/projects/yt/app/templates/components/service-material-editor.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChyZWdpb25JZCkgewogICAgICAKICAgIH0gZWxzZSB7CiAgICAgIAogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>regionId</text>
       </register>
       <register name="-" type="4">
-        <text>regionId || 0)</text>
+        <text>regionId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZVw+</text>
@@ -829,32 +829,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJyZWdpb25faWQiIHZhbHVlPXt7cmVnaW9uLmlkfX0gY2hlY2tlZD17e3JlZ2lvbi5jaGVja2VkfX0+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChyZWdpb25JZCkgewogICAgICAKICAgIH0gZWxzZSB7CiAgICAgIAogICAgfQo=</text>
+      <register name="1" type="4">
+        <text>regionId</text>
       </register>
       <register name="2" type="4">
-        <text>regionId || 0)</text>
+        <text>val</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChyZWdpb25JZCkgewogICAgICAKICAgIH0gZWxzZSB7CiAgICAgIAogICAgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7I2lmIChlcSByZWdpb24uaWQgbW9kZWwucmVnaW9uX2lkKX19Cg==</text>
+      <register name="4" type="4">
+        <text>regionId || 0)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJyZWdpb25faWQiIHZhbHVlPXt7cmVnaW9uLmlkfX0gY2hlY2tlZD4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7ZWxzZX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHt7I2lmIChlcSByZWdpb24uaWQgbW9kZWwucmVnaW9uX2lkKX19Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJyZWdpb25faWQiIHZhbHVlPXt7cmVnaW9uLmlkfX0gY2hlY2tlZD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIHt7ZWxzZX19Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIHt7L2lmfX0K</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="9" type="4">
-        <text>q</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

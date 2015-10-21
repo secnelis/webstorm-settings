@@ -29,6 +29,9 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/yt/app/routes/home/services/new.js" timestamp="1445435102218">
+        <mark key="'" line="6" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" timestamp="1443363359664">
         <mark key="'" line="11" column="5" />
         <mark key="[" line="9" column="35" />
@@ -93,6 +96,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/yt/app/templates/components/service-material-editor.hbs" timestamp="1445436575197">
+        <mark key="'" line="43" column="35" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="10" />
+        <mark key="." line="44" column="10" />
       </file>
       <file name="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" timestamp="1442684072124">
         <mark key="'" line="441" column="12" />
@@ -311,6 +320,11 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/yt/app/templates/components/home-monitor.hbs" timestamp="1445435295978">
+        <mark key="'" line="14" column="85" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" timestamp="1443366450437">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="35" column="73" />
@@ -383,6 +397,13 @@
         <mark key="]" line="3" column="1" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/yt/app/components/service-material-editor.js" timestamp="1445437352745">
+        <mark key="'" line="72" column="14" />
+        <mark key="[" line="51" column="51" />
+        <mark key="]" line="52" column="35" />
+        <mark key="^" line="52" column="35" />
+        <mark key="." line="52" column="35" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1444806854515">
         <mark key="'" line="89" column="35" />
@@ -686,13 +707,14 @@
         <mark key="." line="33" column="11" />
         <mark key="^" line="29" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/yt/app/styles/components/yt-service-material-editor.less" timestamp="1445435823035">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="5" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="3" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
-      <jump line="87" column="6" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
-      <jump line="108" column="3" filename="$USER_HOME$/projects/docq/app/components/file-explorer-item.js" />
-      <jump line="30" column="10" filename="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" />
-      <jump line="109" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
       <jump line="189" column="27" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
       <jump line="192" column="61" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
@@ -788,55 +810,60 @@
       <jump line="40" column="0" filename="$USER_HOME$/projects/docq/app/components/home-side-nav.js" />
       <jump line="28" column="31" filename="$USER_HOME$/projects/docq/app/components/home-side-nav.js" />
       <jump line="22" column="2" filename="$USER_HOME$/projects/docq/app/components/home-side-nav.js" />
+      <jump line="6" column="29" filename="$USER_HOME$/projects/yt/app/routes/home/services/new.js" />
+      <jump line="14" column="85" filename="$USER_HOME$/projects/yt/app/templates/components/home-monitor.hbs" />
+      <jump line="8" column="2" filename="$USER_HOME$/projects/yt/app/components/service-material-editor.js" />
+      <jump line="67" column="14" filename="$USER_HOME$/projects/yt/app/components/service-material-editor.js" />
+      <jump line="43" column="35" filename="$USER_HOME$/projects/yt/app/templates/components/service-material-editor.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>先</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIChyZWdpb25JZCkgewogICAgICAKICAgIH0gZWxzZSB7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>先</text>
+        <text>regionId || 0)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</text>
+        <text encoding="base64">XDx0aXRsZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>sendRegVerifyEmail</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJyZWdpb25faWQiIHZhbHVlPXt7cmVnaW9uLmlkfX0gY2hlY2tlZD17e3JlZ2lvbi5jaGVja2VkfX0+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>先</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGlmIChyZWdpb25JZCkgewogICAgICAKICAgIH0gZWxzZSB7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="2" type="4">
-        <text>用</text>
+        <text>regionId || 0)</text>
       </register>
-      <register name="3" type="4">
-        <text>使</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>n</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHt7I2lmIChlcSByZWdpb24uaWQgbW9kZWwucmVnaW9uX2lkKX19Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>\</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJyZWdpb25faWQiIHZhbHVlPXt7cmVnaW9uLmlkfX0gY2hlY2tlZD4K</text>
       </register>
-      <register name="6" type="4">
-        <text>n</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHt7ZWxzZX19Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>\</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHt7L2lmfX0K</text>
       </register>
       <register name="8" type="4">
-        <text>请</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib290Ym94LmFsZXJ0KCcnKQo=</text>
+      <register name="9" type="4">
+        <text>q</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</last-search>
+      <last-search encoding="base64">XDx0aXRsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDx0aXRsZVw+</last-pattern>
       <last-replace>q-admin-pane</last-replace>
       <last-substitute>q-home-pane</last-substitute>
       <last-dir>1</last-dir>
@@ -844,7 +871,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s</entry>
         <entry>home</entry>
         <entry encoding="base64">XDxjdXJyZW50TmF2QnV0dG9uSWRcPg==</entry>
         <entry>map</entry>
@@ -864,6 +890,7 @@
         <entry encoding="base64">XDxuYXZCdXR0b25JZFw+</entry>
         <entry>isRoot</entry>
         <entry encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</entry>
+        <entry encoding="base64">XDx0aXRsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

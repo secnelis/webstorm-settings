@@ -61,12 +61,11 @@
         <mark key="^" line="11" column="72" />
         <mark key="." line="11" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" timestamp="1445487883175">
-        <mark key="'" line="24" column="13" />
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="22" column="20" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" timestamp="1445489548135">
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="33" column="40" />
+        <mark key="." line="33" column="40" />
+        <mark key="^" line="33" column="40" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1445487980023">
         <mark key="'" line="271" column="10" />
@@ -146,12 +145,12 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1445487736677">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="40" column="53" />
-        <mark key="]" line="40" column="63" />
-        <mark key="." line="40" column="63" />
-        <mark key="^" line="40" column="63" />
+      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1445488835750">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="50" column="23" />
+        <mark key="." line="50" column="23" />
+        <mark key="^" line="50" column="23" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/access-logs-panel.js" timestamp="1445341826387">
         <mark key="'" line="0" column="0" />
@@ -679,14 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3386" column="76" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3826" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3842" column="45" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4580" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4658" column="73" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4766" column="62" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="4769" column="62" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="5108" column="79" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="5112" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="7356" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="7358" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
@@ -779,55 +770,63 @@
       <jump line="67" column="7" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
       <jump line="271" column="10" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
+      <jump line="32" column="39" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
+      <jump line="38" column="26" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
+      <jump line="7" column="2" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
+      <jump line="9" column="34" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
+      <jump line="12" column="26" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
+      <jump line="23" column="18" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
+      <jump line="35" column="53" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>currentModuleId != moduleId</text>
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>currentModuleId != moduleId</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc05vcm1hbEZpbGVPd25lclw+</text>
+        <text encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBkaXJJZCA9IHRoaXMuZ2V0KCdjdXJyZW50RGlyZWN0b3J5SWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldCgnbXlGaWxlRW50cmllcycsIHJlc3VsdC5maWxlcykK</text>
       </register>
       <register name="1" type="4">
-        <text>currentModuleId != moduleId</text>
+        <text>E</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>n</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>l</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
         <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>f</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChkaXJJZCA9PT0gMCkgewogICAgICBmaWxlcyA9IHRoaXMuZ2V0KCdteUZpbGVFbnRyaWVzJykuZmlsdGVyQnkoJ2lzUm9vdE5vZGUnLCAxKQogICAgfSBlbHNlIHsKICAgIH0K</text>
+      <register name="8" type="4">
+        <text>files</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmlsZXMgPSB0aGlzLmdldCgnbXlGaWxlRW50cmllcycpLmZpbHRlckJ5KCdwYXJlbnRJZCcsIGRpcklkKQo=</text>
+        <text encoding="base64">CiAgY3VycmVudE15RmlsZXM6IEVtYmVyLmNvbXB1dGVkKCdteUZpbGVFbnRyaWVzJywgJ2N1cnJlbnREaXJlY3RvcnlJZCcsIGZ1bmN0aW9uICgpIHsKICAgIHZhciBkaXJJZCA9IHRoaXMuZ2V0KCdjdXJyZW50RGlyZWN0b3J5SWQnKQogICAgdGhpcy5hcHAuZGVidWcoJ2N1cnJlbnQgZGlyZWN0b3J5IGlkJywgZGlySWQpCiAgICB2YXIgZmlsZXMgPSB0aGlzLmdldCgnbXlGaWxlRW50cmllcycpLmZpbHRlckJ5KCdwYXJlbnRJZCcsIGRpcklkKQogICAgdGhpcy5hcHAuZGVidWcoJ2N1cnJlbnQgbXkgZmlsZXMnLCBmaWxlcykKICAgIHJldHVybiBmaWxlcwogIH0pLAo=</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc05vcm1hbEZpbGVPd25lclw+</last-search>
+      <last-search encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc05vcm1hbEZpbGVPd25lclw+</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</last-pattern>
       <last-replace>q-admin-pane</last-replace>
       <last-substitute>q-home-pane</last-substitute>
       <last-dir>1</last-dir>
@@ -835,8 +834,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc2NfYWRkQXV0b0ZpbHRlclw+</entry>
-        <entry>getRowC</entry>
         <entry>nRowsCoun</entry>
         <entry encoding="base64">XDxuUm93c0NvdW50XD4=</entry>
         <entry>mainAj</entry>
@@ -855,6 +852,8 @@
         <entry encoding="base64">XDxmaWxlVXJsXD4=</entry>
         <entry>isFileOwn</entry>
         <entry encoding="base64">XDxpc05vcm1hbEZpbGVPd25lclw+</entry>
+        <entry encoding="base64">XDxteUZpbGVFbnRyaWVzXD4=</entry>
+        <entry encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

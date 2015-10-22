@@ -212,7 +212,8 @@
         <mark key="." line="836" column="107" />
         <mark key="^" line="836" column="107" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" timestamp="1443355615511">
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" timestamp="1445483706301">
+        <mark key="'" line="535" column="6" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="37" column="3" />
         <mark key="." line="176" column="60" />
@@ -388,6 +389,9 @@
         <mark key="[" line="9" column="2" />
         <mark key="]" line="9" column="2" />
         <mark key="." line="9" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/services/prefs.js" timestamp="1445483003669">
+        <mark key="'" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/page-index.js" timestamp="1444014791557">
         <mark key="'" line="46" column="11" />
@@ -737,14 +741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="34" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
-      <jump line="459" column="20" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
-      <jump line="460" column="36" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
-      <jump line="461" column="33" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
-      <jump line="605" column="18" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
-      <jump line="1121" column="27" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
-      <jump line="1211" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="2986" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="507" column="30" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="8227" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="3213" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
@@ -837,6 +833,14 @@
       <jump line="123" column="16" filename="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" />
       <jump line="34" column="4" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
       <jump line="33" column="0" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/services/prefs.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/projects/docq/app/services/prefs.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
+      <jump line="537" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
+      <jump line="539" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
+      <jump line="119" column="10" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
+      <jump line="535" column="6" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

@@ -61,18 +61,18 @@
         <mark key="^" line="11" column="72" />
         <mark key="." line="11" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" timestamp="1445489548135">
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="33" column="40" />
-        <mark key="." line="33" column="40" />
-        <mark key="^" line="33" column="40" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" timestamp="1445491031541">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="39" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1445487980023">
-        <mark key="'" line="271" column="10" />
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1445491303751">
+        <mark key="'" line="269" column="10" />
+        <mark key="[" line="19" column="58" />
+        <mark key="]" line="19" column="62" />
+        <mark key="^" line="19" column="62" />
+        <mark key="." line="19" column="62" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/admin.hbs" timestamp="1443355222444">
         <mark key="[" line="0" column="7" />
@@ -599,11 +599,12 @@
         <mark key="." line="33" column="158" />
         <mark key="^" line="33" column="158" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-breadcrumb.js" timestamp="1443163916281">
-        <mark key="[" line="56" column="91" />
-        <mark key="]" line="56" column="91" />
-        <mark key="^" line="56" column="91" />
-        <mark key="." line="56" column="91" />
+      <file name="$USER_HOME$/projects/docq/app/components/home-breadcrumb.js" timestamp="1445491073402">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="57" column="97" />
+        <mark key="]" line="57" column="100" />
+        <mark key="^" line="57" column="100" />
+        <mark key="." line="57" column="100" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/modern-browser-warning.hbs" timestamp="1443202846611">
         <mark key="[" line="0" column="91" />
@@ -678,7 +679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5112" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="7356" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="7358" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="7361" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
@@ -778,46 +778,47 @@
       <jump line="23" column="18" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
       <jump line="35" column="53" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
       <jump line="11" column="2" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/home-breadcrumb.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text encoding="base64">IHJlZmV0Y2g=</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text encoding="base64">IHJlZmV0Y2g=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldCgnbXlGaWxlRW50cmllcycsIHJlc3VsdC5maWxlcykK</text>
+        <text encoding="base64">ICAgICAgdmFyIGxvY2F0aW9uID0gRGlyZWN0b3J5TG9jYXRpb24uY3JlYXRlKHsKICAgICAgICBuYXZCdXR0b25JZDogJ215RmlsZXMnLAogICAgICAgIGRpcmVjdG9yeUlkOiBkaXJJZCwKICAgICAgICBuYW1lOiBkaXIuZ2V0KCduYW1lJykKICAgICAgfSkKICAgICAgbG9jYXRpb25zLnB1c2hPYmplY3QobG9jYXRpb24pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>E</text>
+        <text encoding="base64">IHJlZmV0Y2g=</text>
       </register>
-      <register name="2" type="4">
-        <text>n</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHJlZmV0Y2ggID0gdHJ1ZQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>t</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYgKGN1cnJlbnRNb2R1bGVJZCA9PT0gJ215U2hhcmVkRmlsZXMnKSB7CiAgICAgICAgCiAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text>r</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGlzRmlsZU93bmVyICA9IGZpbGUuZ2V0KCdvd25lcklkJykgPT09IHRoaXMuYXV0aC5nZXQoJ3VzZXIuaWQnKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdmFyIG1vZHVsZUlkID0gY3VycmVudE1vZHVsZUlkID09ICdyZWNlaXZlZEZpbGVzJyA/ICdyZWNlaXZlZEZpbGVzJyA6IAo=</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>:</text>
       </register>
       <register name="8" type="4">
-        <text>files</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgY3VycmVudE15RmlsZXM6IEVtYmVyLmNvbXB1dGVkKCdteUZpbGVFbnRyaWVzJywgJ2N1cnJlbnREaXJlY3RvcnlJZCcsIGZ1bmN0aW9uICgpIHsKICAgIHZhciBkaXJJZCA9IHRoaXMuZ2V0KCdjdXJyZW50RGlyZWN0b3J5SWQnKQogICAgdGhpcy5hcHAuZGVidWcoJ2N1cnJlbnQgZGlyZWN0b3J5IGlkJywgZGlySWQpCiAgICB2YXIgZmlsZXMgPSB0aGlzLmdldCgnbXlGaWxlRW50cmllcycpLmZpbHRlckJ5KCdwYXJlbnRJZCcsIGRpcklkKQogICAgdGhpcy5hcHAuZGVidWcoJ2N1cnJlbnQgbXkgZmlsZXMnLCBmaWxlcykKICAgIHJldHVybiBmaWxlcwogIH0pLAo=</text>
+      <register name="9" type="4">
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

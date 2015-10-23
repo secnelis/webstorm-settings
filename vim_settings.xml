@@ -226,6 +226,12 @@
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-show-header-mobile.less" timestamp="1445568520932">
         <mark key="'" line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/styles/components/home-header.less" timestamp="1445569691149">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/plain-text-viewer.js" timestamp="1443336114136">
         <mark key="'" line="10" column="13" />
         <mark key="[" line="23" column="0" />
@@ -631,6 +637,12 @@
         <mark key="^" line="4" column="88" />
         <mark key="." line="4" column="88" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" timestamp="1445569655346">
+        <mark key="[" line="0" column="72" />
+        <mark key="]" line="0" column="88" />
+        <mark key="." line="0" column="88" />
+        <mark key="^" line="0" column="88" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" timestamp="1445494126570">
         <mark key="'" line="30" column="22" />
         <mark key="[" line="26" column="78" />
@@ -797,11 +809,11 @@
       <jump line="40" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/file-show-header-mobile.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB0ZXh0LWluZGVudDogLTk5OTlweDsK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>received</text>
@@ -809,32 +821,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBjdXJyZW50UmVjZWl2ZWRGaWxlczogRW1iZXIuY29tcHV0ZWQoJ3JlY2VpdmVkRmlsZUVudHJpZXMnLCAnY3VycmVudERpcmVjdG9yeUlkJywgZnVuY3Rpb24gKCkgewogICAgdmFyIGRpcklkID0gdGhpcy5nZXQoJ2N1cnJlbnREaXJlY3RvcnlJZCcpCiAgICB0aGlzLmFwcC5kZWJ1ZygnY3VycmVudCBkaXJlY3RvcnkgaWQnLCBkaXJJZCkKICAgIHZhciBmaWxlcwogICAgaWYgKGRpcklkID09PSAwKSB7CiAgICAgIGZpbGVzID0gdGhpcy5nZXQoJ3JlY2VpdmVkRmlsZUVudHJpZXMnKS5maWx0ZXJCeSgnaXNSb290Tm9kZScsIDEpCiAgICB9IGVsc2UgewogICAgICBmaWxlcyA9IHRoaXMuZ2V0KCdyZWNlaXZlZEZpbGVFbnRyaWVzJykuZmlsdGVyQnkoJ3BhcmVudElkJywgZGlySWQpCiAgICB9CiAgICB0aGlzLmFwcC5kZWJ1ZygnY3VycmVudCByZWNlaXZlZCBmaWxlcycsIGZpbGVzKQogICAgcmV0dXJuIGZpbGVzCiAgfSksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB0ZXh0LWluZGVudDogLTk5OTlweDsK</text>
       </register>
       <register name="2" type="4">
-        <text>5</text>
+        <text>x</text>
       </register>
       <register name="3" type="4">
-        <text>x</text>
+        <text>p</text>
       </register>
       <register name="4" type="4">
         <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>6</text>
+        <text>3</text>
       </register>
       <register name="6" type="4">
-        <text>-</text>
+        <text>1</text>
       </register>
-      <register name="7" type="4">
-        <text>o</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB3aWR0aDogMTMwcHg7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>g</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoL2kvbG9nby0xNDB4NTAucG5nKTsK</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

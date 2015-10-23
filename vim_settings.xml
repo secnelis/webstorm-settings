@@ -436,11 +436,11 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="19" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1445591492253">
+      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1445598062193">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" timestamp="1445572148979">
@@ -830,11 +830,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/projects/docq/ember-cli-build.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LnRpdGxlID0gJ0RPQ1EgLSDkvJrlip7lhaznmoTmlofmoaPkupEnCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>'i/logos'</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50TW9kdWxlSWRcPg==</text>
@@ -842,32 +842,32 @@
       <register name="0" type="2">
         <text encoding="base64">e3sjc2lkZS1uYXYtYnV0dG9uIG1vZHVsZUlkPSd1c2VyTWFuYWdlcicgYWN0aW9uPSdnb1RvTW9kdWxlJyBib3JkZXJCb3R0b209dHJ1ZSBjdXJyZW50TW9kdWxlSWQ9Y3VycmVudE1vZHVsZUlkfX0KICA8aSBjbGFzcz0iZmEgZmEtdXNlcnMiPjwvaT4KICA8c3Bhbj7nlKjmiLfnrqHnkIY8L3NwYW4+Cnt7L3NpZGUtbmF2LWJ1dHRvbn19Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>/</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGRvY3VtZW50LnRpdGxlID0gJ0RPQ1EgLSDkvJrlip7lhaznmoTmlofmoaPkupEnCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>'i/logos'</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">RGFuZwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">e3sjc2lkZS1uYXYtYnV0dG9uIG1vZHVsZUlkPSdvcGVyYXRpb25Mb2dzJyBhY3Rpb249J2dvVG9Nb2R1bGUnIGJvcmRlckJvdHRvbT10cnVlIGN1cnJlbnRNb2R1bGVJZD1jdXJyZW50TW9kdWxlSWR9fQogIDxpIGNsYXNzPSJmYSBmYS1jYWxlbmRhci1jaGVjay1vIj48L2k+CiAgPHNwYW4+5pON5L2c6K6w5b2VPC9zcGFuPgp7ey9zaWRlLW5hdi1idXR0b259fQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>50</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>100</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">e3t5aWVsZH19Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>o</text>
-      </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

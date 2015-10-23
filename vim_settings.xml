@@ -436,12 +436,12 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="19" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1445573567783">
+      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1445591492253">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="11" column="15" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" timestamp="1445572148979">
         <mark key="'" line="14" column="14" />

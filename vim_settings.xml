@@ -43,19 +43,16 @@
         <mark key="^" line="150" column="66" />
         <mark key="." line="150" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" timestamp="1445493263345">
-        <mark key="'" line="164" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="39" column="17" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" timestamp="1445567664460">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1445491303751">
-        <mark key="'" line="269" column="10" />
-        <mark key="[" line="19" column="58" />
-        <mark key="]" line="19" column="62" />
-        <mark key="^" line="19" column="62" />
-        <mark key="." line="19" column="62" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1445567881350">
+        <mark key="'" line="272" column="10" />
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="20" column="65" />
+        <mark key="^" line="20" column="65" />
+        <mark key="." line="20" column="65" />
       </file>
       <file name="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" timestamp="1442684072124">
         <mark key="'" line="441" column="12" />
@@ -104,12 +101,12 @@
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1445488835750">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="50" column="23" />
-        <mark key="." line="50" column="23" />
-        <mark key="^" line="50" column="23" />
+      <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1445567635678">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="40" column="42" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="42" />
+        <mark key="^" line="42" column="11" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/access-logs-panel.js" timestamp="1445341826387">
         <mark key="'" line="0" column="0" />
@@ -308,10 +305,10 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" timestamp="1445506795657">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" timestamp="1445567740414">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="19" column="4" />
         <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1443336276144">
@@ -467,10 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="85" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
-      <jump line="830" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
-      <jump line="836" column="107" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
-      <jump line="60" column="3" filename="$USER_HOME$/projects/docq/app/components/modal-text-editor.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/modal-text-editor.hbs" />
       <jump line="232" column="24" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="315" column="22" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
@@ -536,7 +529,6 @@
       <jump line="29" column="13" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
       <jump line="67" column="7" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
-      <jump line="271" column="10" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="32" column="39" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
       <jump line="38" column="26" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
       <jump line="7" column="2" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
@@ -567,46 +559,51 @@
       <jump line="7" column="0" filename="$USER_HOME$/projects/docq/app/styles/common.less" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-trash-bin-mixin.js" />
+      <jump line="76" column="20" filename="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
+      <jump line="16" column="4" filename="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" />
+      <jump line="271" column="10" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>删除</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>删除</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>received</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgIGJvb3Rib3guZGlhbG9nKHsKICAgICAgICBzaXplOiAnc21hbGwnLAogICAgICAgIG1lc3NhZ2U6ICfku47lm57mlLbnq5nliKDpmaTnmoTmlofku7bml6Dms5XmgaLlpI3vvIznoa7orqTliKDpmaTvvJ8nLAogICAgICAgIG9uRXNjYXBlOiB0cnVlLAogICAgICAgIGJ1dHRvbnM6IHsKICAgICAgICAgIGNhbmNlbDogewogICAgICAgICAgICBsYWJlbDogJ+WPlua2iCcsCiAgICAgICAgICAgIGNhbGxiYWNrKCkgewogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgY29uZmlybTogewogICAgICAgICAgICBsYWJlbDogJ+WIoOmZpCcsCiAgICAgICAgICAgIGNsYXNzTmFtZTogJ2J0bi1kYW5nZXInLAogICAgICAgICAgICBjYWxsYmFjaygpIHsKICAgICAgICAgICAgICB2YXIgZmlsZXMgPSBzZWxmLmdldCgnc2VsZWN0ZWRGaWxlcycpCiAgICAgICAgICAgICAgc2VsZi5zZW5kKCdkZXN0cm95RmlsZXMnLCBmaWxlcywgZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICBzZWxmLnNlbmQoJ29uRmlsZVNlbGVjdGlvbkNoYW5nZScsIFtdKQogICAgICAgICAgICAgICAgc2VsZi5zZW5kKCdyZWZyZXNoRGlyZWN0b3J5JykKICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9KQo=</text>
+        <text encoding="base64">ICBjdXJyZW50UmVjZWl2ZWRGaWxlczogRW1iZXIuY29tcHV0ZWQoJ3JlY2VpdmVkRmlsZUVudHJpZXMnLCAnY3VycmVudERpcmVjdG9yeUlkJywgZnVuY3Rpb24gKCkgewogICAgdmFyIGRpcklkID0gdGhpcy5nZXQoJ2N1cnJlbnREaXJlY3RvcnlJZCcpCiAgICB0aGlzLmFwcC5kZWJ1ZygnY3VycmVudCBkaXJlY3RvcnkgaWQnLCBkaXJJZCkKICAgIHZhciBmaWxlcwogICAgaWYgKGRpcklkID09PSAwKSB7CiAgICAgIGZpbGVzID0gdGhpcy5nZXQoJ3JlY2VpdmVkRmlsZUVudHJpZXMnKS5maWx0ZXJCeSgnaXNSb290Tm9kZScsIDEpCiAgICB9IGVsc2UgewogICAgICBmaWxlcyA9IHRoaXMuZ2V0KCdyZWNlaXZlZEZpbGVFbnRyaWVzJykuZmlsdGVyQnkoJ3BhcmVudElkJywgZGlySWQpCiAgICB9CiAgICB0aGlzLmFwcC5kZWJ1ZygnY3VycmVudCByZWNlaXZlZCBmaWxlcycsIGZpbGVzKQogICAgcmV0dXJuIGZpbGVzCiAgfSksCg==</text>
       </register>
       <register name="1" type="4">
-        <text>删除</text>
+        <text>true</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzCiAgICAgIGJvb3Rib3guZGlhbG9nKHsKICAgICAgICBzaXplOiAnc21hbGwnLAogICAgICAgIG1lc3NhZ2U6ICfku47lm57mlLbnq5nliKDpmaTnmoTmlofku7bml6Dms5XmgaLlpI3vvIznoa7orqTliKDpmaTvvJ8nLAogICAgICAgIG9uRXNjYXBlOiB0cnVlLAogICAgICAgIGJ1dHRvbnM6IHsKICAgICAgICAgIGNhbmNlbDogewogICAgICAgICAgICBsYWJlbDogJ+WPlua2iCcsCiAgICAgICAgICAgIGNhbGxiYWNrKCkgewogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgY29uZmlybTogewogICAgICAgICAgICBsYWJlbDogJ+WIoOmZpCcsCiAgICAgICAgICAgIGNsYXNzTmFtZTogJ2J0bi1kYW5nZXInLAogICAgICAgICAgICBjYWxsYmFjaygpIHsKICAgICAgICAgICAgICB2YXIgZmlsZXMgPSBzZWxmLmdldCgnc2VsZWN0ZWRGaWxlcycpCiAgICAgICAgICAgICAgc2VsZi5zZW5kKCdkZXN0cm95RmlsZXMnLCBmaWxlcywgZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICBzZWxmLnNlbmQoJ29uRmlsZVNlbGVjdGlvbkNoYW5nZScsIFtdKQogICAgICAgICAgICAgICAgc2VsZi5zZW5kKCdyZWZyZXNoRGlyZWN0b3J5JykKICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9KQogICAgICBib290Ym94LmNvbmZpcm0oewogICAgICAgIHNpemU6ICdzbWFsbCcsCiAgICAgICAgbWVzc2FnZTogJ+aPkOekuu+8micsCiAgICAgICAgb25Fc2NhcGU6IHRydWUsCiAgICAgICAgY2FsbGJhY2soKSB7CiAgICAgICAgICAKICAgICAgICB9CiAgICAgIH0pCg==</text>
+      <register name="2" type="4">
+        <text>d</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRleHQ6ICflhbHkuqsuLi4nLAogICAgICAgIC8vZmlsdGVyKCRsaSkgewogICAgICAgIC8vICB2YXIgZmlsZSA9IHNlbGYuZ2V0KCdzZWxlY3RlZEZpbGVzLmZpcnN0T2JqZWN0JykKICAgICAgICAvLyAgcmV0dXJuICEgZmlsZS5nZXQoJ2lzRGlyJykKICAgICAgICAvL30sCiAgICAgICAgYWN0aW9uKGUpIHsKICAgICAgICAgIHNlbGYuYXBwLnRyYWNrRXZlbnQoJ2NvbnRleHQtbWVudScsICdjbGljaycsICfmlLbliLDnmoTmlofku7Y65YWx5LqrLi4uJykKICAgICAgICAgIHZhciBmaWxlID0gc2VsZi5nZXQoJ3NlbGVjdGVkRmlsZXMuZmlyc3RPYmplY3QnKQogICAgICAgICAgc2VsZi5zZW5kKCdzaG93U2hhcmVNb2RhbCcsIGZpbGUpCiAgICAgICAgfQogICAgICB9LAo=</text>
+      <register name="3" type="4">
+        <text>I</text>
       </register>
       <register name="4" type="4">
-        <text>的</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>我</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>receivedFiles</text>
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LnEtZmFrZS1oaWRkZW4gewogIGxlZnQ6IC05OTk5cHg7Cn0KCg==</text>
+      <register name="7" type="4">
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

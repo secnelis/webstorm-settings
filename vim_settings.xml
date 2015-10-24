@@ -67,10 +67,6 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" timestamp="1445567664460">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="7" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" timestamp="1445567881350">
         <mark key="'" line="272" column="10" />
         <mark key="[" line="20" column="59" />
@@ -110,12 +106,12 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/services/app.js" timestamp="1443324921325">
-        <mark key="'" line="63" column="3" />
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="44" column="16" />
-        <mark key="." line="44" column="16" />
-        <mark key="^" line="44" column="16" />
+      <file name="$USER_HOME$/projects/docq/app/services/app.js" timestamp="1445686227018">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="112" column="43" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/index-header.js" timestamp="1443162262250">
         <mark key="'" line="58" column="1" />
@@ -456,12 +452,6 @@
         <mark key="." line="22" column="38" />
         <mark key="^" line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" timestamp="1445567740414">
-        <mark key="'" line="16" column="4" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="76" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/file-viewer.less" timestamp="1442690334858">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="29" />
@@ -697,8 +687,8 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/page-home.js" timestamp="1445494198944">
-        <mark key="'" line="42" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/components/page-home.js" timestamp="1445686314066">
+        <mark key="'" line="63" column="0" />
         <mark key="[" line="46" column="34" />
         <mark key="]" line="46" column="40" />
         <mark key="." line="46" column="40" />
@@ -728,9 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="678" column="12" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="452" column="21" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="469" column="25" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="472" column="23" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="736" column="22" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
@@ -828,46 +815,49 @@
       <jump line="45" column="16" filename="$USER_HOME$/projects/docq/app/components/page-admin.js" />
       <jump line="5" column="2" filename="$USER_HOME$/projects/docq/app/components/page-admin.js" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/docq/ember-cli-build.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/docq/app/services/app.js" />
+      <jump line="62" column="2" filename="$USER_HOME$/projects/docq/app/components/page-home.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/projects/docq/app/components/page-home.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>config.APP.deployType != 'public'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50TW9kdWxlSWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">e3sjc2lkZS1uYXYtYnV0dG9uIG1vZHVsZUlkPSd1c2VyTWFuYWdlcicgYWN0aW9uPSdnb1RvTW9kdWxlJyBib3JkZXJCb3R0b209dHJ1ZSBjdXJyZW50TW9kdWxlSWQ9Y3VycmVudE1vZHVsZUlkfX0KICA8aSBjbGFzcz0iZmEgZmEtdXNlcnMiPjwvaT4KICA8c3Bhbj7nlKjmiLfnrqHnkIY8L3NwYW4+Cnt7L3NpZGUtbmF2LWJ1dHRvbn19Cg==</text>
+        <text encoding="base64">ICAgIHZhciBjb21wYW55TmFtZSA9IHdpbmRvdy5jb21wYW55TmFtZSB8fCAnRE9DUScK</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LnRpdGxlID0gJ0RPQ1EgLSDkvJrlip7lhaznmoTmlofmoaPkupEnCg==</text>
+        <text encoding="base64">ICB7e2hvbWUtc2lkZS1uYXYgY3VycmVudE1vZHVsZUlkPWN1cnJlbnROYXZCdXR0b25JZH19Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>'i/logos'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBjb21wYW55TmFtZSA9ICdET0NRJwogICAgaWYgKGNvbmZpZy5BUFAuZGVwbG95VHlwZSA9PT0gJ2VudGVycHJpc2UnKSB7CiAgICAgIGNvbXBhbnlOYW1lID0gd2luZG93LmNvbXBhbnlOYW1lCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RGFuZwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">e3sjc2lkZS1uYXYtYnV0dG9uIG1vZHVsZUlkPSdvcGVyYXRpb25Mb2dzJyBhY3Rpb249J2dvVG9Nb2R1bGUnIGJvcmRlckJvdHRvbT10cnVlIGN1cnJlbnRNb2R1bGVJZD1jdXJyZW50TW9kdWxlSWR9fQogIDxpIGNsYXNzPSJmYSBmYS1jYWxlbmRhci1jaGVjay1vIj48L2k+CiAgPHNwYW4+5pON5L2c6K6w5b2VPC9zcGFuPgp7ey9zaWRlLW5hdi1idXR0b259fQo=</text>
+        <text encoding="base64">ICAgIHZhciBjb21wYW55TmFtZSA9ICdET0NRJwogICAgaWYgKGNvbmZpZy5BUFAuZGVwbG95VHlwZSA9PT0gJ2VudGVycHJpc2UnKSB7CiAgICAgIGNvbXBhbnlOYW1lID0gd2luZG93LmNvbXBhbnlOYW1lCiAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>50</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmICh3aW5kb3cuY29tcGFueU5hbWUpIHsKICAgICAgY29tcGFueU5hbWUgPSB3aW5kb3cuY29tcGFueU5hbWUKICAgIH0K</text>
       </register>
       <register name="7" type="4">
-        <text>100</text>
+        <text>config.APP.deployType != 'public'</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">e3t5aWVsZH19Cg==</text>
+      <register name="8" type="4">
+        <text>=</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

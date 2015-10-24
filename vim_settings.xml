@@ -236,6 +236,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docqvc/app/templates/components/home-breadcrumb.hbs" timestamp="1445700818938">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="133" />
+        <mark key="]" line="28" column="139" />
+        <mark key="^" line="28" column="139" />
+        <mark key="." line="28" column="139" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/plain-text-viewer.js" timestamp="1443336114136">
         <mark key="'" line="10" column="13" />
         <mark key="[" line="23" column="0" />
@@ -249,6 +256,9 @@
         <mark key="]" line="57" column="23" />
         <mark key="." line="57" column="23" />
         <mark key="^" line="57" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/docqvc/app/mixins/file-actions-mixin.js" timestamp="1445701082375">
+        <mark key="'" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header-mobile.js" timestamp="1443336268622">
         <mark key="[" line="19" column="40" />
@@ -339,6 +349,13 @@
         <mark key="." line="30" column="36" />
         <mark key="^" line="30" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/docqvc/app/templates/components/home-action-bar.hbs" timestamp="1445700891585">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/image-viewer.js" timestamp="1443336084569">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="50" />
@@ -417,6 +434,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="9" column="85" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/docqvc/app/styles/components/home-breadcrumb.less" timestamp="1445700864840">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" timestamp="1442988367638">
         <mark key="[" line="18" column="0" />
@@ -715,13 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
-      <jump line="189" column="27" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
-      <jump line="192" column="61" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
-      <jump line="15" column="34" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
-      <jump line="459" column="20" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
-      <jump line="460" column="36" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
-      <jump line="461" column="33" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/view/Toolbar.js" />
       <jump line="605" column="18" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
       <jump line="1121" column="27" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
       <jump line="1211" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
@@ -815,13 +831,20 @@
       <jump line="8" column="2" filename="$USER_HOME$/projects/yt/app/components/service-material-editor.js" />
       <jump line="67" column="14" filename="$USER_HOME$/projects/yt/app/components/service-material-editor.js" />
       <jump line="43" column="35" filename="$USER_HOME$/projects/yt/app/templates/components/service-material-editor.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docqvc/app/templates/components/home-breadcrumb.hbs" />
+      <jump line="92" column="4" filename="$USER_HOME$/projects/docqvc/app/templates/components/home-action-bar.hbs" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/docqvc/app/templates/components/home-action-bar.hbs" />
+      <jump line="20" column="6" filename="$USER_HOME$/projects/docqvc/app/mixins/file-actions-mixin.js" />
+      <jump line="47" column="7" filename="$USER_HOME$/projects/docqvc/app/mixins/file-actions-mixin.js" />
+      <jump line="219" column="12" filename="$USER_HOME$/projects/docqvc/app/mixins/file-actions-mixin.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/docqvc/app/mixins/file-actions-mixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>试</text>
+        <text>夹</text>
       </register>
       <register name="-" type="4">
-        <text>试</text>
+        <text>夹</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZVw+</text>
@@ -830,31 +853,31 @@
         <text encoding="base64">ICAgICAgICAgIHNpZ25lZF9ieTogc2lnbmVkQnksCiAgICAgICAgICB1dWlkOiB1dWlkLAogICAgICAgICAgcmVnaW9uOiByZWdpb24sCg==</text>
       </register>
       <register name="1" type="4">
-        <text>试</text>
+        <text>夹</text>
       </register>
       <register name="2" type="4">
-        <text>重</text>
+        <text>件</text>
       </register>
       <register name="3" type="4">
-        <text>请</text>
+        <text>文</text>
       </register>
       <register name="4" type="4">
-        <text>，</text>
+        <text>x</text>
       </register>
       <register name="5" type="4">
-        <text>败</text>
+        <text>p</text>
       </register>
       <register name="6" type="4">
-        <text>失</text>
+        <text>5</text>
       </register>
       <register name="7" type="4">
-        <text>存</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>保</text>
+        <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>失</text>
+        <text>试</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

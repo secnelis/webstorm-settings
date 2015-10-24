@@ -139,6 +139,12 @@
         <mark key="." line="40" column="31" />
         <mark key="^" line="40" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/docqvc/app/initializers/inject-vc.js" timestamp="1445702129350">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="1" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/components/modal-upload.js" timestamp="1443202542243">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="59" column="86" />
@@ -159,6 +165,12 @@
         <mark key="]" line="9" column="3" />
         <mark key="." line="78" column="19" />
         <mark key="^" line="34" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/docqvc/app/templates/components/home-side-nav.hbs" timestamp="1445702380867">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1444806658116">
         <mark key="'" line="31" column="11" />
@@ -265,6 +277,13 @@
         <mark key="]" line="19" column="48" />
         <mark key="." line="19" column="48" />
         <mark key="^" line="19" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/docqvc/app/styles/components/side-nav.less" timestamp="1445702441051">
+        <mark key="'" line="10" column="2" />
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="64" column="28" />
+        <mark key="." line="64" column="28" />
+        <mark key="^" line="64" column="28" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/modal-text-editor.js" timestamp="1443336019002">
         <mark key="[" line="21" column="0" />
@@ -414,6 +433,13 @@
         <mark key="]" line="3" column="1" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/docqvc/app/services/vc.js" timestamp="1445702340813">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="49" column="10" />
+        <mark key="]" line="49" column="12" />
+        <mark key="." line="49" column="12" />
+        <mark key="^" line="49" column="12" />
       </file>
       <file name="$USER_HOME$/projects/yt/app/components/service-material-editor.js" timestamp="1445439887025">
         <mark key="'" line="54" column="14" />
@@ -704,6 +730,13 @@
         <mark key="]" line="64" column="1" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/docqvc/app/components/page-home.js" timestamp="1445701971035">
+        <mark key="'" line="21" column="2" />
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" timestamp="1444554236780">
         <mark key="'" line="3720" column="12" />
         <mark key="[" line="3762" column="0" />
@@ -738,13 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="605" column="18" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
-      <jump line="1121" column="27" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/app/controller/Toolbar.js" />
-      <jump line="1211" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="2986" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="507" column="30" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="8227" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="3213" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="2918" column="9" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="88" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
       <jump line="224" column="13" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
@@ -838,46 +864,53 @@
       <jump line="47" column="7" filename="$USER_HOME$/projects/docqvc/app/mixins/file-actions-mixin.js" />
       <jump line="219" column="12" filename="$USER_HOME$/projects/docqvc/app/mixins/file-actions-mixin.js" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/docqvc/app/mixins/file-actions-mixin.js" />
+      <jump line="21" column="2" filename="$USER_HOME$/projects/docqvc/app/components/page-home.js" />
+      <jump line="4" column="85" filename="$USER_HOME$/projects/docqvc/app/templates/components/home-side-nav.hbs" />
+      <jump line="48" column="4" filename="$USER_HOME$/projects/docqvc/app/services/vc.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/projects/docqvc/app/services/vc.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/docqvc/app/templates/components/home-side-nav.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docqvc/app/styles/components/side-nav.less" />
+      <jump line="10" column="2" filename="$USER_HOME$/projects/docqvc/app/styles/components/side-nav.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>夹</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LnEtc2lkZS1uYXYtYnRuLWJvcmRlci10b3Agewo=</text>
       </register>
       <register name="-" type="4">
-        <text>夹</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNpZ25lZF9ieTogc2lnbmVkQnksCiAgICAgICAgICB1dWlkOiB1dWlkLAogICAgICAgICAgcmVnaW9uOiByZWdpb24sCg==</text>
+        <text encoding="base64">LnEtc2lkZS1uYXYtYnRuLWJvcmRlci10b3Agewo=</text>
       </register>
       <register name="1" type="4">
-        <text>夹</text>
+        <text>'</text>
       </register>
       <register name="2" type="4">
-        <text>件</text>
+        <text>目</text>
       </register>
       <register name="3" type="4">
-        <text>文</text>
+        <text>项</text>
       </register>
       <register name="4" type="4">
-        <text>x</text>
+        <text>新</text>
       </register>
       <register name="5" type="4">
-        <text>p</text>
+        <text>现</text>
       </register>
       <register name="6" type="4">
-        <text>5</text>
+        <text>发</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>'</text>
       </register>
-      <register name="8" type="4">
-        <text>1</text>
+      <register name="8" type="2">
+        <text encoding="base64">e3tzaWRlLW5hdi1idXR0b24gdGV4dD0n5Yid5a6hJyBtb2R1bGVJZD0ndmNGaWxlcycgYWN0aW9uPSdnb1RvTW9kdWxlJyBib3JkZXJCb3R0b209dHJ1ZSBjdXJyZW50TW9kdWxlSWQ9Y3VycmVudE1vZHVsZUlkfX0KCnt7c2lkZS1uYXYtYnV0dG9uIHRleHQ9J+ivpuWuoScgbW9kdWxlSWQ9J3ZjRmlsZXMnIGFjdGlvbj0nZ29Ub01vZHVsZScgYm9yZGVyQm90dG9tPXRydWUgY3VycmVudE1vZHVsZUlkPWN1cnJlbnRNb2R1bGVJZH19Cgp7e3NpZGUtbmF2LWJ1dHRvbiB0ZXh0PSfllYbkuJrlsL3osIMnIG1vZHVsZUlkPSd2Y0ZpbGVzJyBhY3Rpb249J2dvVG9Nb2R1bGUnIGJvcmRlckJvdHRvbT10cnVlIGN1cnJlbnRNb2R1bGVJZD1jdXJyZW50TW9kdWxlSWR9fQoKe3tzaWRlLW5hdi1idXR0b24gdGV4dD0n56ys5LiJ5pa55bC96LCDJyBtb2R1bGVJZD0ndmNGaWxlcycgYWN0aW9uPSdnb1RvTW9kdWxlJyBib3JkZXJCb3R0b209dHJ1ZSBjdXJyZW50TW9kdWxlSWQ9Y3VycmVudE1vZHVsZUlkfX0KCnt7c2lkZS1uYXYtYnV0dG9uIHRleHQ9J+S6pOaYk+WujOaIkCcgbW9kdWxlSWQ9J3ZjRmlsZXMnIGFjdGlvbj0nZ29Ub01vZHVsZScgYm9yZGVyQm90dG9tPXRydWUgY3VycmVudE1vZHVsZUlkPWN1cnJlbnRNb2R1bGVJZH19Cgp7e3NpZGUtbmF2LWJ1dHRvbiB0ZXh0PSfmipXlkI7nrqHnkIYnIG1vZHVsZUlkPSd2Y0ZpbGVzJyBhY3Rpb249J2dvVG9Nb2R1bGUnIGJvcmRlckJvdHRvbT10cnVlIGN1cnJlbnRNb2R1bGVJZD1jdXJyZW50TW9kdWxlSWR9fQoKe3tzaWRlLW5hdi1idXR0b24gdGV4dD0n5a+G5YiH5YWz5rOoJyBtb2R1bGVJZD0ndmNGaWxlcycgYWN0aW9uPSdnb1RvTW9kdWxlJyBib3JkZXJCb3R0b209dHJ1ZSBjdXJyZW50TW9kdWxlSWQ9Y3VycmVudE1vZHVsZUlkfX0KCnt7c2lkZS1uYXYtYnV0dG9uIHRleHQ9J+aZrumAmuWFs+azqCcgbW9kdWxlSWQ9J3ZjRmlsZXMnIGFjdGlvbj0nZ29Ub01vZHVsZScgYm9yZGVyQm90dG9tPXRydWUgY3VycmVudE1vZHVsZUlkPWN1cnJlbnRNb2R1bGVJZH19Cgp7e3NpZGUtbmF2LWJ1dHRvbiB0ZXh0PSfmlL7lvIMnIG1vZHVsZUlkPSd2Y0ZpbGVzJyBhY3Rpb249J2dvVG9Nb2R1bGUnIGJvcmRlclRvcD10cnVlIGN1cnJlbnRNb2R1bGVJZD1jdXJyZW50TW9kdWxlSWR9fQoK</text>
       </register>
-      <register name="9" type="4">
-        <text>试</text>
+      <register name="9" type="2">
+        <text encoding="base64">e3tzaWRlLW5hdi1idXR0b24gdGV4dD0n5Y+R546w5paw6aG555uuJyBtb2R1bGVJZD0ndmNGaWxlcycgYWN0aW9uPSdnb1RvTW9kdWxlJyBib3JkZXJCb3R0b209dHJ1ZSBjdXJyZW50TW9kdWxlSWQ9Y3VycmVudE1vZHVsZUlkfX0K</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

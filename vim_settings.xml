@@ -858,7 +858,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">ICAvL2lmIChkZXBsb3lUeXBlICE9PSAncHVibGljJykgewogIC8vICBhcGlCYXNlVXJsID0gJy9hcGknCiAgLy8gIGNkbkJhc2VVcmwgPSAnL2NkbicKICAvLyAgZWRpdG9yRG9jdW1lbnREb21haW4gPSBudWxsCiAgLy8gIG9hdXRoQ2xpZW50SWQgPSAxCiAgLy8gIG9hdXRoQ2xpZW50U2VjcmV0ID0gJ1QxNTFNeWxBNmx6N1Q3Sk0nCiAgLy99</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -870,31 +870,31 @@
         <text encoding="base64">ICAgIHRyYXNoRmlsZXMoZmlsZXMsIGNhbGxiYWNrKSB7CiAgICAgIHZhciBzZWxmID0gdGhpcwogICAgICBuZXcgRW1iZXIuUlNWUC5Qcm9taXNlKGZ1bmN0aW9uIChyZXNvbHZlLCByZWplY3QpIHsKICAgICAgICB2YXIgZmlsZUlkcyA9IGZpbGVzLm1hcEJ5KCdpZCcpCiAgICAgICAgdmFyIGhhc2hpZHMgPSBzZWxmLmFwcC5lbmNvZGUoZmlsZUlkcykKICAgICAgICAkLnBvc3Qoc2VsZi5hcHAuYXBpVXJsKCdmaWxlcycsIGhhc2hpZHMsICdpcy10cmFzaGVkJyksIHsKICAgICAgICAgIF9tZXRob2Q6ICdQVVQnLAogICAgICAgICAgdmFsdWU6IDEKICAgICAgICB9KS50aGVuKGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgc2VsZi5hcHAubm90eSgn5bey5pS+5YWl5Zue5pS256uZJykKICAgICAgICAgIHJlc29sdmUoKQogICAgICAgIH0sIGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgc2VsZi5hcHAubm90eUVycm9yKHJlc3BvbnNlLnJlc3BvbnNlSlNPTi5lcnJvcikKICAgICAgICAgIHJlamVjdCgpCiAgICAgICAgfSkKICAgICAgfSkudGhlbihjYWxsYmFjaykKICAgIH0sCg==</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text encoding="base64">ICAvL2lmIChkZXBsb3lUeXBlICE9PSAncHVibGljJykgewogIC8vICBhcGlCYXNlVXJsID0gJy9hcGknCiAgLy8gIGNkbkJhc2VVcmwgPSAnL2NkbicKICAvLyAgZWRpdG9yRG9jdW1lbnREb21haW4gPSBudWxsCiAgLy8gIG9hdXRoQ2xpZW50SWQgPSAxCiAgLy8gIG9hdXRoQ2xpZW50U2VjcmV0ID0gJ1QxNTFNeWxBNmx6N1Q3Sk0nCiAgLy99</text>
       </register>
       <register name="2" type="4">
-        <text>已放入回收站</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>value</text>
+        <text>已放入回收站</text>
       </register>
       <register name="4" type="4">
-        <text>d</text>
+        <text>value</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text>h</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>h</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

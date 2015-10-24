@@ -101,12 +101,12 @@
         <mark key="." line="11" column="132" />
         <mark key="^" line="11" column="132" />
       </file>
-      <file name="$USER_HOME$/projects/docqvc/app/mixins/page-home-vc-phrase-mixin.js" timestamp="1445709430485">
+      <file name="$USER_HOME$/projects/docqvc/app/mixins/page-home-vc-phrase-mixin.js" timestamp="1445711648450">
         <mark key="'" line="28" column="31" />
-        <mark key="[" line="158" column="16" />
-        <mark key="]" line="158" column="16" />
-        <mark key="." line="158" column="16" />
-        <mark key="^" line="126" column="52" />
+        <mark key="[" line="191" column="46" />
+        <mark key="]" line="191" column="55" />
+        <mark key="." line="191" column="55" />
+        <mark key="^" line="191" column="55" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/services/app.js" timestamp="1443324921325">
         <mark key="'" line="63" column="3" />
@@ -254,12 +254,12 @@
         <mark key="." line="57" column="23" />
         <mark key="^" line="57" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/docqvc/app/mixins/file-actions-mixin.js" timestamp="1445707553485">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="20" column="53" />
-        <mark key="]" line="20" column="62" />
-        <mark key="^" line="20" column="62" />
-        <mark key="." line="20" column="62" />
+      <file name="$USER_HOME$/projects/docqvc/app/mixins/file-actions-mixin.js" timestamp="1445711726371">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="285" column="20" />
+        <mark key="]" line="285" column="28" />
+        <mark key="^" line="285" column="28" />
+        <mark key="." line="285" column="28" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header-mobile.js" timestamp="1443336268622">
         <mark key="[" line="19" column="40" />
@@ -344,7 +344,8 @@
         <mark key="^" line="35" column="74" />
         <mark key="." line="35" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/docqvc/app/models/file.js" timestamp="1445704813881">
+      <file name="$USER_HOME$/projects/docqvc/app/models/file.js" timestamp="1445710299605">
+        <mark key="'" line="38" column="0" />
         <mark key="[" line="40" column="39" />
         <mark key="]" line="40" column="45" />
         <mark key="." line="40" column="45" />
@@ -404,12 +405,12 @@
         <mark key="." line="50" column="16" />
         <mark key="^" line="50" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" timestamp="1445709467736">
-        <mark key="'" line="178" column="65" />
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="36" column="27" />
-        <mark key="^" line="36" column="27" />
-        <mark key="." line="36" column="27" />
+      <file name="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" timestamp="1445711624624">
+        <mark key="'" line="207" column="26" />
+        <mark key="[" line="120" column="49" />
+        <mark key="]" line="120" column="57" />
+        <mark key="." line="120" column="57" />
+        <mark key="^" line="120" column="57" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/side-nav-button.js" timestamp="1443357575488">
         <mark key="'" line="82" column="0" />
@@ -754,18 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7488" column="18" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="7756" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="832" column="39" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
-      <jump line="2448" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
-      <jump line="1121" column="49" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/model/WorkbookElems.js" />
-      <jump line="3720" column="12" filename="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" />
-      <jump line="837" column="116" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
-      <jump line="349" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
-      <jump line="359" column="12" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
-      <jump line="348" column="56" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
-      <jump line="358" column="85" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
       <jump line="830" column="38" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
       <jump line="836" column="107" filename="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" />
       <jump line="120" column="14" filename="$USER_HOME$/projects/docq/app/components/modal-share.js" />
@@ -854,55 +843,67 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/docqvc/app/components/home-breadcrumb.js" />
       <jump line="45" column="6" filename="$USER_HOME$/projects/docqvc/app/services/vc.js" />
       <jump line="178" column="65" filename="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" />
+      <jump line="120" column="17" filename="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" />
+      <jump line="161" column="0" filename="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" />
+      <jump line="192" column="6" filename="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/projects/docqvc/app/models/file.js" />
+      <jump line="205" column="0" filename="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" />
+      <jump line="121" column="7" filename="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" />
+      <jump line="94" column="36" filename="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" />
+      <jump line="195" column="22" filename="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" />
+      <jump line="181" column="6" filename="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" />
+      <jump line="118" column="22" filename="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" />
+      <jump line="201" column="26" filename="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/docqvc/app/mixins/file-actions-mixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>件</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>件</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aXRsZVw+</text>
+        <text>trashFiles</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50X2lkOiBzZWxmLmdldCgnY3VycmVudERpcmVjdG9yeUlkJykK</text>
+        <text encoding="base64">ICAgIHRyYXNoRmlsZXMoZmlsZXMsIGNhbGxiYWNrKSB7CiAgICAgIHZhciBzZWxmID0gdGhpcwogICAgICBuZXcgRW1iZXIuUlNWUC5Qcm9taXNlKGZ1bmN0aW9uIChyZXNvbHZlLCByZWplY3QpIHsKICAgICAgICB2YXIgZmlsZUlkcyA9IGZpbGVzLm1hcEJ5KCdpZCcpCiAgICAgICAgdmFyIGhhc2hpZHMgPSBzZWxmLmFwcC5lbmNvZGUoZmlsZUlkcykKICAgICAgICAkLnBvc3Qoc2VsZi5hcHAuYXBpVXJsKCdmaWxlcycsIGhhc2hpZHMsICdpcy10cmFzaGVkJyksIHsKICAgICAgICAgIF9tZXRob2Q6ICdQVVQnLAogICAgICAgICAgdmFsdWU6IDEKICAgICAgICB9KS50aGVuKGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgc2VsZi5hcHAubm90eSgn5bey5pS+5YWl5Zue5pS256uZJykKICAgICAgICAgIHJlc29sdmUoKQogICAgICAgIH0sIGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgc2VsZi5hcHAubm90eUVycm9yKHJlc3BvbnNlLnJlc3BvbnNlSlNPTi5lcnJvcikKICAgICAgICAgIHJlamVjdCgpCiAgICAgICAgfSkKICAgICAgfSkudGhlbihjYWxsYmFjaykKICAgIH0sCg==</text>
       </register>
       <register name="1" type="4">
-        <text>件</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>文</text>
+        <text>已放入回收站</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGRpdmlkZXI6IHRydWUsCiAgICAgICAgZmlsdGVyKCRsaSkgewogICAgICAgICAgdmFyIGZpbGUgPSBzZWxmLmdldCgnc2VsZWN0ZWRGaWxlcy5maXJzdE9iamVjdCcpCiAgICAgICAgICByZXR1cm4gISBmaWxlLmdldCgnaXNEaXInKQogICAgICAgIH0KICAgICAgfSwK</text>
+      <register name="3" type="4">
+        <text>value</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRleHQ6ICfliqDlhaXmlLbol4/lpLknLAogICAgICAgIGZpbHRlcigkbGkpIHsKICAgICAgICAgIHZhciBmaWxlID0gc2VsZi5nZXQoJ3NlbGVjdGVkRmlsZXMuZmlyc3RPYmplY3QnKQogICAgICAgICAgcmV0dXJuICEgZmlsZS5nZXQoJ2lzRGlyJykKICAgICAgICB9LAogICAgICAgIGFjdGlvbihlKSB7CiAgICAgICAgICBzZWxmLmFwcC50cmFja0V2ZW50KCdjb250ZXh0LW1lbnUnLCAnY2xpY2snLCAn5oiR55qE5paH5Lu2OuWKoOWFpeaUtuiXj+WkuScpCiAgICAgICAgICB2YXIgZmlsZSA9IHNlbGYuZ2V0KCdzZWxlY3RlZEZpbGVzLmZpcnN0T2JqZWN0JykKICAgICAgICAgIHNlbGYuc2VuZCgnZG9GYXZvcml0ZUZpbGVzJywgW2ZpbGVdKQogICAgICAgIH0KICAgICAgfSwK</text>
+      <register name="4" type="4">
+        <text>d</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRleHQ6ICflhbHkuqsuLi4nLAogICAgICAgIC8vZmlsdGVyKCRsaSkgewogICAgICAgIC8vICB2YXIgZmlsZSA9IHNlbGYuZ2V0KCdzZWxlY3RlZEZpbGVzLmZpcnN0T2JqZWN0JykKICAgICAgICAvLyAgcmV0dXJuICEgZmlsZS5nZXQoJ2lzRGlyJykKICAgICAgICAvL30sCiAgICAgICAgYWN0aW9uKGUpIHsKICAgICAgICAgIHNlbGYuYXBwLnRyYWNrRXZlbnQoJ2NvbnRleHQtbWVudScsICdjbGljaycsICfmiJHnmoTmlofku7Y65YWx5LqrLi4uJykKICAgICAgICAgIHZhciBmaWxlID0gc2VsZi5nZXQoJ3NlbGVjdGVkRmlsZXMuZmlyc3RPYmplY3QnKQogICAgICAgICAgc2VsZi5zZW5kKCdzaG93U2hhcmVNb2RhbCcsIGZpbGUpCiAgICAgICAgfQogICAgICB9LAo=</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>myFiles</text>
+        <text>h</text>
       </register>
       <register name="7" type="4">
-        <text>myFiles</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>myFiles</text>
+        <text>a</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGRpdmlkZXI6IHRydWUKICAgICAgfSwK</text>
+      <register name="9" type="4">
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aXRsZVw+</last-search>
+      <last-search>trashFiles</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aXRsZVw+</last-pattern>
+      <last-pattern>trashFiles</last-pattern>
       <last-replace>q-admin-pane</last-replace>
       <last-substitute>q-home-pane</last-substitute>
       <last-dir>1</last-dir>
@@ -910,7 +911,6 @@
     </search>
     <history>
       <history-search>
-        <entry>home</entry>
         <entry encoding="base64">XDxjdXJyZW50TmF2QnV0dG9uSWRcPg==</entry>
         <entry>map</entry>
         <entry>filter</entry>
@@ -930,6 +930,7 @@
         <entry>isRoot</entry>
         <entry encoding="base64">XDxjdXJyZW50TXlGaWxlc1w+</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
+        <entry>trashFiles</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

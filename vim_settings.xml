@@ -157,11 +157,11 @@
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/locales/en/translations.js" timestamp="1445851631648">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="1" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="1" />
+      <file name="$USER_HOME$/projects/docq/app/locales/en/translations.js" timestamp="1445857734887">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="31" />
+        <mark key="." line="9" column="31" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1445567635678">
         <mark key="'" line="94" column="0" />
@@ -184,12 +184,12 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1445853003558">
-        <mark key="'" line="31" column="11" />
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-        <mark key="^" line="0" column="31" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1445857756697">
+        <mark key="'" line="9" column="141" />
+        <mark key="[" line="24" column="73" />
+        <mark key="]" line="24" column="106" />
+        <mark key="." line="24" column="106" />
+        <mark key="^" line="24" column="106" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/admin-header.less" timestamp="1445571169965">
         <mark key="'" line="20" column="0" />
@@ -555,6 +555,13 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/locales/zh/translations.js" timestamp="1445857768536">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/access-logs-panel.hbs" timestamp="1445340396737">
         <mark key="[" line="15" column="53" />
         <mark key="]" line="15" column="70" />
@@ -829,10 +836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="299" column="26" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="300" column="26" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
-      <jump line="326" column="23" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="397" column="10" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="455" column="18" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
       <jump line="468" column="22" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
@@ -929,46 +932,50 @@
       <jump line="19" column="0" filename="$USER_HOME$/projects/docqvc/app/templates/components/home-side-nav.hbs" />
       <jump line="36" column="44" filename="$USER_HOME$/projects/docqvc/app/components/home-side-nav.js" />
       <jump line="21" column="12" filename="$USER_HOME$/projects/docq/config/environment.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
+      <jump line="2" column="1" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
+      <jump line="9" column="141" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
+      <jump line="0" column="15" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsb2NhbGUgPSAnY24tWmgnCg==</text>
+      <register name="&quot;" type="4">
+        <text>没有记录</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>没有记录</text>
       </register>
       <register name="/" type="4">
         <text>trash</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">e3tzaWRlLW5hdi1idXR0b24gdGV4dD0n5a+G5YiH5YWz5rOoJyBtb2R1bGVJZD0ndmNGaWxlcycgYWN0aW9uPSdnb1RvTW9kdWxlJyBib3JkZXJCb3R0b209dHJ1ZSBjdXJyZW50TW9kdWxlSWQ9Y3VycmVudE1vZHVsZUlkfX0K</text>
+        <text encoding="base64">ICAgIGVtcHR5X3JlY2VudF9yZWNvcmRzOiAnRW1wdHknLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBsb2NhbGUgPSAnY24tWmgnCg==</text>
+      <register name="1" type="4">
+        <text>没有记录</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>Empty</text>
       </register>
       <register name="3" type="4">
-        <text>home_side_nav</text>
+        <text>Clear</text>
       </register>
       <register name="4" type="4">
-        <text>件</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>文</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>的</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>我</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>件</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

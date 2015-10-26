@@ -169,11 +169,11 @@
         <mark key="^" line="43" column="35" />
       </file>
       <file name="$USER_HOME$/projects/docqvc/app/templates/components/home-side-nav.hbs" timestamp="1445696360776">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="18" column="44" />
-        <mark key="^" line="18" column="44" />
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+        <mark key="^" line="0" column="44" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1443357541096">
         <mark key="'" line="31" column="11" />
@@ -410,9 +410,6 @@
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/docqvc/app/components/home-side-nav.js" timestamp="1445696379911">
-        <mark key="'" line="36" column="44" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/initializers/inject-auth.js" timestamp="1443325525139">
         <mark key="[" line="7" column="16" />

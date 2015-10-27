@@ -163,8 +163,8 @@
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/locales/en/translations.js" timestamp="1445927334585">
-        <mark key="'" line="11" column="19" />
+      <file name="$USER_HOME$/projects/docq/app/locales/en/translations.js" timestamp="1445929923230">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="54" column="14" />
         <mark key="]" line="54" column="20" />
         <mark key="^" line="54" column="20" />
@@ -576,8 +576,8 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/locales/zh/translations.js" timestamp="1445927340441">
-        <mark key="'" line="11" column="14" />
+      <file name="$USER_HOME$/projects/docq/app/locales/zh/translations.js" timestamp="1445929922111">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="56" column="44" />
         <mark key="]" line="56" column="44" />
         <mark key="." line="56" column="44" />
@@ -878,8 +878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="20" filename="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
       <jump line="16" column="4" filename="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" />
       <jump line="271" column="10" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
@@ -911,7 +909,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
       <jump line="2" column="1" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="9" column="141" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
-      <jump line="0" column="15" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
       <jump line="37" column="40" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
       <jump line="102" column="12" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
@@ -947,7 +944,6 @@
       <jump line="386" column="7" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
       <jump line="17" column="5" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
       <jump line="541" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="38" column="39" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="5" column="18" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
@@ -978,6 +974,10 @@
       <jump line="11" column="19" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="11" column="14" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
       <jump line="49" column="78" filename="$USER_HOME$/projects/docq/app/mixins/page-home-trash-bin-mixin.js" />
+      <jump line="57" column="20" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
+      <jump line="57" column="22" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

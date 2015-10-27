@@ -231,8 +231,8 @@
         <mark key="." line="836" column="107" />
         <mark key="^" line="836" column="107" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" timestamp="1445506998338">
-        <mark key="'" line="535" column="6" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" timestamp="1445918976427">
+        <mark key="'" line="386" column="7" />
         <mark key="[" line="390" column="15" />
         <mark key="]" line="390" column="14" />
         <mark key="." line="390" column="14" />
@@ -849,7 +849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="7" filename="$USER_HOME$/projects/docq/app/mixins/file-actions-mixin.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/file-explorer.js" />
       <jump line="32" column="39" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
       <jump line="38" column="26" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
@@ -949,6 +948,7 @@
       <jump line="980" column="32" filename="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" />
       <jump line="45" column="90" filename="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" />
       <jump line="149" column="12" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
+      <jump line="386" column="7" filename="$USER_HOME$/projects/docq/app/mixins/page-home-layout-mixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

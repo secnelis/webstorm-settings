@@ -71,11 +71,12 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/services/app.js" timestamp="1446088847137">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
-        <mark key="^" line="141" column="36" />
+      <file name="$USER_HOME$/projects/docq/app/services/app.js" timestamp="1446103933855">
+        <mark key="'" line="127" column="2" />
+        <mark key="[" line="70" column="14" />
+        <mark key="]" line="70" column="14" />
+        <mark key="." line="70" column="14" />
+        <mark key="^" line="70" column="18" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/index-header.js" timestamp="1443162262250">
         <mark key="'" line="58" column="1" />
@@ -103,12 +104,12 @@
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/locales/en/translations.js" timestamp="1446102272655">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="20" />
+      <file name="$USER_HOME$/projects/docq/app/locales/en/translations.js" timestamp="1446105380058">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="89" column="64" />
+        <mark key="]" line="89" column="64" />
+        <mark key="." line="89" column="64" />
+        <mark key="^" line="89" column="64" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/file.js" timestamp="1445567635678">
         <mark key="'" line="94" column="0" />
@@ -210,12 +211,12 @@
         <mark key="^" line="22" column="62" />
         <mark key="." line="22" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/user-profile.js" timestamp="1446102169078">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="32" column="46" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/projects/docq/app/components/user-profile.js" timestamp="1446104688354">
+        <mark key="'" line="44" column="53" />
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="38" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="49" column="44" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/page-home-trash-bin-mixin.js" timestamp="1445927360056">
         <mark key="'" line="49" column="78" />
@@ -358,12 +359,12 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1443337052097">
-        <mark key="'" line="88" column="35" />
-        <mark key="[" line="47" column="24" />
-        <mark key="]" line="48" column="21" />
-        <mark key="." line="48" column="21" />
-        <mark key="^" line="48" column="21" />
+      <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1446105419353">
+        <mark key="'" line="86" column="11" />
+        <mark key="[" line="59" column="27" />
+        <mark key="]" line="59" column="53" />
+        <mark key="." line="59" column="53" />
+        <mark key="^" line="59" column="53" />
       </file>
       <file name="$USER_HOME$/projects/docqvc/app/styles/components/home-breadcrumb.less" timestamp="1445695413628">
         <mark key="'" line="86" column="10" />
@@ -372,12 +373,12 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" timestamp="1446101923334">
-        <mark key="'" line="35" column="47" />
-        <mark key="[" line="44" column="75" />
-        <mark key="]" line="44" column="95" />
-        <mark key="." line="44" column="95" />
-        <mark key="^" line="44" column="95" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" timestamp="1446104675763">
+        <mark key="'" line="17" column="88" />
+        <mark key="[" line="17" column="88" />
+        <mark key="]" line="17" column="88" />
+        <mark key="." line="17" column="94" />
+        <mark key="^" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1445598062193">
         <mark key="'" line="27" column="0" />
@@ -400,12 +401,12 @@
         <mark key="." line="83" column="57" />
         <mark key="^" line="83" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/locales/zh/translations.js" timestamp="1446101344657">
-        <mark key="'" line="15" column="14" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="21" />
-        <mark key="^" line="82" column="5" />
-        <mark key="." line="82" column="5" />
+      <file name="$USER_HOME$/projects/docq/app/locales/zh/translations.js" timestamp="1446105221834">
+        <mark key="'" line="84" column="8" />
+        <mark key="[" line="92" column="19" />
+        <mark key="]" line="92" column="21" />
+        <mark key="^" line="92" column="21" />
+        <mark key="." line="92" column="21" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1443336276144">
         <mark key="'" line="209" column="4" />
@@ -598,29 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="2" column="1" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="9" column="141" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
-      <jump line="37" column="40" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
-      <jump line="102" column="12" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="17" column="4" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
-      <jump line="176" column="2" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
-      <jump line="35" column="3" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="20" column="22" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="35" column="3" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="32" column="4" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="57" column="38" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
-      <jump line="22" column="6" filename="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" />
-      <jump line="59" column="23" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
-      <jump line="107" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/home-action-bar.hbs" />
-      <jump line="10" column="125" filename="$USER_HOME$/projects/docq/app/templates/components/home-breadcrumb.hbs" />
-      <jump line="30" column="43" filename="$USER_HOME$/projects/docq/app/templates/components/home-breadcrumb.hbs" />
-      <jump line="22" column="0" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
       <jump line="161" column="12" filename="$USER_HOME$/projects/docq/app/mixins/page-home-my-files-mixin.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/docq/vendor/bootstrap/js/bootbox.js" />
       <jump line="108" column="4" filename="$USER_HOME$/projects/docq/app/services/app.js" />
@@ -672,7 +650,6 @@
       <jump line="139" column="2" filename="$USER_HOME$/projects/docq/app/services/app.js" />
       <jump line="40" column="0" filename="$USER_HOME$/projects/docq/app/services/app.js" />
       <jump line="142" column="3" filename="$USER_HOME$/projects/docq/app/services/app.js" />
-      <jump line="13" column="3" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
       <jump line="46" column="5" filename="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" />
       <jump line="20" column="26" filename="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" />
       <jump line="19" column="21" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
@@ -689,64 +666,88 @@
       <jump line="15" column="17" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="15" column="14" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
       <jump line="78" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
       <jump line="83" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="16" column="4" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="82" column="24" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="20" column="20" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="35" column="47" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
       <jump line="83" column="0" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
+      <jump line="21" column="3" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
+      <jump line="41" column="54" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
+      <jump line="138" column="15" filename="$USER_HOME$/projects/docq/app/services/app.js" />
+      <jump line="127" column="2" filename="$USER_HOME$/projects/docq/app/services/app.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
+      <jump line="82" column="21" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
+      <jump line="46" column="5" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
+      <jump line="84" column="12" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
+      <jump line="13" column="18" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
+      <jump line="38" column="7" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
+      <jump line="3" column="21" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
+      <jump line="15" column="57" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
+      <jump line="17" column="88" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
+      <jump line="43" column="39" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
+      <jump line="49" column="44" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
+      <jump line="44" column="53" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
+      <jump line="113" column="47" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
+      <jump line="86" column="11" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
+      <jump line="28" column="34" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
+      <jump line="31" column="5" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
+      <jump line="84" column="8" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZTogJ+WbvueJh+aWh+S7ticsCg==</text>
+      <register name="&quot;" type="4">
+        <text>正在发送验证邮件</text>
       </register>
       <register name="-" type="4">
-        <text>'上传'</text>
+        <text>正在发送验证邮件</text>
       </register>
       <register name="/" type="4">
-        <text>favori</text>
+        <text>Log Out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZTogJ0NoYW5nZScK</text>
+        <text encoding="base64">ICAgIG5ld19wYXNzd29yZDogJ05ldyBQYXNzd29yZCcsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZTogJ+WbvueJh+aWh+S7ticsCg==</text>
+      <register name="1" type="4">
+        <text>正在发送验证邮件</text>
       </register>
       <register name="2" type="4">
-        <text>'上传'</text>
+        <text>邮件已发送，请查收</text>
       </register>
       <register name="3" type="4">
-        <text>修改</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>密码</text>
+        <text>正在发送</text>
       </register>
       <register name="5" type="4">
-        <text>上传</text>
+        <text>?</text>
       </register>
       <register name="6" type="4">
-        <text>头像</text>
+        <text>common.password</text>
       </register>
       <register name="7" type="4">
-        <text>Change</text>
+        <text>New Password</text>
       </register>
       <register name="8" type="4">
-        <text>change</text>
+        <text>Registering, please wait</text>
       </register>
       <register name="9" type="4">
-        <text>修改</text>
+        <text>'正在注册，请稍候')</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>
       </register>
     </registers>
     <search>
-      <last-search>favori</last-search>
+      <last-search>Log Out</last-search>
       <last-offset />
-      <last-pattern>favori</last-pattern>
+      <last-pattern>Log Out</last-pattern>
       <last-replace>q-admin-pane</last-replace>
       <last-substitute>q-home-pane</last-substitute>
       <last-dir>1</last-dir>
@@ -754,9 +755,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console.log</entry>
-        <entry>label</entry>
-        <entry encoding="base64">XDxmaWxlQ29udGVudHNcPg==</entry>
         <entry encoding="base64">XDxmaWxlVXJsXD4=</entry>
         <entry>isFileOwn</entry>
         <entry encoding="base64">XDxpc05vcm1hbEZpbGVPd25lclw+</entry>
@@ -774,6 +772,9 @@
         <entry>确认</entry>
         <entry>favorites</entry>
         <entry>favori</entry>
+        <entry>common.upload</entry>
+        <entry>user_profile</entry>
+        <entry>Log Out</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

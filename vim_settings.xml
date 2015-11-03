@@ -145,11 +145,11 @@
         <mark key="]" line="8" column="50" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-contact.hbs" timestamp="1446526886376">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="36" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-contact.hbs" timestamp="1446527123029">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="71" />
+        <mark key="^" line="18" column="71" />
+        <mark key="." line="18" column="71" />
       </file>
       <file name="$USER_HOME$/projects/docqvc/app/styles/components/home-breadcrumb.less" timestamp="1445695413628">
         <mark key="'" line="86" column="10" />

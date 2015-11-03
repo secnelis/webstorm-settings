@@ -246,12 +246,12 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/locales/zh/translations.js" timestamp="1446105656724">
+      <file name="$USER_HOME$/projects/docq/app/locales/zh/translations.js" timestamp="1446517774081">
         <mark key="'" line="84" column="8" />
-        <mark key="[" line="89" column="29" />
-        <mark key="]" line="89" column="37" />
-        <mark key="^" line="89" column="37" />
-        <mark key="." line="89" column="37" />
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="27" />
+        <mark key="^" line="36" column="27" />
+        <mark key="." line="36" column="27" />
       </file>
       <file name="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" timestamp="1444554981082">
         <mark key="'" line="836" column="107" />
@@ -702,10 +702,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Email sent, please check your inbox</text>
+        <text>文</text>
       </register>
       <register name="-" type="4">
-        <text>Email sent, please check your inbox</text>
+        <text>文</text>
       </register>
       <register name="/" type="4">
         <text>Log Out</text>
@@ -714,31 +714,31 @@
         <text encoding="base64">ICAgIHJlc2VuZF92ZXJpZmljYXRpb25fZW1haWw6ICdSZXNlbmQgdmVyaWZpY2F0aW9uIGVtYWlsPycsCiAgICBzZW5kaW5nOiAnU2VuZGluZycsCiAgICBlbWFpbF9zZW50X2NoZWNrX2luYm94OiAnRW1haWwgc2VudCwgcGxlYXNlIGNoZWNrIHlvdXIgaW5ib3gnLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>Email sent, please check your inbox</text>
+        <text>文</text>
       </register>
       <register name="2" type="4">
-        <text>Sending</text>
+        <text>件</text>
       </register>
       <register name="3" type="4">
-        <text>Resend verification email?</text>
+        <text>Email sent, please check your inbox</text>
       </register>
       <register name="4" type="4">
-        <text>是否重新发送验证邮件？</text>
+        <text>Sending</text>
       </register>
       <register name="5" type="4">
-        <text>正在发送验证邮件</text>
+        <text>Resend verification email?</text>
       </register>
       <register name="6" type="4">
-        <text>邮件已发送，请查收</text>
+        <text>是否重新发送验证邮件？</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>正在发送验证邮件</text>
       </register>
       <register name="8" type="4">
-        <text>正在发送</text>
+        <text>邮件已发送，请查收</text>
       </register>
       <register name="9" type="4">
-        <text>?</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>1283</text>

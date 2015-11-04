@@ -518,12 +518,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1446623511640">
-        <mark key="'" line="306" column="0" />
-        <mark key="[" line="2596" column="36" />
-        <mark key="]" line="2596" column="36" />
-        <mark key="." line="2596" column="36" />
-        <mark key="^" line="2596" column="36" />
+      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1446627683290">
+        <mark key="'" line="2592" column="9" />
+        <mark key="[" line="2592" column="19" />
+        <mark key="]" line="2592" column="19" />
+        <mark key="." line="2592" column="19" />
+        <mark key="^" line="2592" column="18" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" timestamp="1443366450437">
         <mark key="'" line="6" column="0" />
@@ -553,12 +553,12 @@
         <mark key="^" line="48" column="50" />
         <mark key="." line="48" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/lang.js" timestamp="1446603046965">
-        <mark key="'" line="128" column="43" />
-        <mark key="[" line="127" column="44" />
-        <mark key="]" line="127" column="47" />
-        <mark key="." line="127" column="47" />
-        <mark key="^" line="127" column="47" />
+      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/lang.js" timestamp="1446628009240">
+        <mark key="'" line="330" column="24" />
+        <mark key="[" line="129" column="46" />
+        <mark key="]" line="129" column="47" />
+        <mark key="." line="129" column="47" />
+        <mark key="^" line="129" column="47" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/user-contacts.hbs" timestamp="1446519359881">
         <mark key="'" line="37" column="0" />
@@ -581,10 +581,10 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1446626648459">
-        <mark key="'" line="2937" column="29" />
-        <mark key="[" line="431" column="21" />
-        <mark key="]" line="431" column="25" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1446627668702">
+        <mark key="'" line="2933" column="35" />
+        <mark key="[" line="431" column="0" />
+        <mark key="]" line="433" column="14" />
         <mark key="." line="431" column="25" />
         <mark key="^" line="431" column="25" />
       </file>
@@ -625,13 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="19" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="119" column="15" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="22" column="3" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="16" column="18" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="117" column="46" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="64" column="12" filename="$USER_HOME$/projects/docq/app/templates/components/index-header.hbs" />
-      <jump line="116" column="46" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="111" column="35" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
       <jump line="98" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
@@ -712,68 +705,75 @@
       <jump line="18" column="19" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="2924" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="414" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="419" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="602" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="799" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="946" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="483" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="2929" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="482" column="12" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="486" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="2932" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="411" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="431" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="474" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="2937" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="431" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="486" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="419" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="6227" column="9" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2337" column="19" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="6238" column="4" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="956" column="0" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2933" column="35" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2592" column="9" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="330" column="24" filename="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/lang.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text>印</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>印</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc2NfUHJpbnRcPg==</text>
+        <text>正在下载</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hc2NfRG93bmxvYWRBcyhjX29Bc2NGaWxlVHlwZS5QREZQUklOVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hc2NfUHJpbnQodW5kZWZpbmVkLCB7CiAgICAgICAgICAgICAgICBhY3Rpb246ICdkb3dubG9hZCcKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>D</text>
+        <text>印</text>
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>打</text>
       </register>
       <register name="3" type="4">
-        <text>w</text>
+        <text>备</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>准</text>
       </register>
       <register name="5" type="4">
-        <text>l</text>
+        <text>印</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>打</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>备</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>准</text>
       </register>
       <register name="9" type="4">
-        <text>A</text>
+        <text>载</text>
       </register>
       <register name=":" type="4">
         <text>%s/background-position-y:/background-position: 0/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc2NfUHJpbnRcPg==</last-search>
+      <last-search>正在下载</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc2NfUHJpbnRcPg==</last-pattern>
+      <last-pattern>正在下载</last-pattern>
       <last-replace>background-position: 0</last-replace>
       <last-substitute>background-position-y:</last-substitute>
       <last-dir>1</last-dir>
@@ -781,10 +781,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lcky</entry>
-        <entry>asc_DownloadPDF</entry>
-        <entry>Common.Gate</entry>
-        <entry encoding="base64">XDxmb3JiaWRFZGl0XD4=</entry>
         <entry>downloadClean</entry>
         <entry encoding="base64">XDxpc0RvY3VtZW50TW9kaWZpZWRcPg==</entry>
         <entry>send</entry>
@@ -801,6 +797,10 @@
         <entry encoding="base64">XDxhc2NfRG93bmxvYWRBc1w+</entry>
         <entry>asc_getPrintType</entry>
         <entry encoding="base64">XDxhc2NfUHJpbnRcPg==</entry>
+        <entry encoding="base64">XDxfZG93bmxvYWRBc1w+</entry>
+        <entry>asc_DownloadPDF</entry>
+        <entry>Downloading</entry>
+        <entry>正在下载</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

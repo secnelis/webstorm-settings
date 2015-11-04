@@ -354,11 +354,12 @@
         <mark key="^" line="22" column="62" />
         <mark key="." line="22" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" timestamp="1446603604897">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1071" column="0" />
-        <mark key="]" line="1071" column="0" />
-        <mark key="." line="1071" column="0" />
+      <file name="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" timestamp="1446630347654">
+        <mark key="'" line="980" column="4" />
+        <mark key="[" line="3741" column="66" />
+        <mark key="]" line="3741" column="74" />
+        <mark key="." line="3741" column="74" />
+        <mark key="^" line="3741" column="74" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-shared-files-mixin.js" timestamp="1445927321386">
         <mark key="'" line="56" column="10" />
@@ -518,10 +519,10 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1446629381102">
-        <mark key="'" line="2337" column="12" />
-        <mark key="[" line="6239" column="25" />
-        <mark key="]" line="6239" column="27" />
+      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1446630142439">
+        <mark key="'" line="6237" column="0" />
+        <mark key="[" line="2592" column="0" />
+        <mark key="]" line="2594" column="6" />
         <mark key="." line="6239" column="27" />
         <mark key="^" line="6239" column="27" />
       </file>
@@ -623,14 +624,14 @@
         <mark key="^" line="8076" column="41" />
         <mark key="." line="8076" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/editor/.gitignore" timestamp="1446630692547">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="35" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="98" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="131" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/index-header.hbs" />
-      <jump line="84" column="0" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="18" column="6" filename="$USER_HOME$/projects/docq/app/templates/components/page-login.hbs" />
       <jump line="29" column="17" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="97" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/page-login.hbs" />
@@ -724,56 +725,62 @@
       <jump line="419" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="2315" column="23" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="2592" column="10" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="967" column="39" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
+      <jump line="6241" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="2337" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="6237" column="0" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="3746" column="4" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
+      <jump line="1066" column="14" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
+      <jump line="980" column="4" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>印</text>
+        <text>deployment</text>
       </register>
       <register name="-" type="4">
-        <text>印</text>
+        <text>deployment</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc2NfUHJpbnRcPg==</text>
+        <text>asc_DownloadPDF</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hc2NfUHJpbnQodW5kZWZpbmVkLCB7CiAgICAgICAgICAgICAgICBhY3Rpb246ICdkb3dubG9hZCcKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuYXNjX1ByaW50KHsKICAgICAgICBwZGZhY3Rpb246ICdkb3dubG9hZCcKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>印</text>
+        <text>deployment</text>
       </register>
-      <register name="2" type="4">
-        <text>打</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>备</text>
-      </register>
-      <register name="4" type="4">
-        <text>准</text>
-      </register>
-      <register name="5" type="4">
         <text>印</text>
       </register>
-      <register name="6" type="4">
+      <register name="4" type="4">
         <text>打</text>
       </register>
-      <register name="7" type="4">
+      <register name="5" type="4">
         <text>备</text>
       </register>
-      <register name="8" type="4">
+      <register name="6" type="4">
         <text>准</text>
       </register>
+      <register name="7" type="4">
+        <text>印</text>
+      </register>
+      <register name="8" type="4">
+        <text>打</text>
+      </register>
       <register name="9" type="4">
-        <text>载</text>
+        <text>备</text>
       </register>
       <register name=":" type="4">
         <text>%s/background-position-y:/background-position: 0/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc2NfUHJpbnRcPg==</last-search>
+      <last-search>asc_DownloadPDF</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc2NfUHJpbnRcPg==</last-pattern>
+      <last-pattern>asc_DownloadPDF</last-pattern>
       <last-replace>background-position: 0</last-replace>
       <last-substitute>background-position-y:</last-substitute>
       <last-dir>1</last-dir>
@@ -781,7 +788,6 @@
     </search>
     <history>
       <history-search>
-        <entry>downloadClean</entry>
         <entry encoding="base64">XDxpc0RvY3VtZW50TW9kaWZpZWRcPg==</entry>
         <entry>send</entry>
         <entry>print</entry>
@@ -797,10 +803,11 @@
         <entry encoding="base64">XDxhc2NfRG93bmxvYWRBc1w+</entry>
         <entry>asc_getPrintType</entry>
         <entry encoding="base64">XDxfZG93bmxvYWRBc1w+</entry>
-        <entry>asc_DownloadPDF</entry>
         <entry>Downloading</entry>
         <entry>正在下载</entry>
         <entry encoding="base64">XDxhc2NfUHJpbnRcPg==</entry>
+        <entry>asc_Print</entry>
+        <entry>asc_DownloadPDF</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

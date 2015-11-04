@@ -518,8 +518,8 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1446603582626">
-        <mark key="'" line="977" column="12" />
+      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1446623511640">
+        <mark key="'" line="306" column="0" />
         <mark key="[" line="2596" column="36" />
         <mark key="]" line="2596" column="36" />
         <mark key="." line="2596" column="36" />
@@ -581,12 +581,12 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1446620890229">
-        <mark key="'" line="2643" column="43" />
-        <mark key="[" line="435" column="0" />
-        <mark key="]" line="435" column="45" />
-        <mark key="^" line="435" column="44" />
-        <mark key="." line="435" column="44" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1446625523713">
+        <mark key="'" line="483" column="12" />
+        <mark key="[" line="431" column="0" />
+        <mark key="]" line="431" column="57" />
+        <mark key="." line="431" column="0" />
+        <mark key="^" line="426" column="24" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" timestamp="1446533297977">
         <mark key="'" line="109" column="0" />
@@ -625,30 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="21" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
-      <jump line="15" column="57" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
-      <jump line="17" column="88" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
-      <jump line="17" column="0" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
-      <jump line="43" column="39" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
-      <jump line="49" column="44" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
-      <jump line="44" column="53" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
-      <jump line="113" column="47" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
-      <jump line="86" column="11" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
-      <jump line="28" column="34" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="31" column="5" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
-      <jump line="14" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
-      <jump line="192" column="0" filename="$USER_HOME$/projects/docq/app/styles/components/file-explorer.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/styles/icons.less" />
-      <jump line="32" column="0" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/user-contacts.hbs" />
-      <jump line="99" column="5" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="100" column="23" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="20" column="23" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="66" column="10" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
       <jump line="110" column="32" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="11" column="20" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="182" column="52" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
@@ -684,7 +660,6 @@
       <jump line="2921" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="2922" column="35" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="2923" column="35" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="411" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="10" column="5" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="80" column="38" filename="$USER_HOME$/projects/editor/apps/common/Gateway.js" />
       <jump line="8" column="32" filename="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" />
@@ -723,57 +698,82 @@
       <jump line="603" column="56" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="660" column="35" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="816" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
-      <jump line="2642" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="2643" column="43" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2473" column="16" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="306" column="0" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
+      <jump line="2642" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2649" column="55" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2650" column="71" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2927" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1398" column="21" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1414" column="23" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1577" column="19" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="1581" column="37" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2651" column="55" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2652" column="71" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2653" column="49" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2654" column="33" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="6" column="42" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="18" column="19" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2924" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="414" column="22" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="419" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="602" column="29" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="799" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="946" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="483" column="17" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2929" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="411" column="8" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="482" column="12" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAge3tpZiBpc0RvY3VtZW50TW9kaWZpZWQgJyonfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hc2NfRG93bmxvYWRBcyhjX29Bc2NGaWxlVHlwZS5QREZQUklOVCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Changed</text>
+        <text encoding="base64">IC8vIE5FSUw=</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;print&quot;</text>
+        <text>asc_DownloadFile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEZpbGVBY3Rpb25zTWl4aW4gZnJvbSAnLi4vbWl4aW5zL2ZpbGUtYWN0aW9ucy1taXhpbicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hc2NfRG93bmxvYWRBcyhjX29Bc2NGaWxlVHlwZS5QREZQUklOVCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAge3tpZiBpc0RvY3VtZW50TW9kaWZpZWQgJyonfX0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">IC8vIE5FSUw=</text>
       </register>
-      <register name="2" type="4">
-        <text>Changed</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gTkVJTAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text>sFormat;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMuZ2V0KCdpc0RvY3VtZW50TW9kaWZpZWQnKSkgewogICAgICAgIHRoaXMuYXBwLnRyYWNrRXZlbnQoJ2ZpbGUtc2hvdy1oZWFkZXInLCAnY2xpY2snLCAn5LiL6L29KOaPkOekuuS/neWtmOS/ruaUuSknKQogICAgICAgIHRoaXMuYXBwLm5vdHkoJ+S/ruaUueWwmuacquS/neWtmOOAguivt+WFiOS/neWtmOS/ruaUue+8jOWGjeS4i+i9veaWh+ahoycpCiAgICAgICAgcmV0dXJuCiAgICAgIH0KICAgICAgdGhpcy5hcHAudHJhY2tFdmVudCgnZmlsZS1zaG93LWhlYWRlcicsICdjbGljaycsICfkuIvovb3mlofku7YnKQogICAgICB0aGlzLnNlbmQoJ2Rvd25sb2FkRmlsZScsIHRoaXMuZ2V0KCdmaWxlQWNjZXNzJykpCg==</text>
+      <register name="4" type="4">
+        <text>outputformat</text>
       </register>
-      <register name="5" type="4">
-        <text>self</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJiCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>'</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>2</text>
       </register>
       <register name=":" type="4">
         <text>%s/background-position-y:/background-position: 0/g</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;print&quot;</last-search>
+      <last-search>asc_DownloadFile</last-search>
       <last-offset />
-      <last-pattern>&quot;print&quot;</last-pattern>
+      <last-pattern>asc_DownloadFile</last-pattern>
       <last-replace>background-position: 0</last-replace>
       <last-substitute>background-position-y:</last-substitute>
       <last-dir>1</last-dir>
@@ -781,19 +781,12 @@
     </search>
     <history>
       <history-search>
-        <entry>Log Out</entry>
-        <entry>background-position-y:</entry>
-        <entry>contacts_add</entry>
-        <entry>contact_added</entry>
-        <entry>account</entry>
-        <entry>Downloading</entry>
         <entry>asc_Down</entry>
         <entry>LUCY</entry>
         <entry>lcky</entry>
         <entry>asc_DownloadPDF</entry>
         <entry>Common.Gate</entry>
         <entry encoding="base64">XDxmb3JiaWRFZGl0XD4=</entry>
-        <entry>asc_DownloadFile</entry>
         <entry>downloadClean</entry>
         <entry encoding="base64">XDxpc0RvY3VtZW50TW9kaWZpZWRcPg==</entry>
         <entry>send</entry>
@@ -801,6 +794,13 @@
         <entry>save</entry>
         <entry>&quot;save&quot;</entry>
         <entry>&quot;print&quot;</entry>
+        <entry>snapshot</entry>
+        <entry>napshot</entry>
+        <entry>NEIL</entry>
+        <entry>Print</entry>
+        <entry encoding="base64">XDxfYXNjX2Rvd25sb2FkQXNcPg==</entry>
+        <entry encoding="base64">XDxhc2NfRG93bmxvYWRBc1w+</entry>
+        <entry>asc_DownloadFile</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

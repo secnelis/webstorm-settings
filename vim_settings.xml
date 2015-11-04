@@ -24,6 +24,13 @@
         <mark key="." line="455" column="16" />
         <mark key="^" line="453" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/components/page-file-show.js" timestamp="1446604611268">
+        <mark key="'" line="57" column="21" />
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="53" />
+        <mark key="." line="5" column="53" />
+        <mark key="^" line="5" column="53" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1443360599595">
         <mark key="'" line="21" column="16" />
         <mark key="[" line="12" column="34" />
@@ -85,6 +92,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1446604772025">
+        <mark key="'" line="54" column="9" />
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" timestamp="1445342085084">
         <mark key="'" line="123" column="16" />
@@ -202,6 +216,13 @@
         <mark key="." line="46" column="39" />
         <mark key="^" line="46" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/page-file-show.hbs" timestamp="1446604959639">
+        <mark key="'" line="6" column="43" />
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="117" />
+        <mark key="." line="6" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1445913375305">
         <mark key="'" line="22" column="6" />
         <mark key="[" line="31" column="31" />
@@ -251,11 +272,11 @@
         <mark key="^" line="4" column="60" />
         <mark key="." line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/styles/components/file-viewer.less" timestamp="1446601538695">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+      <file name="$USER_HOME$/projects/docq/app/styles/components/file-viewer.less" timestamp="1446604791938">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/locales/zh/translations.js" timestamp="1446533101693">
         <mark key="'" line="55" column="1" />
@@ -298,12 +319,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="56" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1446523385886">
-        <mark key="'" line="209" column="4" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="123" column="16" />
+      <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1446604968021">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+        <mark key="." line="13" column="26" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/admin-header.js" timestamp="1443364208281">
         <mark key="'" line="19" column="4" />
@@ -415,12 +436,11 @@
         <mark key="." line="45" column="41" />
         <mark key="^" line="45" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1443335865212">
-        <mark key="'" line="79" column="32" />
-        <mark key="[" line="93" column="11" />
-        <mark key="]" line="93" column="15" />
-        <mark key="^" line="93" column="15" />
-        <mark key="." line="93" column="15" />
+      <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1446605059190">
+        <mark key="'" line="81" column="34" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/user-contacts.js" timestamp="1443166082947">
         <mark key="'" line="0" column="0" />
@@ -605,21 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="26" filename="$USER_HOME$/projects/docq/app/templates/components/home-header.hbs" />
-      <jump line="19" column="21" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="19" column="26" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="0" column="89" filename="$USER_HOME$/projects/docq/app/templates/components/admin-header.hbs" />
-      <jump line="13" column="21" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="14" column="12" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="9" column="18" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="77" column="1" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="15" column="17" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="15" column="14" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
       <jump line="83" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="82" column="24" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
@@ -705,55 +710,70 @@
       <jump line="87" column="8" filename="$USER_HOME$/projects/editor/apps/common/Gateway.js" />
       <jump line="977" column="12" filename="$USER_HOME$/projects/editor/sdk/Word/api.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/projects/docq/app/components/office-viewer.js" />
+      <jump line="54" column="4" filename="$USER_HOME$/projects/docq/app/components/page-file-show.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/components/page-file-show.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
+      <jump line="13" column="2" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
+      <jump line="204" column="20" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
+      <jump line="202" column="9" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
+      <jump line="56" column="21" filename="$USER_HOME$/projects/docq/app/components/page-file-show.js" />
+      <jump line="18" column="4" filename="$USER_HOME$/projects/docq/app/templates/components/page-file-show.hbs" />
+      <jump line="54" column="9" filename="$USER_HOME$/projects/docq/app/components/office-viewer.js" />
+      <jump line="79" column="34" filename="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/page-file-show.hbs" />
+      <jump line="6" column="43" filename="$USER_HOME$/projects/docq/app/templates/components/page-file-show.hbs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge3tpZiBpc0RvY3VtZW50TW9kaWZpZWQgJyonfX0K</text>
       </register>
       <register name="-" type="4">
-        <text>onDocumentStateChange</text>
+        <text>Changed</text>
       </register>
       <register name="/" type="4">
-        <text>asc_DownloadFile</text>
+        <text encoding="base64">XDxpc0RvY3VtZW50TW9kaWZpZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tbW9uLkdhdGV3YXkucmVxdWVzdERvd25sb2FkKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEZpbGVBY3Rpb25zTWl4aW4gZnJvbSAnLi4vbWl4aW5zL2ZpbGUtYWN0aW9ucy1taXhpbicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge3tpZiBpc0RvY3VtZW50TW9kaWZpZWQgJyonfX0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Changed</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGE6IG1vZGlmaWVkCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>onDocumentStateChange</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuZ2V0KCdpc0RvY3VtZW50TW9kaWZpZWQnKSkgewogICAgICAgIHRoaXMuYXBwLnRyYWNrRXZlbnQoJ2ZpbGUtc2hvdy1oZWFkZXInLCAnY2xpY2snLCAn5LiL6L29KOaPkOekuuS/neWtmOS/ruaUuSknKQogICAgICAgIHRoaXMuYXBwLm5vdHkoJ+S/ruaUueWwmuacquS/neWtmOOAguivt+WFiOS/neWtmOS/ruaUue+8jOWGjeS4i+i9veaWh+ahoycpCiAgICAgICAgcmV0dXJuCiAgICAgIH0KICAgICAgdGhpcy5hcHAudHJhY2tFdmVudCgnZmlsZS1zaG93LWhlYWRlcicsICdjbGljaycsICfkuIvovb3mlofku7YnKQogICAgICB0aGlzLnNlbmQoJ2Rvd25sb2FkRmlsZScsIHRoaXMuZ2V0KCdmaWxlQWNjZXNzJykpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>self</text>
       </register>
       <register name="6" type="4">
-        <text>Download failed.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
         <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>%s/background-position-y:/background-position: 0/g</text>
       </register>
     </registers>
     <search>
-      <last-search>asc_DownloadFile</last-search>
+      <last-search encoding="base64">XDxpc0RvY3VtZW50TW9kaWZpZWRcPg==</last-search>
       <last-offset />
-      <last-pattern>asc_DownloadFile</last-pattern>
+      <last-pattern encoding="base64">XDxpc0RvY3VtZW50TW9kaWZpZWRcPg==</last-pattern>
       <last-replace>background-position: 0</last-replace>
       <last-substitute>background-position-y:</last-substitute>
       <last-dir>1</last-dir>
@@ -761,8 +781,6 @@
     </search>
     <history>
       <history-search>
-        <entry>home_</entry>
-        <entry encoding="base64">XDxsb2NhbGVcPg==</entry>
         <entry>确认</entry>
         <entry>favorites</entry>
         <entry>favori</entry>
@@ -781,6 +799,8 @@
         <entry>Common.Gate</entry>
         <entry encoding="base64">XDxmb3JiaWRFZGl0XD4=</entry>
         <entry>asc_DownloadFile</entry>
+        <entry>downloadClean</entry>
+        <entry encoding="base64">XDxpc0RvY3VtZW50TW9kaWZpZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

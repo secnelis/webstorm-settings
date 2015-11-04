@@ -581,8 +581,8 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1446603601443">
-        <mark key="'" line="10" column="5" />
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1446620890229">
+        <mark key="'" line="2643" column="43" />
         <mark key="[" line="435" column="0" />
         <mark key="]" line="435" column="45" />
         <mark key="^" line="435" column="44" />
@@ -625,23 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
-      <jump line="83" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="82" column="24" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="35" column="47" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
-      <jump line="83" column="0" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="41" column="54" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="138" column="15" filename="$USER_HOME$/projects/docq/app/services/app.js" />
-      <jump line="127" column="2" filename="$USER_HOME$/projects/docq/app/services/app.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
-      <jump line="82" column="21" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="46" column="5" filename="$USER_HOME$/projects/docq/app/components/user-profile.js" />
-      <jump line="84" column="12" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
-      <jump line="13" column="18" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
-      <jump line="38" column="7" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
       <jump line="3" column="21" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
       <jump line="15" column="57" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
       <jump line="17" column="88" filename="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" />
@@ -725,6 +708,23 @@
       <jump line="18" column="0" filename="$USER_HOME$/projects/docq/app/components/file-show-header.js" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/page-file-show.hbs" />
       <jump line="6" column="43" filename="$USER_HOME$/projects/docq/app/templates/components/page-file-show.hbs" />
+      <jump line="360" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="389" column="26" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="653" column="43" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="958" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="959" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="962" column="69" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="970" column="25" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="973" column="41" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="975" column="41" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2684" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2685" column="43" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="420" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="603" column="56" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="660" column="35" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="816" column="28" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2642" column="44" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
+      <jump line="2643" column="43" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -734,7 +734,7 @@
         <text>Changed</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0RvY3VtZW50TW9kaWZpZWRcPg==</text>
+        <text>&quot;print&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEZpbGVBY3Rpb25zTWl4aW4gZnJvbSAnLi4vbWl4aW5zL2ZpbGUtYWN0aW9ucy1taXhpbicK</text>
@@ -771,9 +771,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0RvY3VtZW50TW9kaWZpZWRcPg==</last-search>
+      <last-search>&quot;print&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0RvY3VtZW50TW9kaWZpZWRcPg==</last-pattern>
+      <last-pattern>&quot;print&quot;</last-pattern>
       <last-replace>background-position: 0</last-replace>
       <last-substitute>background-position-y:</last-substitute>
       <last-dir>1</last-dir>
@@ -781,11 +781,6 @@
     </search>
     <history>
       <history-search>
-        <entry>确认</entry>
-        <entry>favorites</entry>
-        <entry>favori</entry>
-        <entry>common.upload</entry>
-        <entry>user_profile</entry>
         <entry>Log Out</entry>
         <entry>background-position-y:</entry>
         <entry>contacts_add</entry>
@@ -801,6 +796,11 @@
         <entry>asc_DownloadFile</entry>
         <entry>downloadClean</entry>
         <entry encoding="base64">XDxpc0RvY3VtZW50TW9kaWZpZWRcPg==</entry>
+        <entry>send</entry>
+        <entry>print</entry>
+        <entry>save</entry>
+        <entry>&quot;save&quot;</entry>
+        <entry>&quot;print&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>%s/emberLocalStorage/localStorage/g</entry>

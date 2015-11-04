@@ -24,12 +24,12 @@
         <mark key="." line="455" column="16" />
         <mark key="^" line="453" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/page-file-show.js" timestamp="1446604611268">
-        <mark key="'" line="57" column="21" />
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="53" />
-        <mark key="." line="5" column="53" />
-        <mark key="^" line="5" column="53" />
+      <file name="$USER_HOME$/projects/docq/app/components/page-file-show.js" timestamp="1446632283781">
+        <mark key="'" line="59" column="21" />
+        <mark key="[" line="60" column="55" />
+        <mark key="]" line="60" column="74" />
+        <mark key="." line="60" column="74" />
+        <mark key="^" line="60" column="74" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/models/user.js" timestamp="1443360599595">
         <mark key="'" line="21" column="16" />
@@ -735,10 +735,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deployment</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>deployment</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>asc_DownloadPDF</text>
@@ -747,31 +747,31 @@
         <text encoding="base64">ICAgIHRoaXMuYXNjX1ByaW50KHsKICAgICAgICBwZGZhY3Rpb246ICdkb3dubG9hZCcKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>deployment</text>
+        <text>A</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>l</text>
       </register>
       <register name="3" type="4">
-        <text>印</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>打</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>备</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>准</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>印</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>打</text>
+        <text>false</text>
       </register>
       <register name="9" type="4">
-        <text>备</text>
+        <text>deployment</text>
       </register>
       <register name=":" type="4">
         <text>%s/background-position-y:/background-position: 0/g</text>

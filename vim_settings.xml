@@ -310,6 +310,13 @@
         <mark key="." line="6239" column="27" />
         <mark key="^" line="6239" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/page-about.hbs" timestamp="1446795758125">
+        <mark key="'" line="23" column="11" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" timestamp="1443366450437">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="35" column="73" />
@@ -678,7 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1568" column="13" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="2876" column="16" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="2921" column="34" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
       <jump line="2922" column="35" filename="$USER_HOME$/projects/editor/sdk/Excel/api.js" />
@@ -778,13 +784,14 @@
       <jump line="4" column="56" filename="$USER_HOME$/projects/docq/app/components/page-itcz-login.js" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/docq/app/components/page-itcz-login.js" />
       <jump line="140" column="0" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
+      <jump line="23" column="11" filename="$USER_HOME$/projects/docq/app/templates/components/page-about.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>asc_DownloadPDF</text>
@@ -792,32 +799,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5zZW5kKCdkb0xvZ2luJywgZW1haWwsIHBhc3N3b3JkKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>}</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPHA+5Zyw5Z2A77ya5q2m5rGJ5biC5Lic5rmW5paw5oqA5pyv5byA5Y+R5Yy65YWJ6LC35paw6YO95rGHMeagizEwMDE8L3A+Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>{</text>
+        <text>c</text>
       </register>
       <register name="4" type="4">
-        <text>clientInfo</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>clientInfo</text>
+        <text>c</text>
       </register>
       <register name="6" type="4">
-        <text>clientInfo</text>
+        <text>o</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBncmFudF90eXBlOiAncGFzc3dvcmQnLAo=</text>
+      <register name="7" type="4">
+        <text>问</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>访</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfaWQ6IGFwcC5jb25maWcuY2xpZW50SWQsCiAgICAgICAgY2xpZW50X3NlY3JldDogYXBwLmNvbmZpZy5jbGllbnRTZWNyZXQK</text>
+      <register name="9" type="4">
+        <text>器</text>
       </register>
       <register name=":" type="4">
         <text>%s/background-position-y:/background-position: 0/g</text>

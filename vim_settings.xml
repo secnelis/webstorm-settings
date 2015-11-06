@@ -10,6 +10,12 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/docq/app/services/auth.js" timestamp="1446794997120">
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="36" />
+        <mark key="^" line="28" column="36" />
+        <mark key="." line="28" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1446603426791">
         <mark key="'" line="787" column="29" />
         <mark key="[" line="455" column="0" />
@@ -467,12 +473,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/page-itcz-login.js" timestamp="1446792642087">
+      <file name="$USER_HOME$/projects/docq/app/components/page-itcz-login.js" timestamp="1446794344265">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="4" column="56" />
-        <mark key="." line="4" column="56" />
-        <mark key="^" line="4" column="56" />
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1446604968021">
         <mark key="'" line="20" column="0" />
@@ -616,11 +622,11 @@
         <mark key="^" line="48" column="50" />
         <mark key="." line="48" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/itcz/login.hbs" timestamp="1446791757612">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="52" />
-        <mark key="^" line="0" column="34" />
+      <file name="$USER_HOME$/projects/docq/app/templates/itcz/login.hbs" timestamp="1446794324155">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/app.less" timestamp="1445335909663">
         <mark key="'" line="56" column="21" />
@@ -774,11 +780,11 @@
       <jump line="140" column="0" filename="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZW5kKCdkb0xvZ2luJywgZW1haWwsIHBhc3N3b3JkKQo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>asc_DownloadPDF</text>
@@ -786,32 +792,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5zZW5kKCdkb0xvZ2luJywgZW1haWwsIHBhc3N3b3JkKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHt7YXV0aENvZGV9fQo=</text>
+      <register name="3" type="4">
+        <text>{</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="4">
+        <text>clientInfo</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>clientInfo</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IEVtYmVy</text>
+        <text>clientInfo</text>
       </register>
-      <register name="7" type="4">
-        <text>authCode</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBncmFudF90eXBlOiAncGFzc3dvcmQnLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>authCode</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnRfaWQ6IGFwcC5jb25maWcuY2xpZW50SWQsCiAgICAgICAgY2xpZW50X3NlY3JldDogYXBwLmNvbmZpZy5jbGllbnRTZWNyZXQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/background-position-y:/background-position: 0/g</text>

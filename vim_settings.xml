@@ -10,13 +10,6 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" timestamp="1443163472290">
-        <mark key="'" line="42" column="2" />
-        <mark key="[" line="78" column="51" />
-        <mark key="]" line="78" column="63" />
-        <mark key="." line="78" column="63" />
-        <mark key="^" line="78" column="63" />
-      </file>
       <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1446603426791">
         <mark key="'" line="787" column="29" />
         <mark key="[" line="455" column="0" />
@@ -37,13 +30,6 @@
         <mark key="]" line="12" column="34" />
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/components/page-forgot-password.js" timestamp="1446531754351">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="14" column="54" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-admin.hbs" timestamp="1443363359664">
         <mark key="'" line="11" column="5" />
@@ -73,13 +59,6 @@
         <mark key="^" line="20" column="65" />
         <mark key="." line="20" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" timestamp="1445695312448">
-        <mark key="'" line="386" column="7" />
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="36" column="26" />
-        <mark key="." line="36" column="26" />
-        <mark key="^" line="36" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/loading.hbs" timestamp="1446790464668">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="45" />
@@ -97,33 +76,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1446604772025">
-        <mark key="'" line="54" column="9" />
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/modal-share.hbs" timestamp="1445342085084">
         <mark key="'" line="123" column="16" />
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="23" />
         <mark key="." line="20" column="23" />
         <mark key="^" line="20" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/components/side-nav-button.js" timestamp="1443357575488">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="78" column="25" />
-        <mark key="]" line="78" column="24" />
-        <mark key="." line="78" column="24" />
-        <mark key="^" line="78" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/components/base-component.js" timestamp="1444014797252">
-        <mark key="'" line="16" column="5" />
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/services/app.js" timestamp="1446103933855">
         <mark key="'" line="127" column="2" />
@@ -145,26 +103,6 @@
         <mark key="]" line="20" column="45" />
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1446521131703">
-        <mark key="'" line="234" column="0" />
-        <mark key="[" line="132" column="55" />
-        <mark key="]" line="132" column="60" />
-        <mark key="^" line="132" column="60" />
-        <mark key="." line="132" column="60" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-contact.hbs" timestamp="1446527123029">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="71" />
-        <mark key="^" line="18" column="71" />
-        <mark key="." line="18" column="71" />
-      </file>
-      <file name="$USER_HOME$/projects/docqvc/app/styles/components/home-breadcrumb.less" timestamp="1445695413628">
-        <mark key="'" line="86" column="10" />
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/modal-upload.js" timestamp="1443202542243">
         <mark key="'" line="11" column="0" />
@@ -208,26 +146,6 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" timestamp="1446104675763">
-        <mark key="'" line="17" column="88" />
-        <mark key="[" line="17" column="88" />
-        <mark key="]" line="17" column="88" />
-        <mark key="." line="17" column="94" />
-        <mark key="^" line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/components/user-contact-item.js" timestamp="1446520713427">
-        <mark key="[" line="46" column="27" />
-        <mark key="]" line="46" column="39" />
-        <mark key="." line="46" column="39" />
-        <mark key="^" line="46" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/page-file-show.hbs" timestamp="1446604959639">
-        <mark key="'" line="6" column="43" />
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="6" column="43" />
-        <mark key="^" line="6" column="117" />
-        <mark key="." line="6" column="43" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/home-side-nav.hbs" timestamp="1445913375305">
         <mark key="'" line="22" column="6" />
         <mark key="[" line="31" column="31" />
@@ -235,33 +153,12 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="24" column="106" />
       </file>
-      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1445598062193">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" timestamp="1445572148979">
-        <mark key="'" line="14" column="14" />
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="12" />
-        <mark key="^" line="14" column="12" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/admin-header.less" timestamp="1445571169965">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" timestamp="1445926444801">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="83" column="34" />
-        <mark key="]" line="83" column="57" />
-        <mark key="." line="83" column="57" />
-        <mark key="^" line="83" column="57" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/components/home-side-nav.less" timestamp="1443356910451">
         <mark key="'" line="39" column="24" />
@@ -276,19 +173,6 @@
         <mark key="]" line="31" column="5" />
         <mark key="^" line="4" column="60" />
         <mark key="." line="4" column="60" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/styles/components/file-viewer.less" timestamp="1446604791938">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/locales/zh/translations.js" timestamp="1446790834518">
-        <mark key="'" line="56" column="1" />
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="18" />
-        <mark key="." line="38" column="18" />
-        <mark key="^" line="38" column="18" />
       </file>
       <file name="$USER_HOME$/projects/editor/sdk/Excel/model/autofilters.js" timestamp="1444554981082">
         <mark key="'" line="836" column="107" />
@@ -324,20 +208,6 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="56" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1446604968021">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="13" column="26" />
-        <mark key="^" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/components/admin-header.js" timestamp="1443364208281">
-        <mark key="'" line="19" column="4" />
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="17" column="53" />
-        <mark key="^" line="17" column="53" />
-        <mark key="." line="17" column="53" />
-      </file>
       <file name="$USER_HOME$/projects/docqvc/app/styles/components/side-nav.less" timestamp="1445696345428">
         <mark key="'" line="63" column="16" />
         <mark key="[" line="63" column="15" />
@@ -366,19 +236,257 @@
         <mark key="." line="3741" column="74" />
         <mark key="^" line="3741" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-shared-files-mixin.js" timestamp="1445927321386">
-        <mark key="'" line="56" column="10" />
-        <mark key="[" line="49" column="72" />
-        <mark key="]" line="49" column="78" />
-        <mark key="." line="49" column="78" />
-        <mark key="^" line="49" column="78" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/components/user-profile.js" timestamp="1446104688354">
         <mark key="'" line="44" column="53" />
         <mark key="[" line="49" column="38" />
         <mark key="]" line="49" column="38" />
         <mark key="^" line="43" column="24" />
         <mark key="." line="49" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-trash-bin-mixin.js" timestamp="1445927360056">
+        <mark key="'" line="49" column="78" />
+        <mark key="[" line="58" column="19" />
+        <mark key="]" line="58" column="57" />
+        <mark key="." line="58" column="57" />
+        <mark key="^" line="58" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/page-reset-password.js" timestamp="1446532792864">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="53" />
+        <mark key="." line="12" column="53" />
+        <mark key="^" line="12" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/page-reset-password.hbs" timestamp="1446533174973">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="80" />
+        <mark key="." line="18" column="80" />
+        <mark key="^" line="18" column="80" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/page-admin.js" timestamp="1445572069939">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="45" column="41" />
+        <mark key="." line="45" column="41" />
+        <mark key="^" line="45" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/user-contacts.js" timestamp="1443166082947">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="53" />
+        <mark key="]" line="24" column="57" />
+        <mark key="." line="24" column="57" />
+        <mark key="^" line="24" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/modal-share.js" timestamp="1445342250478">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="34" column="35" />
+        <mark key="." line="34" column="35" />
+        <mark key="^" line="35" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/home-header.js" timestamp="1443355868769">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="36" column="34" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/page-register.hbs" timestamp="1446531584913">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1446630142439">
+        <mark key="'" line="6237" column="0" />
+        <mark key="[" line="2592" column="0" />
+        <mark key="]" line="2594" column="6" />
+        <mark key="." line="6239" column="27" />
+        <mark key="^" line="6239" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" timestamp="1443366450437">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="35" column="73" />
+        <mark key="]" line="35" column="74" />
+        <mark key="^" line="35" column="74" />
+        <mark key="." line="35" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/lang.js" timestamp="1446628009240">
+        <mark key="'" line="330" column="24" />
+        <mark key="[" line="129" column="46" />
+        <mark key="]" line="129" column="47" />
+        <mark key="." line="129" column="47" />
+        <mark key="^" line="129" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/user-contacts.hbs" timestamp="1446519359881">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="41" column="9" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+        <mark key="^" line="41" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1446629337119">
+        <mark key="'" line="419" column="17" />
+        <mark key="[" line="957" column="56" />
+        <mark key="]" line="957" column="58" />
+        <mark key="." line="957" column="58" />
+        <mark key="^" line="957" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/routes/itcz/login.js" timestamp="1446782553759">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/docqvc/app/templates/components/admin-user-manager.hbs" timestamp="1445695220003">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="10" column="110" />
+        <mark key="]" line="10" column="110" />
+        <mark key="^" line="10" column="110" />
+        <mark key="." line="10" column="110" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/home-side-nav-button.js" timestamp="1443163472290">
+        <mark key="'" line="42" column="2" />
+        <mark key="[" line="78" column="51" />
+        <mark key="]" line="78" column="63" />
+        <mark key="." line="78" column="63" />
+        <mark key="^" line="78" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/page-forgot-password.js" timestamp="1446531754351">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="14" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/docqvc/app/mixins/page-home-layout-mixin.js" timestamp="1445695312448">
+        <mark key="'" line="386" column="7" />
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="36" column="26" />
+        <mark key="^" line="36" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/office-viewer.js" timestamp="1446604772025">
+        <mark key="'" line="54" column="9" />
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/side-nav-button.js" timestamp="1443357575488">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="78" column="25" />
+        <mark key="]" line="78" column="24" />
+        <mark key="." line="78" column="24" />
+        <mark key="^" line="78" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/base-component.js" timestamp="1444014797252">
+        <mark key="'" line="16" column="5" />
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1446521131703">
+        <mark key="'" line="234" column="0" />
+        <mark key="[" line="132" column="55" />
+        <mark key="]" line="132" column="60" />
+        <mark key="^" line="132" column="60" />
+        <mark key="." line="132" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/modal-contact.hbs" timestamp="1446527123029">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="71" />
+        <mark key="^" line="18" column="71" />
+        <mark key="." line="18" column="71" />
+      </file>
+      <file name="$USER_HOME$/projects/docqvc/app/styles/components/home-breadcrumb.less" timestamp="1445695413628">
+        <mark key="'" line="86" column="10" />
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/user-profile.hbs" timestamp="1446104675763">
+        <mark key="'" line="17" column="88" />
+        <mark key="[" line="17" column="88" />
+        <mark key="]" line="17" column="88" />
+        <mark key="." line="17" column="94" />
+        <mark key="^" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/user-contact-item.js" timestamp="1446520713427">
+        <mark key="[" line="46" column="27" />
+        <mark key="]" line="46" column="39" />
+        <mark key="." line="46" column="39" />
+        <mark key="^" line="46" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/templates/components/page-file-show.hbs" timestamp="1446604959639">
+        <mark key="'" line="6" column="43" />
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="117" />
+        <mark key="." line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/ember-cli-build.js" timestamp="1445598062193">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/admin-user-manager.js" timestamp="1445572148979">
+        <mark key="'" line="14" column="14" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-received-files-mixin.js" timestamp="1445926444801">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="83" column="34" />
+        <mark key="]" line="83" column="57" />
+        <mark key="." line="83" column="57" />
+        <mark key="^" line="83" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/styles/components/file-viewer.less" timestamp="1446604791938">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/locales/zh/translations.js" timestamp="1446790834518">
+        <mark key="'" line="56" column="1" />
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/controllers/itcz/login.js" timestamp="1446791712194">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1446604968021">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/components/admin-header.js" timestamp="1443364208281">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="17" column="53" />
+        <mark key="^" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-my-shared-files-mixin.js" timestamp="1445927321386">
+        <mark key="'" line="56" column="10" />
+        <mark key="[" line="49" column="72" />
+        <mark key="]" line="49" column="78" />
+        <mark key="." line="49" column="78" />
+        <mark key="^" line="49" column="78" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/icons.less" timestamp="1446518621833">
         <mark key="'" line="0" column="0" />
@@ -401,26 +509,6 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/page-home-trash-bin-mixin.js" timestamp="1445927360056">
-        <mark key="'" line="49" column="78" />
-        <mark key="[" line="58" column="19" />
-        <mark key="]" line="58" column="57" />
-        <mark key="." line="58" column="57" />
-        <mark key="^" line="58" column="57" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/components/page-reset-password.js" timestamp="1446532792864">
-        <mark key="'" line="40" column="4" />
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="53" />
-        <mark key="." line="12" column="53" />
-        <mark key="^" line="12" column="53" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/page-reset-password.hbs" timestamp="1446533174973">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="80" />
-        <mark key="." line="18" column="80" />
-        <mark key="^" line="18" column="80" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/components/home-action-bar.js" timestamp="1445493228866">
         <mark key="'" line="48" column="37" />
         <mark key="[" line="24" column="0" />
@@ -442,32 +530,11 @@
         <mark key="." line="36" column="73" />
         <mark key="^" line="36" column="73" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/page-admin.js" timestamp="1445572069939">
-        <mark key="'" line="5" column="2" />
-        <mark key="[" line="44" column="26" />
-        <mark key="]" line="45" column="41" />
-        <mark key="." line="45" column="41" />
-        <mark key="^" line="45" column="41" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/file-show-header.hbs" timestamp="1446605059190">
         <mark key="'" line="81" column="34" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/components/user-contacts.js" timestamp="1443166082947">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="53" />
-        <mark key="]" line="24" column="57" />
-        <mark key="." line="24" column="57" />
-        <mark key="^" line="24" column="57" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/components/modal-share.js" timestamp="1445342250478">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="34" column="35" />
-        <mark key="]" line="34" column="35" />
-        <mark key="." line="34" column="35" />
-        <mark key="^" line="35" column="66" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/recent-file-dropdown-item.js" timestamp="1443165246689">
         <mark key="'" line="0" column="0" />
@@ -475,13 +542,6 @@
         <mark key="]" line="30" column="59" />
         <mark key="." line="30" column="59" />
         <mark key="^" line="30" column="59" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/components/home-header.js" timestamp="1443355868769">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="36" column="34" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/docq/deploy-type" timestamp="1442994113924">
         <mark key="'" line="7" column="0" />
@@ -496,12 +556,6 @@
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/page-register.hbs" timestamp="1446531584913">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/modal-feedback.hbs" timestamp="1446526067103">
         <mark key="'" line="0" column="0" />
@@ -535,20 +589,6 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Word/api.js" timestamp="1446630142439">
-        <mark key="'" line="6237" column="0" />
-        <mark key="[" line="2592" column="0" />
-        <mark key="]" line="2594" column="6" />
-        <mark key="." line="6239" column="27" />
-        <mark key="^" line="6239" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/admin-user-manager.hbs" timestamp="1443366450437">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="35" column="73" />
-        <mark key="]" line="35" column="74" />
-        <mark key="^" line="35" column="74" />
-        <mark key="." line="35" column="74" />
-      </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/admin-header.hbs" timestamp="1446089828648">
         <mark key="'" line="0" column="89" />
         <mark key="[" line="4" column="87" />
@@ -570,25 +610,11 @@
         <mark key="^" line="48" column="50" />
         <mark key="." line="48" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/editor/apps/spreadsheeteditor/main/lang.js" timestamp="1446628009240">
-        <mark key="'" line="330" column="24" />
-        <mark key="[" line="129" column="46" />
-        <mark key="]" line="129" column="47" />
-        <mark key="." line="129" column="47" />
-        <mark key="^" line="129" column="47" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/itcz/login.hbs" timestamp="1446782574018">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/user-contacts.hbs" timestamp="1446519359881">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="41" column="9" />
-        <mark key="]" line="41" column="29" />
-        <mark key="." line="41" column="29" />
-        <mark key="^" line="41" column="29" />
+      <file name="$USER_HOME$/projects/docq/app/templates/itcz/login.hbs" timestamp="1446791757612">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="52" />
+        <mark key="^" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/styles/app.less" timestamp="1445335909663">
         <mark key="'" line="56" column="21" />
@@ -603,19 +629,6 @@
         <mark key="]" line="17" column="45" />
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
-      </file>
-      <file name="$USER_HOME$/projects/editor/sdk/Excel/api.js" timestamp="1446629337119">
-        <mark key="'" line="419" column="17" />
-        <mark key="[" line="957" column="56" />
-        <mark key="]" line="957" column="58" />
-        <mark key="." line="957" column="58" />
-        <mark key="^" line="957" column="58" />
-      </file>
-      <file name="$USER_HOME$/projects/docq/app/routes/itcz/login.js" timestamp="1446782553759">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/templates/components/page-index.hbs" timestamp="1446533297977">
         <mark key="'" line="109" column="0" />
@@ -637,13 +650,6 @@
         <mark key="]" line="46" column="40" />
         <mark key="." line="46" column="40" />
         <mark key="^" line="46" column="40" />
-      </file>
-      <file name="$USER_HOME$/projects/docqvc/app/templates/components/admin-user-manager.hbs" timestamp="1445695220003">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="10" column="110" />
-        <mark key="]" line="10" column="110" />
-        <mark key="^" line="10" column="110" />
-        <mark key="." line="10" column="110" />
       </file>
       <file name="$USER_HOME$/projects/editor/sdk/Excel/view/WorksheetView.js" timestamp="1444554236780">
         <mark key="'" line="3720" column="12" />
@@ -763,10 +769,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>authCode</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>authCode</text>
       </register>
       <register name="/" type="4">
         <text>asc_DownloadPDF</text>
@@ -775,31 +781,31 @@
         <text encoding="base64">ICAgIGxvZ2luaW5nX3dhaXQ6ICfmraPlnKjnmbvlvZXvvIzor7fnqI3lgJknCg==</text>
       </register>
       <register name="1" type="4">
-        <text>g</text>
+        <text>authCode</text>
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>authCode</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>]</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>[</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
-      </register>
-      <register name="6" type="4">
         <text>g</text>
       </register>
+      <register name="6" type="4">
+        <text>n</text>
+      </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text>logining_wait</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>%s/background-position-y:/background-position: 0/g</text>

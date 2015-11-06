@@ -265,7 +265,7 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/templates/components/page-login.hbs" timestamp="1446531263402">
+      <file name="$USER_HOME$/projects/docq/app/templates/components/page-login.hbs" timestamp="1446782171155">
         <mark key="'" line="25" column="17" />
         <mark key="[" line="4" column="41" />
         <mark key="]" line="4" column="60" />
@@ -636,7 +636,6 @@
       <jump line="97" column="0" filename="$USER_HOME$/projects/docq/app/locales/en/translations.js" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/docq/app/templates/components/page-login.hbs" />
       <jump line="20" column="82" filename="$USER_HOME$/projects/docq/app/templates/components/page-login.hbs" />
-      <jump line="25" column="17" filename="$USER_HOME$/projects/docq/app/templates/components/page-login.hbs" />
       <jump line="107" column="0" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
       <jump line="55" column="1" filename="$USER_HOME$/projects/docq/app/locales/zh/translations.js" />
       <jump line="40" column="4" filename="$USER_HOME$/projects/docq/app/components/page-reset-password.js" />
@@ -732,6 +731,7 @@
       <jump line="3746" column="4" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
       <jump line="1066" column="14" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
       <jump line="980" column="4" filename="$USER_HOME$/projects/editor/sdk/PowerPoint/api.js" />
+      <jump line="25" column="17" filename="$USER_HOME$/projects/docq/app/templates/components/page-login.hbs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

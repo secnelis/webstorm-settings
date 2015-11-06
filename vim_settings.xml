@@ -10,11 +10,11 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/services/auth.js" timestamp="1446794997120">
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="36" />
-        <mark key="^" line="28" column="36" />
-        <mark key="." line="28" column="36" />
+      <file name="$USER_HOME$/projects/docq/app/services/auth.js" timestamp="1446796823571">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="21" column="51" />
+        <mark key="^" line="21" column="51" />
+        <mark key="." line="21" column="51" />
       </file>
       <file name="$USER_HOME$/projects/editor/sdk/Common/docscoapi.js" timestamp="1446603426791">
         <mark key="'" line="787" column="29" />
@@ -400,10 +400,10 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1446792657495">
+      <file name="$USER_HOME$/projects/docq/app/mixins/account-actions-mixin.js" timestamp="1446796391788">
         <mark key="'" line="140" column="0" />
-        <mark key="[" line="132" column="55" />
-        <mark key="]" line="132" column="60" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="43" column="7" />
         <mark key="^" line="132" column="60" />
         <mark key="." line="132" column="60" />
       </file>
@@ -474,18 +474,17 @@
         <mark key="." line="38" column="18" />
         <mark key="^" line="38" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/controllers/itcz/login.js" timestamp="1446791712194">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="6" column="3" />
+      <file name="$USER_HOME$/projects/docq/app/controllers/itcz/login.js" timestamp="1446796883179">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/docq/app/components/page-itcz-login.js" timestamp="1446794344265">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="24" />
+      <file name="$USER_HOME$/projects/docq/app/components/page-itcz-login.js" timestamp="1446796702055">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/projects/docq/app/components/file-show-header.js" timestamp="1446604968021">
         <mark key="'" line="20" column="0" />
@@ -787,44 +786,44 @@
       <jump line="23" column="11" filename="$USER_HOME$/projects/docq/app/templates/components/page-about.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>C</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>asc_DownloadPDF</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZW5kKCdkb0xvZ2luJywgZW1haWwsIHBhc3N3b3JkKQo=</text>
+        <text encoding="base64">ICAgICAgc2VsZi5zZW5kKCdnb1RvUm91dGUnLCAnaG9tZScpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>C</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHA+5Zyw5Z2A77ya5q2m5rGJ5biC5Lic5rmW5paw5oqA5pyv5byA5Y+R5Yy65YWJ6LC35paw6YO95rGHMeagizEwMDE8L3A+Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>c</text>
-      </register>
-      <register name="4" type="4">
+      <register name="2" type="4">
         <text>o</text>
       </register>
+      <register name="3" type="4">
+        <text>d</text>
+      </register>
+      <register name="4" type="4">
+        <text>e</text>
+      </register>
       <register name="5" type="4">
-        <text>c</text>
+        <text>C</text>
       </register>
       <register name="6" type="4">
         <text>o</text>
       </register>
       <register name="7" type="4">
-        <text>问</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>访</text>
+        <text>e</text>
       </register>
-      <register name="9" type="4">
-        <text>器</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQocmVzcG9uc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/background-position-y:/background-position: 0/g</text>
